@@ -1,0 +1,866 @@
+[
+    {
+        "name": "Presenting Issue",
+        "key": "presentingIssue",
+        "child": [
+            {
+                "name": "note",
+                "key": "note",
+                "for": "inline-notes",
+                "default_value": "/latest-PI",
+                "textArea": true,
+                "type": "checkbox",
+                "placeholder": "Add your notes here"
+            }
+        ]
+    },
+    {
+        "name": "Emotional",
+        "key": "emotional",               
+        "child": [
+            {
+                "name": "Goal: Improved Emotional Regulation",
+                "key": "improvedEmotionalRegulation",
+                "type": "checkbox",
+                "intervention": true,
+                "for": "normal",                
+                "child": [
+                    [
+                        {
+                            "name": "Objective: Appropriate coping skills",
+                            "key": "appropriateCopingSkills",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "normal"
+                        },                        
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "addnew"
+                        }
+                    ]
+                ]
+            },
+            {
+                "name": "Goal: Improved Emotional Expression",
+                "key": "improvedEmotionalExpression",
+                "type": "checkbox",
+                "intervention": true,
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "Objective: Appropriate emotional expression skills",
+                            "key": "appropriateEmotionalExpressionSkills",
+                            "measurementAndEvidenced": true,
+                            "for": "normal",                        
+                            "type": "checkbox"
+                        },                        
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "addnew"
+                        }
+                    ]
+                ]                
+            },
+            {
+                "name": "Goal: Reduced Anxiety",
+                "key": "ReducedAnxiety",
+                "type": "checkbox",
+                "intervention": true,
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "Objective: Improved mood",
+                            "key": "improvedMood",
+                            "for": "normal",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true
+                        },
+                        {
+                            "name": "Objective: Reduced Panic Attacks",
+                            "key": "reducedPanicAttacks",
+                            "for": "normal",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true
+                        },
+                        {
+                            "name": "Objective: Improved Eating",
+                            "key": "improvedEating",
+                            "for": "normal",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true
+                        },
+                        {
+                            "name": "Objective: Improved Sleeping",
+                            "key": "improvedSleeping",
+                            "for": "normal",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true
+                        },
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "addnew"
+                        }
+                    ]
+                ]               
+            },
+            {
+                "name": "Goal: Reduced Depression",
+                "key": "reducedDepression",
+                "type": "checkbox",
+                "intervention": true,
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "Objective: Improved mood",
+                            "key": "improvedMood",
+                            "for": "normal",
+                            "measurementAndEvidenced": true,
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "Objective: Improved eating",
+                            "key": "improvedEating",
+                            "for": "normal",
+                            "measurementAndEvidenced": true,
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "Objective: Appropriate Sleeping Patterns",
+                            "key": "appropriateSleepingPatterns",
+                            "for": "normal",
+                            "measurementAndEvidenced": true,
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "Objective: Reduction in Crying Spells",
+                            "key": "reductionInCryingSpells",
+                            "for": "normal",
+                            "measurementAndEvidenced": true,
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "addnew"
+                        }
+                    ]
+                ]               
+            },
+            {
+                "name": "Goal: Greater feeling of well-being",
+                "key": "greaterFeelingOfWellBeing",
+                "type": "checkbox",
+                "intervention": true,
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "Objective: greater feeling of well-being",
+                            "key": "greaterFeelingOfWellBeing",
+                            "for": "normal",
+                            "measurementAndEvidenced": true,
+                            "type": "checkbox"
+                        },                        
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "measurementAndEvidenced": true,
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ]
+                ]               
+            }
+        ]
+    },{
+        "name": "Behavioral",
+        "key": "behavioral",        
+        "child": [
+            {
+                "name": "Goal: Reduced Aggression",
+                "key": "reducedAggression",
+                "type": "checkbox", 
+                "intervention": true,               
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "Objective: appropriate behaviors relating to anger",
+                            "key": "appropriateBehaviorsRelatingToAnger",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "normal"
+                        },                        
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "addnew"
+                        }
+                    ]
+                ]               
+            },
+            {
+                "name": "Goal: Understanding triggers",
+                "key": "understandingTriggers",
+                "type": "checkbox",
+                "intervention": true,
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "Objective: identifying triggers",
+                            "key": "identifyingTriggers",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "normal"
+                        },                        
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "addnew"
+                        }
+                    ]
+                ]               
+            },
+            {
+                "name": "Goal: Behaviors",
+                "key": "behaviors",
+                "intervention": true,
+                "type": "checkbox",
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "Objective: improved behaviors",
+                            "key": "improvedBehaviors",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "normal"
+                        },                        
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "measurementAndEvidenced": true,
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ]
+                ]               
+            }
+        ]
+    },
+    {
+        "name": "Cognitive",
+        "key": "cognitive",        
+        "child": [
+            {
+                "name": "Goal: Improved levels of rational thinking",
+                "key": "improvedLevelsOfRationalThinking",
+                "type": "checkbox",
+                "intervention": true,
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "Objective: make rational decisions",
+                            "key": "makeRationalDecisions",
+                            "measurementAndEvidenced": true,
+                            "type": "checkbox",
+                            "for": "normal"
+                        },                        
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "measurementAndEvidenced": true,
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ]
+                ]               
+            },
+            {
+                "name": "Goal: Lower levels of irrational/phobic thinking",
+                "key": "lowerLevelsOfIrrationalPhobicThinking",
+                "type": "checkbox",
+                "intervention": true,
+                "for": "normal",
+                "child": [
+                    [                                               
+                        {
+                            "name": "Objective: improved rational thinking as it relates to phobia",
+                            "key": "improvedRationalThinkingAsItRelatesToPhobia",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "normal"
+                        },                        
+                        {
+                            "name": "Objective: less avoidant behaviors",
+                            "key": "lessAvoidantBehaviors",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "normal"
+                        },                        
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "measurementAndEvidenced": true,
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ]
+                ]               
+            }            
+        ]
+    },
+    {
+        "name": "Adjustment/Trauma",
+        "key": "adjustmentTrauma",    
+        "child": [
+            {
+                "name": "Goal: Processing Trauma",
+                "key": "processingTrauma",
+                "type": "checkbox",
+                "intervention": true,
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "Objective: lowered negative response to traumatic stimuli",
+                            "key": "loweredNegativeResponseToTraumaticStimuli",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "normal"
+                        },                        
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "addnew"
+                        }
+                    ]
+                ]               
+            },
+            {
+                "name": "Goal: Processing Adjustment",
+                "key": "ProcessingAdjustment",
+                "type": "checkbox",
+                "intervention": true,
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "Objective: improved response to adjustment",
+                            "key": "improvedResponseToAdjustment",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "normal"
+                        },                                                                       
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "measurementAndEvidenced": true,
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ]
+                ]               
+            }        
+        ]
+    },
+    {
+        "name": "Social",
+        "key": "social",        
+        "child": [
+            {
+                "name": "Goal: Communication",
+                "key": "communication",
+                "type": "checkbox",
+                "intervention": true,
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "Objective: appropriate communication skills",
+                            "key": "appropriateCommunicationSkills",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "normal"
+                        },                        
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "measurementAndEvidenced": true,
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ]
+                ]               
+            },
+            {
+                "name": "Goal: Interactions",
+                "key": "interactions",
+                "type": "checkbox",
+                "intervention": true,
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "Objective: appropriate Interactions skills",
+                            "key": "appropriateInteractionsSkills",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "normal"
+                        },                                                                       
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "addnew"
+                        }
+                    ]
+                ]               
+            },      
+            {
+                "name": "Goal: Reduced isolation",
+                "key": "reducedIsolation",
+                "type": "checkbox",
+                "intervention": true,
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "Objective: appropriate interactions",
+                            "key": "appropriateInteractions",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "normal"
+                        },                                                                       
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "addnew"
+                        }
+                    ]
+                ]               
+            },       
+            {
+                "name": "Goal: Assertiveness",
+                "key": "assertiveness",
+                "type": "checkbox",
+                "intervention": true,
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "Objective: appropriate assertiveness skills",
+                            "key": "appropriateAssertivenessSkills",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "normal"
+                        },                                                                       
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "addnew"
+                        }
+                    ]
+                ]               
+            },       
+            {
+                "name": "Goal: Boundaries",
+                "key": "boundaries",
+                "type": "checkbox",
+                "intervention": true,
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "Objective: healthy boundaries",
+                            "key": "healthyBoundaries",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "normal"
+                        },                                                                       
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "addnew"
+                        }
+                    ]
+                ]               
+            }        
+        ]
+    },
+    {
+        "name": "Identity",
+        "key": "identity",        
+        "child": [
+            {
+                "name": "Goal: Self-esteem",
+                "key": "selfEsteem",
+                "type": "checkbox",
+                "for": "normal",
+                "intervention": true,
+                "child": [
+                    [
+                        {
+                            "name": "Objective: improved self-talk",
+                            "key": "improvedSelfTalk",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "normal"
+                        },                        
+                        {
+                            "name": "Objective: improved self-image",
+                            "key": "improvedSelfImage",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "normal"
+                        },                        
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "addnew"
+                        }
+                    ]
+                ]               
+            },
+            {
+                "name": "Goal: Improved self-image relating to body",
+                "key": "improvedSelfImageRelatingToBody",
+                "type": "checkbox",
+                "intervention": true,
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "Objective: Improved appropriate eating patterns",
+                            "key": "improvedAppropriateEatingPatterns",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "normal"
+                        },                                                                       
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "addnew"
+                        }
+                    ]
+                ]               
+            },      
+            {
+                "name": "Goal: Identity",
+                "key": "identity",
+                "type": "checkbox",
+                "intervention": true,
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "Objective: improved understanding of self",
+                            "key": "improvedUnderstandingOfSelf",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "normal"
+                        },                                                                       
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "addnew"
+                        }
+                    ]
+                ]               
+            }       
+        ]
+    },
+    {
+        "name": "ADL’s",
+        "key": "adls",        
+        "child": [
+            {
+                "name": "Goal: Activities of daily living",
+                "key": "activitiesOfDailyLiving",
+                "type": "checkbox",
+                "intervention": true,
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "Objective: Improved eating",
+                            "key": "improvedEating",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "normal"
+                        },                        
+                        {
+                            "name": "Objective: Improved hygiene",
+                            "key": "improvedHygiene",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "normal"
+                        },                        
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "measurementAndEvidenced": true,
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ]
+                ]               
+            }      
+        ]
+    },
+    {
+        "name": "Safety",
+        "key": "safety",        
+        "child": [
+            {
+                "name": "Goal: Cease self-harming",
+                "key": "ceaseSelfHarming",
+                "type": "checkbox",
+                "intervention": true,
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "Objective: cessation of self-harming",
+                            "key": "cessationOfSelfHarming",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "normal"
+                        },                        
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "measurementAndEvidenced": true,
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ]
+                ]               
+            },     
+            {
+                "name": "Goal: Cease suicidal ideations",
+                "key": "ceaseSuicidalIdeations",
+                "type": "checkbox",
+                "intervention": true,
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "Objective: cessation in suicidal ideations",
+                            "key": "cessationInSuicidalIdeations",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "normal"
+                        },                        
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "addnew"
+                        }
+                    ]
+                ]               
+            }      
+        ]
+    },
+    {
+        "name": "Other",
+        "key": "other",        
+        "child": [
+            {
+                "name": "Goal: Improved self-awareness",
+                "key": "improvedSelfAwareness",
+                "type": "checkbox",
+                "intervention": true,
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "Objective: Improved self-awareness",
+                            "key": "improvedSelfAwareness",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "normal"
+                        },                        
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "measurementAndEvidenced": true,
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ]
+                ]               
+            },     
+            {
+                "name": "Goal: Improved insight",
+                "key": "improvedInsight",
+                "type": "checkbox",
+                "intervention": true,
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "Objective: Improved insight",
+                            "key": "improvedInsight",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "normal"
+                        },                        
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "measurementAndEvidenced": true,
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ]
+                ]               
+            },     
+            {
+                "name": "Goal: Improved self-care",
+                "key": "improvedSelfCare",
+                "type": "checkbox",
+                "intervention": true,
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "Objective: higher use of self-care",
+                            "key": "higherUseOfSelfCare",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "normal"
+                        },                        
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "addnew"
+                        }
+                    ]
+                ]               
+            },     
+            {
+                "name": "Goal: Cessation of dissociative symptoms",
+                "key": "reducingDissociativeSymptoms",
+                "type": "checkbox",
+                "intervention": true,
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "Objective: reporting no dissociative symptoms",
+                            "key": "reportingNoDissociativeSymptoms",
+                            "type": "checkbox",
+                            "measurementAndEvidenced": true,
+                            "for": "normal"
+                        },                        
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "measurementAndEvidenced": true,
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ]
+                ]               
+            }      
+        ]
+    },
+    {        
+            "name": "Add New",
+            "key": "treammentPlanAddNew",                          
+            "child": [
+                {
+                    "name": "addNewButton",
+                    "key": "treatmentPlanAddNewItem",
+                    "type": "text",
+                    "for": "addNew_notes"                                           
+                }
+            ]
+    },
+    {
+        "name": "Session Frequency",
+        "key": "sessionFrequency",
+        "child": [
+            {
+                "name": "As needed",
+                "key": "asNeeded",
+                "type": "radio",
+                "for": "normal"
+            },{
+                "name": "Weekly",
+                "key": "weekly",
+                "type": "radio",
+                "for": "normal"
+            },{
+                "name": "Every 2 weeks",
+                "key": "every2Weeks",
+                "type": "radio",
+                "for": "normal"
+            },{
+                "name": "Every 3 weeks",
+                "key": "every3Weeks",
+                "type": "radio",
+                "for": "normal"
+            },{
+                "name": "Every 4 weeks",
+                "key": "every4Weeks",
+                "type": "radio",
+                "for": "normal"
+            },{
+                "name": "Other",
+                "key": "other",
+                "type": "radio",
+                "child": [
+                    [
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "radio",
+                            "for": "addnew"
+                        }
+                    ]
+                ]
+            }
+        ]
+    }
+]

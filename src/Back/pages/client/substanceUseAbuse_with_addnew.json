@@ -1,0 +1,61 @@
+[
+    [
+        {
+            "name": "occasional",
+            "key": "occasional",
+            "for": "normal",
+            "type": "radio"
+        },
+        {
+            "name": "frequent",
+            "key": "frequent",
+            "for": "normal",
+            "type": "radio"
+        },
+        {
+            "name": "regular",
+            "key": "regular",
+            "for": "normal",
+            "type": "radio"
+        },
+        {
+            "name": "former",
+            "key": "former",
+            "for": "normal",
+            "type": "radio"
+        },
+        {
+            "name": "add new",
+            "key": "add-new",
+            "type": "radio",
+            "for": "addnew"
+        }
+    ],
+    [
+        {
+            "name": "Used from",
+            "key": "UsedFrom",
+            "for": "inline-notes",
+            "same_name": "UsedFrom",
+            "with_checkbox": true,
+            "type": "radio",
+            "start_text": "Used from"
+        },
+        {
+            "name": "to",
+            "key": "to",
+            "for": "inline-notes",
+            "type": "text",
+            "start_text": "to"
+        },
+        {
+            "name": "beginning",
+            "key": "beginning",
+            "for": "inline-notes",
+            "same_name": "UsedFrom",
+            "with_checkbox": true,
+            "type": "radio",
+            "start_text": "beginning"
+        }
+    ]
+]

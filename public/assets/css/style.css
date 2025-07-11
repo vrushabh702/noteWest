@@ -1,0 +1,532 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.fw-bolder {
+    font-weight: 600 !important;
+}
+
+body,
+p,
+a,
+.text-muted {
+    font-weight: 400 !important;
+}
+
+.menu .menu-link .menu-title {
+    font-weight: 700 !important;
+}
+
+.menu-title-gray-500 .menu-item .menu-link,
+.text-grey,
+.text-muted {
+    color: #808080 !important;
+}
+
+.landing-header .menu .menu-link.active,
+.landing-header .menu .menu-link:hover {
+    color: #017EAD !important;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.text-right {
+    text-align: right !important;
+}
+
+[data-kt-sticky-landing-header=on] .landing-header {
+    background-color: white !important;
+}
+
+[data-kt-sticky-landing-header=on] .landing-header .menu .menu-link.active {
+    background-color: unset;
+}
+
+[data-kt-sticky-aside=on] #kt_aside {
+    position: relative !important;
+}
+
+body:not([data-kt-sticky-header=on]) .topbar .btn.btn-icon .svg-icon svg [fill]:not(.permanent):not(g) {
+    fill: #017EAD;
+}
+
+body:not([data-kt-sticky-header=on]) .topbar .btn.btn-icon:hover:not(.btn-active) .svg-icon svg [fill]:not(.permanent):not(g) {
+    fill: #808080;
+}
+
+.aside-menu .hover-scroll-overlay-y {
+    height: auto !important;
+}
+
+.headerLogo,
+.logo-sticky {
+    max-width: 200px;
+    height: 60px !important;
+}
+
+.landing-header {
+    background: white !important;
+    margin-bottom: 25px;
+}
+
+.noBg .landing-header {
+    margin-bottom: 40px;
+}
+
+.landing-dark-bg {
+    background-color: #017EAD;
+}
+
+.landing-dark-color {
+    color: #017EAD;
+}
+
+.spacing {
+    padding: 20px;
+}
+
+.text-dark {
+    color: #808080!important;
+}
+
+.loginButton {
+    background-color: #808080 !important;
+    color: white !important;
+}
+
+.text-primary {
+    color: #017EAD!important;
+}
+
+.paddingZero {
+    padding: 0px !important;
+}
+
+
+/*.btn:hover{transform: scale(1.2);transition: transform 1.5s ease;}*/
+
+.customBg.bgi-size-contain {
+    background-size: cover !important;
+}
+
+
+/*Header*/
+
+.header .header-menu .menu>.menu-item>.menu-link .menu-title {
+    color: #017EAD !important;
+}
+
+
+/* End */
+
+.noBg {
+    background-image: unset !important;
+    background-color: white !important;
+}
+
+.svg-icon.svg-icon-success svg [fill]:not(.permanent):not(g) {
+    fill: #808080 !important;
+}
+
+.btn_blue {
+    background-color: #017EAD !important;
+    border-color: #017EAD !important;
+}
+
+.about_style11 {
+    padding-top: 118px;
+    padding-bottom: 110px;
+    background-color: white;
+}
+
+.about_style11 .about_text span {
+    font-size: 14px;
+    color: #017EAD;
+    font-weight: 600;
+    display: inline-block;
+    padding-bottom: 20px;
+}
+
+.about_style11 .about_text h2 {
+    color: #808080;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 48px;
+    position: relative;
+}
+
+.about_style11 .about_text h2:after {
+    content: '';
+    background-color: #017EAD;
+    width: 50px;
+    height: 2px;
+    position: absolute;
+    bottom: -15px;
+    left: 0;
+}
+
+.about_style11 .about_text p {
+    color: #808080;
+    font-size: 16px;
+    font-weight: 400;
+    display: inline-block;
+    padding-top: 35px;
+    padding-bottom: 50px;
+}
+
+.about_style11 .about_text p::first-child {
+    padding-bottom: 0px;
+}
+
+.features_list ul li {
+    color: #808080;
+    font-size: 16px;
+    font-weight: 500;
+    padding-bottom: 20px;
+    padding-left: 25px;
+    position: relative;
+}
+
+.features_list ul {
+    padding: 0px
+}
+
+.features_list ul li {
+    list-style: none;
+}
+
+.features_list ul li:before {
+    content: "\f061";
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    position: absolute;
+    color: #e94d31;
+    font-size: 12px;
+    left: 0;
+    top: 4px;
+}
+
+.contact_info {
+    padding-top: 115px;
+    padding-bottom: 100px;
+}
+
+.contact_img img {
+    width: 100%;
+}
+
+.contact_info .heding span {
+    font-weight: 600;
+    font-size: 14px;
+    color: #017EAD;
+}
+
+.contact_info .heding h2 {
+    font-weight: 600;
+    font-size: 48px;
+    color: #808080;
+    position: relative;
+    line-height: 48px;
+}
+
+.contact_info .heding h2:after {
+    position: absolute;
+    content: '';
+    width: 50px;
+    height: 2px;
+    background-color: #017EAD;
+    bottom: -25px;
+    left: 0;
+}
+
+.contact_info .heding p {
+    font-size: 16px;
+    margin-top: 65px;
+    font-weight: 400;
+    color: #808080;
+}
+
+.contact_details form {
+    margin-top: 35px;
+}
+
+.contact_details form input,
+select {
+    width: 100%;
+    padding: 20px 20px;
+    margin-bottom: 20px;
+    outline: none;
+}
+
+.contact_details textarea {
+    width: 100%;
+    padding: 20px;
+}
+
+.contact_details form input[type='button'] {
+    width: unset;
+    background-color: #017EAD;
+    color: #fff;
+    text-transform: uppercase;
+    border: none;
+    padding: 20px 40px;
+    margin-top: 30px;
+    border-radius: 2px;
+}
+
+.phon_info {
+    text-align: center;
+    border: 2px dashed #ddecff;
+    padding: 40px 0;
+    margin-top: 50px;
+    border-radius: 40px;
+    background-color: white;
+}
+
+.phon_info p {
+    font-weight: 400;
+    font-size: 18px;
+    color: #808080;
+    margin-bottom: 25px;
+}
+
+.phon_info .c_phone {
+    font-weight: 600;
+    font-size: 24px;
+    color: #808080;
+    position: relative;
+    display: inline-block;
+}
+
+.phon_info .c_email {
+    font-weight: 500;
+    font-size: 20px;
+    color: #808080;
+    display: inline-block;
+    margin-left: 30px;
+}
+
+.emergency {
+    background: linear-gradient(90deg, #505050 0%, #808080 100%) !important;
+    max-width: 70%;
+    margin: 0 auto;
+    z-index: 200;
+    margin-bottom: -8.25rem !important;
+}
+
+.more_about hr {
+    color: white;
+    margin-bottom: 22px;
+}
+
+.more_about ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.more_about ul li i {
+    margin-right: 5px;
+    font-size: 18px !important;
+}
+
+.footerBottom {
+    background-color: white;
+}
+
+.footerLogo {
+    max-width: 200px;
+    height: 100% !important;
+}
+
+.landing-dark-separator {
+    border-top: 1px dashed #017EAD !important;
+}
+
+.scrolltop {
+    background-color: #017EAD !important;
+}
+
+.link-primary:focus,
+.link-primary:hover,
+.link-primary {
+    color: #017EAD;
+}
+
+.btn.btn-primary {
+    background-color: #017EAD !important;
+    color: white !important;
+}
+
+.rgForm {
+    width: 800px !important;
+}
+
+#register_form select {
+    padding: 13px 20px;
+    margin-bottom: 0px;
+}
+
+#register_form .tandc {
+    max-height: 150px;
+    overflow: hidden;
+    overflow-y: scroll;
+    padding: 10px;
+}
+
+.customCheckValue {
+    margin-bottom: 0 !important;
+    padding: 0px 10px;
+}
+
+.rightButtonCustom button {
+    min-width: 230px;
+}
+
+.btn.btn-active-dark.active {
+    background-color: #808080 !important;
+}
+
+.overviewUnset {
+    overflow: unset !important;
+}
+
+.width-100 {
+    width: 100%;
+}
+
+.noteSubitem {
+    padding: 0px 0px 0px 30px;
+}
+
+.customUl ul {
+    list-style: none;
+    margin-top: 0.75rem;
+}
+
+.customUl ul li {
+    margin-bottom: 10px;
+}
+
+.customUl ul li input[type="text"] {
+    max-width: 200px;
+    padding: 0.45rem 1rem;
+}
+
+.customUl ul.label {
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.customUl ul.label li {
+    margin-bottom: 0px;
+}
+
+.customUl ul.label label {
+    margin-bottom: 0px;
+}
+
+.customUl ul:first-child {
+    padding: 0px;
+    margin: 0px;
+}
+
+.accordion-button {
+    padding: 1rem 1rem;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: #017EAD;
+}
+
+.accordion-button {
+    background-color: #808080;
+}
+
+.accordion-button:not(.collapsed) label,
+.accordion-button .label label {
+    color: white !important;
+}
+
+.text-normal {
+    font-weight: 400;
+}
+
+.customWidthTd {
+    width: 150px;
+}
+
+.card {
+    height: auto !important;
+}
+
+.currency {
+    font-size: 35px;
+}
+
+.showHeaderProfileModal {
+    z-index: 105;
+    position: fixed;
+    inset: 0px 0px auto auto;
+    margin: 0px;
+    transform: translate(-20px, 60px);
+}
+
+.long-text-dot-filter {
+    width: 100%;
+    text-align: center;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+span.delete-btn {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    background: red;
+    cursor: pointer;
+    padding: 5px 10px;
+    font-weight: bolder;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+span.delete-btn i {
+    color: white;
+}
+
+.table-200-width {
+    width: 200px;
+}
+
+.c-pointer {
+    cursor: pointer;
+}
+
+div.reactour__popover {
+    padding: 45px 30px !important;
+}
+
+div.reactour__popover button[aria-label="Close Tour"]{
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    width: 15px;
+    height: 25px;
+}
+.boldFont {
+    font-weight:  bold !important;
+}
+.note-delete {
+    text-align: left;
+    color: #f1416c;
+}
+
+.red-text {
+    color: #e94d31;
+}

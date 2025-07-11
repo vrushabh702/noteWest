@@ -1,0 +1,241 @@
+[
+    [
+        {
+            "name": "Objective measures",
+            "key": "measurementTools",
+            "type": "checkbox",
+            "for": "normal",
+            "child": [
+                [
+                    {
+                        "name": "frequency",
+                        "key": "repeat",
+                        "type": "radio",
+                        "for": "normal",
+                        "same_name": "measurementTools_repeat&repeatation",
+                        "child": [
+                            [
+                                {
+                                    "name": "occasions",
+                                    "key": "occasions",
+                                    "type": "radio",
+                                    "for": "normal"
+                                },
+                                {
+                                    "name": "days",
+                                    "key": "days",
+                                    "type": "radio",
+                                    "for": "normal"
+                                },
+                                {
+                                    "name": "weeks",
+                                    "key": "weeks",
+                                    "type": "radio",
+                                    "for": "normal"
+                                },
+                                {
+                                    "name": "add new",
+                                    "key": "add-new",
+                                    "type": "radio",
+                                    "for": "addnew"
+                                }
+                            ]
+                        ],
+                        "notes": "",
+                        "inline": true,
+                        "notesText": [
+                            {
+                                "text": "on",
+                                "show_text": true,
+                                "prefix_name": "repeat",
+                                "type": 2,
+                                "align_text_start": true,
+                                "end_text":" (i.e. 3)"
+                            },
+                            {
+                                "text": "out of",
+                                "prefix_name": "repeat",
+                                "show_text": true,
+                                "type": 2,
+                                "align_text_start": true,
+                                "end_text":" (i.e. 5)"
+                            }
+                        ],
+                        "show_notes": true,
+                        "notes_first": true
+                    }
+                ],
+                [
+                    {
+                        "name": "occurrences",
+                        "key": "repeatation",
+                        "type": "radio",
+                        "same_name": "measurementTools_repeat&repeatation",
+                        "for": "normal",
+                        "child": [
+                            [
+                                {
+                                    "name": "daily",
+                                    "key": "daily",
+                                    "type": "radio",
+                                    "for": "normal"
+                                },
+                                {
+                                    "name": "weekly",
+                                    "key": "weekly",
+                                    "type": "radio",
+                                    "for": "normal"
+                                },
+                                {
+                                    "name": "monthly",
+                                    "key": "monthly",
+                                    "type": "radio",
+                                    "for": "normal"
+                                },
+                                {
+                                    "name": "add new",
+                                    "key": "add-new",
+                                    "type": "radio",
+                                    "for": "addnew"
+                                }
+                            ]
+                        ],
+                        "notes": "",
+                        "notesText": [
+                            {
+                                "text": "times",
+                                "prefix_name": "repeatation",
+                                "show_text": true,
+                                "align_text_start": false,
+                                "type": 2,
+                                "end_text":" (i.e. 4)"
+                            }
+                        ],
+                        "show_notes": true,
+                        "notes_first": true
+                    }
+                ],
+                [
+                    {
+                        "name": "Percent improvement",
+                        "key": "percentImprovement",
+                        "type": "checkbox",
+                        "for": "normal",
+                        "same_name": "measurementTools_repeat&repeatation",
+                        "child": [
+                            [
+                                {
+                                    "name": "25%",
+                                    "key": "percentage25",
+                                    "type": "radio",
+                                    "for": "normal"
+                                },
+                                {
+                                    "name": "50%",
+                                    "key": "percentage50",
+                                    "type": "radio",
+                                    "for": "normal"
+                                },
+                                {
+                                    "name": "75%",
+                                    "key": "percentage75",
+                                    "type": "radio",
+                                    "for": "normal"
+                                },
+                                {
+                                    "name": "add new",
+                                    "key": "add-new",
+                                    "type": "radio",
+                                    "for": "addnew"
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "name": "Completed in",
+                        "key": "completedIn",
+                        "type": "checkbox",
+                        "for": "normal",
+                        "same_name": "measurementTools_repeat&repeatation",
+                        "child": [
+                            [
+                                {
+                                    "name": "4 weeks",
+                                    "key": "4weeks",
+                                    "type": "radio",
+                                    "for": "normal"
+                                },
+                                {
+                                    "name": "3 months",
+                                    "key": "3months",
+                                    "type": "radio",
+                                    "for": "normal"
+                                },
+                                {
+                                    "name": "6 months",
+                                    "key": "6months",
+                                    "type": "radio",
+                                    "for": "normal"
+                                },
+                                {
+                                    "name": "add new",
+                                    "key": "add-new",
+                                    "type": "radio",
+                                    "for": "addnew"
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            ]
+        },
+        {
+            "name": "Evidenced by",
+            "key": "evidencedBy",
+            "type": "checkbox",
+            "for": "normal",
+            "child": [
+                [
+                    {
+                        "name": "client’s self-reports",
+                        "key": "clientsSelfReports",
+                        "type": "checkbox",
+                        "for": "normal"
+                    },
+                    {
+                        "name": "therapist observations",
+                        "key": "therapistObservations",
+                        "type": "checkbox",
+                        "for": "normal"
+                    },
+                    {
+                        "name": "client’s parent reports",
+                        "key": "clientsParentReports",
+                        "type": "checkbox",
+                        "for": "normal"
+                    },
+                    {
+                        "name": "client’s family reports",
+                        "key": "clientsFamilyReports",
+                        "type": "checkbox",
+                        "for": "normal"
+                    },
+                    {
+                        "name": "client’s guardian reports",
+                        "key": "clientsGuardianReports",
+                        "type": "checkbox",
+                        "for": "normal"
+                    },                    
+                    {
+                        "name": "add new",
+                        "key": "add-new",
+                        "type": "checkbox",
+                        "for": "addnew"
+                    }
+                ]
+            ]
+        }
+    ]
+]

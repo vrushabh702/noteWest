@@ -1,0 +1,516 @@
+
+    [{
+        "for": "1",
+        "child": [
+            [
+                {
+                    "name": "on",
+                    "key": "on",
+                    "for": "inline-notes",
+                    "same_name": "onAroundByResultingIn",
+                    "with_checkbox": true,
+                    "type": "checkbox",
+                    "start_text": "on"
+                },           
+                {
+                    "name": "around",
+                    "key": "around",
+                    "for": "inline-notes",
+                    "same_name": "onAroundByResultingIn",
+                    "with_checkbox": true,
+                    "type": "checkbox",
+                    "start_text": "around"
+                }
+            ],
+            [
+                {
+                    "name": "by",
+                    "key": "by",
+                    "for": "inline-notes",
+                    "same_name": "onAroundByResultingIn",
+                    "with_checkbox": true,
+                    "type": "checkbox",
+                    "start_text": "by"
+                },           
+                {
+                    "name": "resultingIn",
+                    "key": "resultingIn",
+                    "for": "inline-notes",
+                    "same_name": "onAroundByResultingIn",
+                    "with_checkbox": true,
+                    "type": "checkbox",
+                    "start_text": "resulting in"
+                }
+            ],
+            [
+                {
+                    "notesText": [
+                    {
+                        "text": "",
+                        "show_text": false
+                    }
+                ],
+                "notes": ""}
+            ]
+        ]        
+    },
+    {
+        "for": 2,
+        "child": [    
+            [
+                {
+                    "name": "sexual",
+                    "key": "sexual",
+                    "type": "checkbox",
+                    "for": "normal"
+                },
+                {
+                    "name": "physical",
+                    "key": "physical",
+                    "type": "checkbox",
+                    "for": "normal"
+                },
+                {
+                    "name": "emotional",
+                    "key": "emotional",
+                    "type": "checkbox",
+                    "for": "normal"
+                },
+                {
+                    "name": "add new",
+                    "key": "add-new",
+                    "type": "checkbox",
+                    "for": "addnew"
+                }
+            ],  
+            [
+                {
+                    "name": "from",
+                    "key": "from",
+                    "for": "inline-notes",
+                    "same_name": "fromOnAround",
+                    "with_checkbox": true,
+                    "type": "radio",
+                    "start_text": "from"
+                },
+                {
+                    "name": "toOr",
+                    "key": "toOr",
+                    "for": "inline-notes",
+                    "type": "text",
+                    "start_text": "to",
+                    "end_text": "or"
+                },
+                {
+                    "name": "on",
+                    "key": "on",
+                    "for": "inline-notes",
+                    "same_name": "fromOnAround",
+                    "with_checkbox": true,
+                    "type": "radio",
+                    "start_text": "on"
+                }                
+            ],[
+                {
+                    "name": "around",
+                    "key": "around",
+                    "for": "inline-notes",
+                    "same_name": "fromOnAround",
+                    "with_checkbox": true,
+                    "type": "radio",
+                    "start_text": "around"
+                }
+            ],
+            [
+                {
+                    "notesText": [
+                    {
+                        "text": "",
+                        "show_text": false
+                    }
+                ],
+                "notes": ""}
+            ]
+        ]
+    },
+    {
+        "for": 3,
+        "child": [
+            [
+                {
+                    "name": "from",
+                    "key": "from",
+                    "for": "inline-notes",
+                    "type": "text",
+                    "start_text": "from"
+                },
+                {
+                    "name": "to",
+                    "key": "to",
+                    "for": "inline-notes",
+                    "type": "text",
+                    "start_text": "to"
+                }
+            ],
+            [
+                {
+                    "name": "consistently",
+                    "key": "consistently",
+                    "for": "normal",
+                    "type": "radio"
+                },
+                {
+                    "name": "inconsistently",
+                    "key": "inconsistently",
+                    "for": "normal",
+                    "type": "radio"
+                }
+            ],
+            [
+                {
+                    "name": "progress",
+                    "key": "progress",
+                    "same_name": "progressMaintained",
+                    "for": "normal",
+                    "type": "radio"
+                },
+                {
+                    "name": "maintained symptoms",
+                    "key": "maintainedSymptoms",
+                    "for": "normal",
+                    "same_name": "progressMaintained",
+                    "type": "radio"
+                },
+                {
+                    "name": "a regression",
+                    "key": "aRegression",
+                    "for": "normal",
+                    "same_name": "progressMaintained",
+                    "type": "radio"
+                },
+                {
+                    "name": "varied results",
+                    "key": "variedResults",
+                    "for": "normal",
+                    "same_name": "progressMaintained",
+                    "type": "radio"
+                },
+                {
+                    "name": "add new",
+                    "key": "add-new",
+                    "type": "radio",
+                    "same_name": "progressMaintained",
+                    "for": "addnew"
+                }
+            ],
+            [
+                {
+                    "notesText": [
+                    {
+                        "text": "",
+                        "show_text": false
+                    }
+                ],
+                "notes": ""}
+            ]
+        ]
+    },
+    {
+        "for": 4,
+        "child": [
+            [
+                {
+                    "name": "from",
+                    "key": "from",
+                    "for": "inline-notes",
+                    "type": "text",
+                    "start_text": "from"
+                },
+                {
+                    "name": "to",
+                    "key": "to",
+                    "for": "inline-notes",
+                    "type": "text",
+                    "start_text": "to"
+                }
+            ],
+            [
+                {
+                    "name": "consistently",
+                    "key": "consistently",
+                    "for": "normal",
+                    "type": "radio"
+                },
+                {
+                    "name": "inconsistently",
+                    "key": "inconsistently",
+                    "for": "normal",
+                    "type": "radio"
+                }
+            ],
+            [
+                {
+                    "name": "progress",
+                    "key": "progress",
+                    "same_name": "progressMaintained",
+                    "for": "normal",
+                    "type": "radio"
+                },
+                {
+                    "name": "maintained symptoms",
+                    "key": "maintainedSymptoms",
+                    "for": "normal",
+                    "same_name": "progressMaintained",
+                    "type": "radio"
+                },
+                {
+                    "name": "a regression",
+                    "key": "aRegression",
+                    "for": "normal",
+                    "same_name": "progressMaintained",
+                    "type": "radio"
+                },
+                {
+                    "name": "varied results",
+                    "key": "variedResults",
+                    "for": "normal",
+                    "same_name": "progressMaintained",
+                    "type": "radio"
+                },
+                {
+                    "name": "add new",
+                    "key": "add-new",
+                    "type": "radio",
+                    "same_name": "progressMaintained",
+                    "for": "addnew"
+                }
+            ],
+            [
+                {
+                    "notesText": [
+                    {
+                        "text": "",
+                        "show_text": false
+                    }
+                ],
+                "notes": ""}
+            ]
+        ]
+    },
+    {
+        "for": 5,
+        "child": [
+            [
+                {
+                    "name": "from",
+                    "key": "from",
+                    "for": "inline-notes",
+                    "type": "text",
+                    "start_text": "from"
+                },
+                {
+                    "name": "to",
+                    "key": "to",
+                    "for": "inline-notes",
+                    "type": "text",
+                    "start_text": "to"
+                }
+            ],
+            [
+                {
+                    "name": "consistently",
+                    "key": "consistently",
+                    "for": "normal",
+                    "type": "radio"
+                },
+                {
+                    "name": "inconsistently",
+                    "key": "inconsistently",
+                    "for": "normal",
+                    "type": "radio"
+                }
+            ],
+            [
+                {
+                    "name": "progress",
+                    "key": "progress",
+                    "same_name": "progressMaintained",
+                    "for": "normal",
+                    "type": "radio"
+                },
+                {
+                    "name": "maintained symptoms",
+                    "key": "maintainedSymptoms",
+                    "for": "normal",
+                    "same_name": "progressMaintained",
+                    "type": "radio"
+                },
+                {
+                    "name": "a regression",
+                    "key": "aRegression",
+                    "for": "normal",
+                    "same_name": "progressMaintained",
+                    "type": "radio"
+                },
+                {
+                    "name": "varied results",
+                    "key": "variedResults",
+                    "for": "normal",
+                    "same_name": "progressMaintained",
+                    "type": "radio"
+                },
+                {
+                    "name": "add new",
+                    "key": "add-new",
+                    "type": "radio",
+                    "same_name": "progressMaintained",
+                    "for": "addnew"
+                }
+            ],
+            [
+                {
+                    "notesText": [
+                    {
+                        "text": "",
+                        "show_text": false
+                    }
+                ],
+                "notes": ""}
+            ]
+        ]
+    },
+    {
+        "for": 6,
+        "child": [
+            [
+                {
+                    "name": "from",
+                    "key": "from",
+                    "for": "inline-notes",
+                    "type": "text",
+                    "start_text": "from"
+                },
+                {
+                    "name": "to",
+                    "key": "to",
+                    "for": "inline-notes",
+                    "type": "text",
+                    "start_text": "to"
+                }
+            ],
+            [
+                {
+                    "name": "consistently",
+                    "key": "consistently",
+                    "for": "normal",
+                    "type": "radio"
+                },
+                {
+                    "name": "inconsistently",
+                    "key": "inconsistently",
+                    "for": "normal",
+                    "type": "radio"
+                }
+            ],
+            [
+                {
+                    "name": "progress",
+                    "key": "progress",
+                    "same_name": "progressMaintained",
+                    "for": "normal",
+                    "type": "radio"
+                },
+                {
+                    "name": "maintained symptoms",
+                    "key": "maintainedSymptoms",
+                    "for": "normal",
+                    "same_name": "progressMaintained",
+                    "type": "radio"
+                },
+                {
+                    "name": "a regression",
+                    "key": "aRegression",
+                    "for": "normal",
+                    "same_name": "progressMaintained",
+                    "type": "radio"
+                },
+                {
+                    "name": "varied results",
+                    "key": "variedResults",
+                    "for": "normal",
+                    "same_name": "progressMaintained",
+                    "type": "radio"
+                },
+                {
+                    "name": "add new",
+                    "key": "add-new",
+                    "type": "radio",
+                    "same_name": "progressMaintained",
+                    "for": "addnew"
+                }
+            ],
+            [
+                {
+                    "notesText": [
+                    {
+                        "text": "",
+                        "show_text": false
+                    }
+                ],
+                "notes": ""}
+            ]
+        ]
+    },
+    {
+        "for": 7,
+        "child": [
+            [
+                {
+                    "name": "client has been seen by provider",
+                    "key": "clientHasBeenSeenByProvider",
+                    "type": "checkbox",
+                    "for": "normal"
+                },
+                {
+                    "name": "client was given referral",
+                    "key": "clientWasGivenReferral",
+                    "type": "checkbox",
+                    "for": "normal"
+                },
+                {
+                    "name": "add new",
+                    "key": "add-new",
+                    "type": "checkbox",
+                    "for": "addnew"
+                }
+            ],
+            [
+                {
+                    "name": "Contact Information",
+                    "key": "contactInformation",
+                    "type": "checkbox",
+                    "for": "radio-group",
+                    "start_text": "Contact Information",
+                    "child": [
+                        [
+                            {
+                                "name": "contact",
+                                "key": "contact",
+                                "for": "inline-notes",
+                                "type": "checkbox",
+                                "same_name": "contact",
+                                "with_checkbox": true
+                            },
+                            {
+                                "name": "unknown",
+                                "key": "unknown",
+                                "type": "checkbox",
+                                "for": "normal"
+                            }
+                        ]
+                    ]
+                }
+            ]
+        ]
+    }
+]

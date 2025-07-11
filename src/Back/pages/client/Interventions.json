@@ -1,0 +1,143 @@
+[
+    {
+        "name": "Interventions",
+        "key": "interventions",
+        "type": "checkbox",
+        "for": "normal",
+        "child": [
+            [   {
+                    "name": "Art therapy",
+                    "key": "artTherapy",
+                    "type": "checkbox",
+                    "for": "normal"
+                },
+                {
+                    "name": "Boundary setting",
+                    "key": "boundarySetting",
+                    "type": "checkbox",
+                    "for": "normal"
+                },
+                {
+                    "name": "CBT",
+                    "key": "CBT",
+                    "type": "checkbox",
+                    "for": "normal"
+                },
+                {
+                    "name": "Communication skills",
+                    "key": "communicationSkills",
+                    "type": "checkbox",
+                    "for": "normal"
+                },
+                {
+                    "name": "Exploration of childhood",
+                    "key": "explorationOfChildhood",
+                    "type": "checkbox",
+                    "for": "normal"
+                },
+                {
+                    "name": "Exploration of connections between emotions and behavior",
+                    "key": "explorationOfConnectionsBetweenEmotionsAndBehavior",
+                    "type": "checkbox",
+                    "for": "normal"
+                },
+                {
+                    "name": "Exploration of relationships",
+                    "key": "explorationOfRelationships",
+                    "type": "checkbox",
+                    "for": "normal"
+                },
+                {
+                    "name": "Exploration of trauma",
+                    "key": "explorationOfTrauma",
+                    "type": "checkbox",
+                    "for": "normal"
+                },
+                {
+                    "name": "Exploration of triggers",
+                    "key": "explorationOfTriggers",
+                    "type": "checkbox",
+                    "for": "normal"
+                },
+                {
+                    "name": "Family dynamics work",
+                    "key": "familyDynamicsWork",
+                    "type": "checkbox",
+                    "for": "normal"
+                },
+                {
+                    "name": "Gestalt therapy techniques",
+                    "key": "gestaltTherapyTechniques",
+                    "type": "checkbox",
+                    "for": "normal"
+                },
+                {
+                    "name": "Interaction skills",
+                    "key": "interactionSkills",
+                    "type": "checkbox",
+                    "for": "normal"
+                },
+                {
+                    "name": "Mindfullness",
+                    "key": "mindfullness",
+                    "type": "checkbox",
+                    "for": "normal"
+                },
+                {
+                    "name": "Motivational interviewing",
+                    "key": "motivationalInterviewing",
+                    "type": "checkbox",
+                    "for": "normal"
+                },
+                {
+                    "name": "Person-centered therapy",
+                    "key": "personCenteredTherapy",
+                    "type": "checkbox",
+                    "for": "normal"
+                },
+                {
+                    "name": "Play therapy",
+                    "key": "playTherapy",
+                    "type": "checkbox",
+                    "for": "normal"
+                },
+                {
+                    "name": "Psychodynamic techniques",
+                    "key": "psychodynamicTechniques",
+                    "type": "checkbox",
+                    "for": "normal"
+                },
+                {
+                    "name": "Reality therapy techniques",
+                    "key": "realityTherapyTechniques",
+                    "type": "checkbox",
+                    "for": "normal"
+                },
+                {
+                    "name": "Relaxation techniques",
+                    "key": "relaxationTechniques",
+                    "type": "checkbox",
+                    "for": "normal"
+                },
+                {
+                    "name": "Role-playing",
+                    "key": "rolePlaying",
+                    "type": "checkbox",
+                    "for": "normal"
+                },
+                {
+                    "name": "Skills to improve client’s self-awareness",
+                    "key": "skillsToImproveClientsSelfAwareness",
+                    "type": "checkbox",
+                    "for": "normal"
+                },
+                {
+                    "name": "add new",
+                    "key": "add-new",
+                    "type": "checkbox",
+                    "for": "addnew"
+                }
+            ]
+        ]
+    }
+]

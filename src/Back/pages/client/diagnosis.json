@@ -1,0 +1,3821 @@
+[{
+    "Name": "Academic or educational problem",
+    "ICD_9_CM": "V62.3",
+    "ICD_10_CM": "Z55.9"
+}, {
+    "Name": "Acculturation difficulty",
+    "ICD_9_CM": "V62.4",
+    "ICD_10_CM": "Z60.3"
+}, {
+    "Name": "Acute stress disorder",
+    "ICD_9_CM": "308.3",
+    "ICD_10_CM": "F43.0"
+}, {
+    "Name": "Adjustment disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Adjustment disorder, Unspecified",
+    "ICD_9_CM": "309.9",
+    "ICD_10_CM": "F43.20"
+}, {
+    "Name": "Adjustment disorder, With anxiety",
+    "ICD_9_CM": "309.24",
+    "ICD_10_CM": "F43.22"
+}, {
+    "Name": "Adjustment disorder, With depressed mood",
+    "ICD_9_CM": "309",
+    "ICD_10_CM": "F43.21"
+}, {
+    "Name": "Adjustment disorder, With disturbance of conduct",
+    "ICD_9_CM": "309.3",
+    "ICD_10_CM": "F43.24"
+}, {
+    "Name": "Adjustment disorder, With mixed anxiety and depressed mood",
+    "ICD_9_CM": "309.28",
+    "ICD_10_CM": "F43.23"
+}, {
+    "Name": "Adjustment disorder, With mixed disturbance of emotions and conduct",
+    "ICD_9_CM": "309.4",
+    "ICD_10_CM": "F43.25"
+}, {
+    "Name": "Adult antisocial behavior",
+    "ICD_9_CM": "V71.01",
+    "ICD_10_CM": "Z72.811"
+}, {
+    "Name": "Adult physical abuse by nonspouse or nonpartner, Confirmed",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Adult physical abuse by nonspouse or nonpartner, Confirmed, Initial encounter",
+    "ICD_9_CM": "995.81",
+    "ICD_10_CM": "T74.11XA"
+}, {
+    "Name": "Adult physical abuse by nonspouse or nonpartner, Confirmed, Subsequent encounter",
+    "ICD_9_CM": "995.81",
+    "ICD_10_CM": "T74.11XD"
+}, {
+    "Name": "Adult physical abuse by nonspouse or nonpartner, Suspected",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Adult physical abuse by nonspouse or nonpartner, Suspected, Initial encounter",
+    "ICD_9_CM": "995.81",
+    "ICD_10_CM": "T76.11XA"
+}, {
+    "Name": "Adult physical abuse by nonspouse or nonpartner, Suspected, Subsequent encounter",
+    "ICD_9_CM": "995.81",
+    "ICD_10_CM": "T76.11XD"
+}, {
+    "Name": "Adult psychological abuse by nonspouse or nonpartner, Confirmed",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Adult psychological abuse by nonspouse or nonpartner, Confirmed, Initial encounter",
+    "ICD_9_CM": "995.82",
+    "ICD_10_CM": "T74.31XA"
+}, {
+    "Name": "Adult psychological abuse by nonspouse or nonpartner, Confirmed, Subsequent encounter",
+    "ICD_9_CM": "995.82",
+    "ICD_10_CM": "T74.31XD"
+}, {
+    "Name": "Adult psychological abuse by nonspouse or nonpartner, Suspected",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Adult psychological abuse by nonspouse or nonpartner, Suspected, Initial encounter",
+    "ICD_9_CM": "995.82",
+    "ICD_10_CM": "T76.31XA"
+}, {
+    "Name": "Adult psychological abuse by nonspouse or nonpartner, Suspected, Subsequent encounter",
+    "ICD_9_CM": "995.82",
+    "ICD_10_CM": "T76.31XD"
+}, {
+    "Name": "Adult sexual abuse by nonspouse or nonpartner, Confirmed",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Adult sexual abuse by nonspouse or nonpartner, Confirmed, Initial encounter",
+    "ICD_9_CM": "995.83",
+    "ICD_10_CM": "T74.21XA"
+}, {
+    "Name": "Adult sexual abuse by nonspouse or nonpartner, Confirmed, Subsequent encounter",
+    "ICD_9_CM": "995.83",
+    "ICD_10_CM": "T74.21XD"
+}, {
+    "Name": "Adult sexual abuse by nonspouse or nonpartner, Suspected",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Adult sexual abuse by nonspouse or nonpartner, Suspected, Initial encounter",
+    "ICD_9_CM": "995.83",
+    "ICD_10_CM": "T76.21XA"
+}, {
+    "Name": "Adult sexual abuse by nonspouse or nonpartner, Suspected, Subsequent encounter",
+    "ICD_9_CM": "995.83",
+    "ICD_10_CM": "T76.21XD"
+}, {
+    "Name": "Adult-onset fluency disorder",
+    "ICD_9_CM": "307",
+    "ICD_10_CM": "F98.5"
+}, {
+    "Name": "Agoraphobia",
+    "ICD_9_CM": "300.22",
+    "ICD_10_CM": "F40.00"
+}, {
+    "Name": "Alcohol intoxication",
+    "ICD_9_CM": "303",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Alcohol intoxication delirium",
+    "ICD_9_CM": "291",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Alcohol intoxication delirium, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.121"
+}, {
+    "Name": "Alcohol intoxication delirium, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.221"
+}, {
+    "Name": "Alcohol intoxication delirium, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.921"
+}, {
+    "Name": "Alcohol intoxication, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.129"
+}, {
+    "Name": "Alcohol intoxication, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.229"
+}, {
+    "Name": "Alcohol intoxication, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.929"
+}, {
+    "Name": "Alcohol use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Alcohol use disorder, Mild",
+    "ICD_9_CM": "305",
+    "ICD_10_CM": "F10.10"
+}, {
+    "Name": "Alcohol use disorder, Moderate",
+    "ICD_9_CM": "303.9",
+    "ICD_10_CM": "F10.20"
+}, {
+    "Name": "Alcohol use disorder, Severe",
+    "ICD_9_CM": "303.9",
+    "ICD_10_CM": "F10.20"
+}, {
+    "Name": "Alcohol withdrawal",
+    "ICD_9_CM": "291.81",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Alcohol withdrawal delirium",
+    "ICD_9_CM": "291",
+    "ICD_10_CM": "F10.231"
+}, {
+    "Name": "Alcohol withdrawal, With perceptual disturbances",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.232"
+}, {
+    "Name": "Alcohol withdrawal, Without perceptual disturbances",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.239"
+}, {
+    "Name": "Alcohol-induced anxiety disorder",
+    "ICD_9_CM": "291.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Alcohol-induced anxiety disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.180"
+}, {
+    "Name": "Alcohol-induced anxiety disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.280"
+}, {
+    "Name": "Alcohol-induced anxiety disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.980"
+}, {
+    "Name": "Alcohol-induced bipolar and related disorder",
+    "ICD_9_CM": "291.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Alcohol-induced bipolar and related disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.14"
+}, {
+    "Name": "Alcohol-induced bipolar and related disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.24"
+}, {
+    "Name": "Alcohol-induced bipolar and related disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.94"
+}, {
+    "Name": "Alcohol-induced depressive disorder",
+    "ICD_9_CM": "291.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Alcohol-induced depressive disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.14"
+}, {
+    "Name": "Alcohol-induced depressive disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.24"
+}, {
+    "Name": "Alcohol-induced depressive disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.94"
+}, {
+    "Name": "Alcohol-induced major neurocognitive disorder, Amnestic confabulatory type",
+    "ICD_9_CM": "291.1",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Alcohol-induced major neurocognitive disorder, Amnestic confabulatory type, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.26"
+}, {
+    "Name": "Alcohol-induced major neurocognitive disorder, Amnestic confabulatory type, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.96"
+}, {
+    "Name": "Alcohol-induced major neurocognitive disorder, Nonamnestic confabulatory type",
+    "ICD_9_CM": "291.2",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Alcohol-induced major neurocognitive disorder, Nonamnestic confabulatory type, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.27"
+}, {
+    "Name": "Alcohol-induced major neurocognitive disorder, Nonamnestic confabulatory type, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.97"
+}, {
+    "Name": "Alcohol-induced mild neurocognitive disorder",
+    "ICD_9_CM": "291.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Alcohol-induced mild neurocognitive disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.288"
+}, {
+    "Name": "Alcohol-induced mild neurocognitive disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.988"
+}, {
+    "Name": "Alcohol-induced psychotic disorder",
+    "ICD_9_CM": "291.9",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Alcohol-induced psychotic disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.159"
+}, {
+    "Name": "Alcohol-induced psychotic disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.259"
+}, {
+    "Name": "Alcohol-induced psychotic disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.959"
+}, {
+    "Name": "Alcohol-induced sexual dysfunction",
+    "ICD_9_CM": "291.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Alcohol-induced sexual dysfunction, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.181"
+}, {
+    "Name": "Alcohol-induced sexual dysfunction, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.281"
+}, {
+    "Name": "Alcohol-induced sexual dysfunction, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.981"
+}, {
+    "Name": "Alcohol-induced sleep disorder",
+    "ICD_9_CM": "291.82",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Alcohol-induced sleep disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.182"
+}, {
+    "Name": "Alcohol-induced sleep disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.282"
+}, {
+    "Name": "Alcohol-induced sleep disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F10.982"
+}, {
+    "Name": "Amphetamine (or other stimulant) intoxication delirium",
+    "ICD_9_CM": "292.81",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Amphetamine (or other stimulant) intoxication delirium, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.121"
+}, {
+    "Name": "Amphetamine (or other stimulant) intoxication delirium, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.221"
+}, {
+    "Name": "Amphetamine (or other stimulant) intoxication delirium, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.921"
+}, {
+    "Name": "Amphetamine (or other stimulant)-induced anxiety disorder",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Amphetamine (or other stimulant)-induced anxiety disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.180"
+}, {
+    "Name": "Amphetamine (or other stimulant)-induced anxiety disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.280"
+}, {
+    "Name": "Amphetamine (or other stimulant)-induced anxiety disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.980"
+}, {
+    "Name": "Amphetamine (or other stimulant)-induced bipolar and related disorder",
+    "ICD_9_CM": "292.84",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Amphetamine (or other stimulant)-induced bipolar and related disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.14"
+}, {
+    "Name": "Amphetamine (or other stimulant)-induced bipolar and related disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.24"
+}, {
+    "Name": "Amphetamine (or other stimulant)-induced bipolar and related disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.94"
+}, {
+    "Name": "Amphetamine (or other stimulant)-induced delirium",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.921"
+}, {
+    "Name": "Amphetamine (or other stimulant)-induced depressive disorder",
+    "ICD_9_CM": "292.84",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Amphetamine (or other stimulant)-induced depressive disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.14"
+}, {
+    "Name": "Amphetamine (or other stimulant)-induced depressive disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.24"
+}, {
+    "Name": "Amphetamine (or other stimulant)-induced depressive disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.94"
+}, {
+    "Name": "Amphetamine (or other stimulant)-induced obsessive-compulsive and related disorder",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Amphetamine (or other stimulant)-induced obsessive-compulsive and related disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.188"
+}, {
+    "Name": "Amphetamine (or other stimulant)-induced obsessive-compulsive and related disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.288"
+}, {
+    "Name": "Amphetamine (or other stimulant)-induced obsessive-compulsive and related disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.988"
+}, {
+    "Name": "Amphetamine (or other stimulant)-induced psychotic disorder",
+    "ICD_9_CM": "292.9",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Amphetamine (or other stimulant)-induced psychotic disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.159"
+}, {
+    "Name": "Amphetamine (or other stimulant)-induced psychotic disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.259"
+}, {
+    "Name": "Amphetamine (or other stimulant)-induced psychotic disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.959"
+}, {
+    "Name": "Amphetamine (or other stimulant)-induced sexual dysfunction",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Amphetamine (or other stimulant)-induced sexual dysfunction, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.181"
+}, {
+    "Name": "Amphetamine (or other stimulant)-induced sexual dysfunction, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.281"
+}, {
+    "Name": "Amphetamine (or other stimulant)-induced sexual dysfunction, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.981"
+}, {
+    "Name": "Amphetamine (or other stimulant)-induced sleep disorder",
+    "ICD_9_CM": "292.85",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Amphetamine (or other stimulant)-induced sleep disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.182"
+}, {
+    "Name": "Amphetamine (or other stimulant)-induced sleep disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.282"
+}, {
+    "Name": "Amphetamine (or other stimulant)-induced sleep disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.982"
+}, {
+    "Name": "Amphetamine or other stimulant intoxication",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Amphetamine or other stimulant intoxication, With perceptual disturbances",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Amphetamine or other stimulant intoxication, With perceptual disturbances, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.122"
+}, {
+    "Name": "Amphetamine or other stimulant intoxication, With perceptual disturbances, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.222"
+}, {
+    "Name": "Amphetamine or other stimulant intoxication, With perceptual disturbances, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.922"
+}, {
+    "Name": "Amphetamine or other stimulant intoxication, Without perceptual disturbances",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Amphetamine or other stimulant intoxication, Without perceptual disturbances, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.129"
+}, {
+    "Name": "Amphetamine or other stimulant intoxication, Without perceptual disturbances, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.229"
+}, {
+    "Name": "Amphetamine or other stimulant intoxication, Without perceptual disturbances, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.929"
+}, {
+    "Name": "Amphetamine or other stimulant withdrawal",
+    "ICD_9_CM": "292",
+    "ICD_10_CM": "F15.23"
+}, {
+    "Name": "Amphetamine-type substance use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Amphetamine-type substance use disorder, Mild",
+    "ICD_9_CM": "305.7",
+    "ICD_10_CM": "F15.10"
+}, {
+    "Name": "Amphetamine-type substance use disorder, Moderate",
+    "ICD_9_CM": "304.4",
+    "ICD_10_CM": "F15.20"
+}, {
+    "Name": "Amphetamine-type substance use disorder, Severe",
+    "ICD_9_CM": "304.4",
+    "ICD_10_CM": "F15.20"
+}, {
+    "Name": "Anorexia nervosa",
+    "ICD_9_CM": "307.1",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Anorexia nervosa, Binge-eating/purging type",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F50.02"
+}, {
+    "Name": "Anorexia nervosa, Restricting type",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F50.01"
+}, {
+    "Name": "Antidepressant discontinuation syndrome",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Antidepressant discontinuation syndrome, Initial encounter",
+    "ICD_9_CM": "995.29",
+    "ICD_10_CM": "T43.205A"
+}, {
+    "Name": "Antidepressant discontinuation syndrome, Sequelae",
+    "ICD_9_CM": "995.29",
+    "ICD_10_CM": "T43.205S"
+}, {
+    "Name": "Antidepressant discontinuation syndrome, Subsequent encounter",
+    "ICD_9_CM": "995.29",
+    "ICD_10_CM": "T43.205D"
+}, {
+    "Name": "Antisocial personality disorder",
+    "ICD_9_CM": "301.7",
+    "ICD_10_CM": "F60.2"
+}, {
+    "Name": "Anxiety disorder due to another medical condition",
+    "ICD_9_CM": "293.84",
+    "ICD_10_CM": "F06.4"
+}, {
+    "Name": "Attention-deficit/hyperactivity disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Attention-deficit/hyperactivity disorder, Combined presentation",
+    "ICD_9_CM": "314.01",
+    "ICD_10_CM": "F90.2"
+}, {
+    "Name": "Attention-deficit/hyperactivity disorder, Predominantly hyperactive/impulsive presentation",
+    "ICD_9_CM": "314.01",
+    "ICD_10_CM": "F90.1"
+}, {
+    "Name": "Attention-deficit/hyperactivity disorder, Predominantly inattentive presentation",
+    "ICD_9_CM": "314",
+    "ICD_10_CM": "F90.0"
+}, {
+    "Name": "Autism spectrum disorder",
+    "ICD_9_CM": "299",
+    "ICD_10_CM": "F84.0"
+}, {
+    "Name": "Autosomal dominant cerebellar ataxia, deafness, and narcolepsy",
+    "ICD_9_CM": "347",
+    "ICD_10_CM": "G47.419"
+}, {
+    "Name": "Autosomal dominant narcolepsy, obesity, and type 2 diabetes",
+    "ICD_9_CM": "347",
+    "ICD_10_CM": "G47.419"
+}, {
+    "Name": "Avoidant personality disorder",
+    "ICD_9_CM": "301.82",
+    "ICD_10_CM": "F60.6"
+}, {
+    "Name": "Avoidant/restrictive food intake disorder",
+    "ICD_9_CM": "307.59",
+    "ICD_10_CM": "F50.8"
+}, {
+    "Name": "Binge-eating disorder",
+    "ICD_9_CM": "307.51",
+    "ICD_10_CM": "F50.8"
+}, {
+    "Name": "Bipolar and related disorder due to another medical condition",
+    "ICD_9_CM": "293.83",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Bipolar and related disorder due to another medical condition, With manic features",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F06.33"
+}, {
+    "Name": "Bipolar and related disorder due to another medical condition, With manic- or hypomanic-like episodes",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F06.33"
+}, {
+    "Name": "Bipolar and related disorder due to another medical condition, With mixed features",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F06.34"
+}, {
+    "Name": "Bipolar I disorder, Current or most recent episode depressed",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Bipolar I disorder, Current or most recent episode depressed, In full remission",
+    "ICD_9_CM": "296.56",
+    "ICD_10_CM": "F31.76"
+}, {
+    "Name": "Bipolar I disorder, Current or most recent episode depressed, In partial remission",
+    "ICD_9_CM": "296.55",
+    "ICD_10_CM": "F31.75"
+}, {
+    "Name": "Bipolar I disorder, Current or most recent episode depressed, Mild",
+    "ICD_9_CM": "296.51",
+    "ICD_10_CM": "F31.31"
+}, {
+    "Name": "Bipolar I disorder, Current or most recent episode depressed, Moderate",
+    "ICD_9_CM": "296.52",
+    "ICD_10_CM": "F31.32"
+}, {
+    "Name": "Bipolar I disorder, Current or most recent episode depressed, Severe",
+    "ICD_9_CM": "296.53",
+    "ICD_10_CM": "F31.4"
+}, {
+    "Name": "Bipolar I disorder, Current or most recent episode depressed, Unspecified",
+    "ICD_9_CM": "296.5",
+    "ICD_10_CM": "F31.9"
+}, {
+    "Name": "Bipolar I disorder, Current or most recent episode depressed, With psychotic features",
+    "ICD_9_CM": "296.54",
+    "ICD_10_CM": "F31.5"
+}, {
+    "Name": "Bipolar I disorder, Current or most recent episode hypomanic",
+    "ICD_9_CM": "296.4",
+    "ICD_10_CM": "F31.0"
+}, {
+    "Name": "Bipolar I disorder, Current or most recent episode hypomanic, In full remission",
+    "ICD_9_CM": "296.46",
+    "ICD_10_CM": "F31.74"
+}, {
+    "Name": "Bipolar I disorder, Current or most recent episode hypomanic, In partial remission",
+    "ICD_9_CM": "296.45",
+    "ICD_10_CM": "F31.73"
+}, {
+    "Name": "Bipolar I disorder, Current or most recent episode hypomanic, Unspecified",
+    "ICD_9_CM": "296.4",
+    "ICD_10_CM": "F31.9"
+}, {
+    "Name": "Bipolar I disorder, Current or most recent episode manic",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Bipolar I disorder, Current or most recent episode manic, In full remission",
+    "ICD_9_CM": "296.46",
+    "ICD_10_CM": "F31.74"
+}, {
+    "Name": "Bipolar I disorder, Current or most recent episode manic, In partial remission",
+    "ICD_9_CM": "296.45",
+    "ICD_10_CM": "F31.73"
+}, {
+    "Name": "Bipolar I disorder, Current or most recent episode manic, Mild",
+    "ICD_9_CM": "296.41",
+    "ICD_10_CM": "F31.11"
+}, {
+    "Name": "Bipolar I disorder, Current or most recent episode manic, Moderate",
+    "ICD_9_CM": "296.42",
+    "ICD_10_CM": "F31.12"
+}, {
+    "Name": "Bipolar I disorder, Current or most recent episode manic, Severe",
+    "ICD_9_CM": "296.43",
+    "ICD_10_CM": "F31.13"
+}, {
+    "Name": "Bipolar I disorder, Current or most recent episode manic, Unspecified",
+    "ICD_9_CM": "296.4",
+    "ICD_10_CM": "F31.9"
+}, {
+    "Name": "Bipolar I disorder, Current or most recent episode manic, With psychotic features",
+    "ICD_9_CM": "296.44",
+    "ICD_10_CM": "F31.2"
+}, {
+    "Name": "Bipolar I disorder, Current or most recent episode unspecified",
+    "ICD_9_CM": "296.7",
+    "ICD_10_CM": "F31.9"
+}, {
+    "Name": "Bipolar II disorder",
+    "ICD_9_CM": "296.89",
+    "ICD_10_CM": "F31.81"
+}, {
+    "Name": "Body dysmorphic disorder",
+    "ICD_9_CM": "300.7",
+    "ICD_10_CM": "F45.22"
+}, {
+    "Name": "Borderline intellectual functioning",
+    "ICD_9_CM": "V62.89",
+    "ICD_10_CM": "R41.83"
+}, {
+    "Name": "Borderline personality disorder",
+    "ICD_9_CM": "301.83",
+    "ICD_10_CM": "F60.3"
+}, {
+    "Name": "Brief psychotic disorder",
+    "ICD_9_CM": "298.8",
+    "ICD_10_CM": "F23"
+}, {
+    "Name": "Bulimia nervosa",
+    "ICD_9_CM": "307.51",
+    "ICD_10_CM": "F50.2"
+}, {
+    "Name": "Caffeine intoxication",
+    "ICD_9_CM": "305.9",
+    "ICD_10_CM": "F15.929"
+}, {
+    "Name": "Caffeine withdrawal",
+    "ICD_9_CM": "292",
+    "ICD_10_CM": "F15.93"
+}, {
+    "Name": "Caffeine-induced anxiety disorder",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Caffeine-induced anxiety disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.180"
+}, {
+    "Name": "Caffeine-induced anxiety disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.280"
+}, {
+    "Name": "Caffeine-induced anxiety disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.980"
+}, {
+    "Name": "Caffeine-induced sleep disorder",
+    "ICD_9_CM": "292.85",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Caffeine-induced sleep disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.182"
+}, {
+    "Name": "Caffeine-induced sleep disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.282"
+}, {
+    "Name": "Caffeine-induced sleep disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.982"
+}, {
+    "Name": "Cannabis intoxication",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Cannabis intoxication delirium",
+    "ICD_9_CM": "292.81",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Cannabis intoxication delirium, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F12.121"
+}, {
+    "Name": "Cannabis intoxication delirium, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F12.221"
+}, {
+    "Name": "Cannabis intoxication delirium, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F12.921"
+}, {
+    "Name": "Cannabis intoxication, With perceptual disturbances",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Cannabis intoxication, With perceptual disturbances, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F12.122"
+}, {
+    "Name": "Cannabis intoxication, With perceptual disturbances, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F12.222"
+}, {
+    "Name": "Cannabis intoxication, With perceptual disturbances, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F12.922"
+}, {
+    "Name": "Cannabis intoxication, Without perceptual disturbances",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Cannabis intoxication, Without perceptual disturbances, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F12.129"
+}, {
+    "Name": "Cannabis intoxication, Without perceptual disturbances, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F12.229"
+}, {
+    "Name": "Cannabis intoxication, Without perceptual disturbances, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F12.929"
+}, {
+    "Name": "Cannabis use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Cannabis use disorder, Mild",
+    "ICD_9_CM": "305.2",
+    "ICD_10_CM": "F12.10"
+}, {
+    "Name": "Cannabis use disorder, Moderate",
+    "ICD_9_CM": "304.3",
+    "ICD_10_CM": "F12.20"
+}, {
+    "Name": "Cannabis use disorder, Severe",
+    "ICD_9_CM": "304.3",
+    "ICD_10_CM": "F12.20"
+}, {
+    "Name": "Cannabis withdrawal",
+    "ICD_9_CM": "292",
+    "ICD_10_CM": "F12.288"
+}, {
+    "Name": "Cannabis-induced anxiety disorder",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Cannabis-induced anxiety disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F12.180"
+}, {
+    "Name": "Cannabis-induced anxiety disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F12.280"
+}, {
+    "Name": "Cannabis-induced anxiety disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F12.980"
+}, {
+    "Name": "Cannabis-induced psychotic disorder",
+    "ICD_9_CM": "292.9",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Cannabis-induced psychotic disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F12.159"
+}, {
+    "Name": "Cannabis-induced psychotic disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F12.259"
+}, {
+    "Name": "Cannabis-induced psychotic disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F12.959"
+}, {
+    "Name": "Cannabis-induced sleep disorder",
+    "ICD_9_CM": "292.85",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Cannabis-induced sleep disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F12.188"
+}, {
+    "Name": "Cannabis-induced sleep disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F12.288"
+}, {
+    "Name": "Cannabis-induced sleep disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F12.988"
+}, {
+    "Name": "Catatonia associated with another mental disorder (catatonia specifier)",
+    "ICD_9_CM": "293.89",
+    "ICD_10_CM": "F06.1"
+}, {
+    "Name": "Catatonic disorder due to another medical condition",
+    "ICD_9_CM": "293.89",
+    "ICD_10_CM": "F06.1"
+}, {
+    "Name": "Central sleep apnea",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Central sleep apnea comorbid with opioid use",
+    "ICD_9_CM": "780.57",
+    "ICD_10_CM": "G47.37"
+}, {
+    "Name": "Cheyne-Stokes breathing",
+    "ICD_9_CM": "786.04",
+    "ICD_10_CM": "R06.3"
+}, {
+    "Name": "Child affected by parental relationship distress",
+    "ICD_9_CM": "V61.29",
+    "ICD_10_CM": "Z62.898"
+}, {
+    "Name": "Child neglect, Confirmed",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Child neglect, Confirmed, Initial encounter",
+    "ICD_9_CM": "995.52",
+    "ICD_10_CM": "T74.02XA"
+}, {
+    "Name": "Child neglect, Confirmed, Subsequent encounter",
+    "ICD_9_CM": "995.52",
+    "ICD_10_CM": "T74.02XD"
+}, {
+    "Name": "Child neglect, Suspected",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Child neglect, Suspected, Initial encounter",
+    "ICD_9_CM": "995.52",
+    "ICD_10_CM": "T76.02XA"
+}, {
+    "Name": "Child neglect, Suspected, Subsequent encounter",
+    "ICD_9_CM": "995.52",
+    "ICD_10_CM": "T76.02XD"
+}, {
+    "Name": "Child or adolescent antisocial behavior",
+    "ICD_9_CM": "V71.02",
+    "ICD_10_CM": "Z72.810"
+}, {
+    "Name": "Child physical abuse, Confirmed",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Child physical abuse, Confirmed, Initial encounter",
+    "ICD_9_CM": "995.54",
+    "ICD_10_CM": "T74.12XA"
+}, {
+    "Name": "Child physical abuse, Confirmed, Subsequent encounter",
+    "ICD_9_CM": "995.54",
+    "ICD_10_CM": "T74.12XD"
+}, {
+    "Name": "Child physical abuse, Suspected",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Child physical abuse, Suspected, Initial encounter",
+    "ICD_9_CM": "995.54",
+    "ICD_10_CM": "T76.12XA"
+}, {
+    "Name": "Child physical abuse, Suspected, Subsequent encounter",
+    "ICD_9_CM": "995.54",
+    "ICD_10_CM": "T76.12XD"
+}, {
+    "Name": "Child psychological abuse, Confirmed",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Child psychological abuse, Confirmed, Initial encounter",
+    "ICD_9_CM": "995.51",
+    "ICD_10_CM": "T74.32XA"
+}, {
+    "Name": "Child psychological abuse, Confirmed, Subsequent encounter",
+    "ICD_9_CM": "995.51",
+    "ICD_10_CM": "T74.32XD"
+}, {
+    "Name": "Child psychological abuse, Suspected",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Child psychological abuse, Suspected, Initial encounter",
+    "ICD_9_CM": "995.51",
+    "ICD_10_CM": "T76.32XA"
+}, {
+    "Name": "Child psychological abuse, Suspected, Subsequent encounter",
+    "ICD_9_CM": "995.51",
+    "ICD_10_CM": "T76.32XD"
+}, {
+    "Name": "Child sexual abuse, Confirmed",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Child sexual abuse, Confirmed, Initial encounter",
+    "ICD_9_CM": "995.53",
+    "ICD_10_CM": "T74.22XA"
+}, {
+    "Name": "Child sexual abuse, Confirmed, Subsequent encounter",
+    "ICD_9_CM": "995.53",
+    "ICD_10_CM": "T74.22XD"
+}, {
+    "Name": "Child sexual abuse, Suspected",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Child sexual abuse, Suspected, Initial encounter",
+    "ICD_9_CM": "995.53",
+    "ICD_10_CM": "T76.22XA"
+}, {
+    "Name": "Child sexual abuse, Suspected, Subsequent encounter",
+    "ICD_9_CM": "995.53",
+    "ICD_10_CM": "T76.22XD"
+}, {
+    "Name": "Childhood-onset fluency disorder (stuttering)",
+    "ICD_9_CM": "315.35",
+    "ICD_10_CM": "F80.81"
+}, {
+    "Name": "Circadian rhythm sleep-wake disorders",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Circadian rhythm sleep-wake disorders, Advanced sleep phase type",
+    "ICD_9_CM": "307.45",
+    "ICD_10_CM": "G47.22"
+}, {
+    "Name": "Circadian rhythm sleep-wake disorders, Delayed sleep phase type",
+    "ICD_9_CM": "307.45",
+    "ICD_10_CM": "G47.21"
+}, {
+    "Name": "Circadian rhythm sleep-wake disorders, Irregular sleep-wake type",
+    "ICD_9_CM": "307.45",
+    "ICD_10_CM": "G47.23"
+}, {
+    "Name": "Circadian rhythm sleep-wake disorders, Non-24-hour sleep-wake type",
+    "ICD_9_CM": "307.45",
+    "ICD_10_CM": "G47.24"
+}, {
+    "Name": "Circadian rhythm sleep-wake disorders, Shift work type",
+    "ICD_9_CM": "307.45",
+    "ICD_10_CM": "G47.26"
+}, {
+    "Name": "Circadian rhythm sleep-wake disorders, Unspecified type",
+    "ICD_9_CM": "307.45",
+    "ICD_10_CM": "G47.20"
+}, {
+    "Name": "Cocaine intoxication",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Cocaine intoxication delirium",
+    "ICD_9_CM": "292.81",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Cocaine intoxication delirium, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.121"
+}, {
+    "Name": "Cocaine intoxication delirium, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.221"
+}, {
+    "Name": "Cocaine intoxication delirium, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.921"
+}, {
+    "Name": "Cocaine intoxication, With perceptual disturbances",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Cocaine intoxication, With perceptual disturbances, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.122"
+}, {
+    "Name": "Cocaine intoxication, With perceptual disturbances, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.222"
+}, {
+    "Name": "Cocaine intoxication, With perceptual disturbances, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.922"
+}, {
+    "Name": "Cocaine intoxication, Without perceptual disturbances",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Cocaine intoxication, Without perceptual disturbances, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.129"
+}, {
+    "Name": "Cocaine intoxication, Without perceptual disturbances, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.229"
+}, {
+    "Name": "Cocaine intoxication, Without perceptual disturbances, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.929"
+}, {
+    "Name": "Cocaine use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Cocaine use disorder, Mild",
+    "ICD_9_CM": "305.6",
+    "ICD_10_CM": "F14.10"
+}, {
+    "Name": "Cocaine use disorder, Moderate",
+    "ICD_9_CM": "304.2",
+    "ICD_10_CM": "F14.20"
+}, {
+    "Name": "Cocaine use disorder, Severe",
+    "ICD_9_CM": "304.2",
+    "ICD_10_CM": "F14.20"
+}, {
+    "Name": "Cocaine withdrawal",
+    "ICD_9_CM": "292",
+    "ICD_10_CM": "F14.23"
+}, {
+    "Name": "Cocaine-induced anxiety disorder",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Cocaine-induced anxiety disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.180"
+}, {
+    "Name": "Cocaine-induced anxiety disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.280"
+}, {
+    "Name": "Cocaine-induced anxiety disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.980"
+}, {
+    "Name": "Cocaine-induced bipolar and related disorder",
+    "ICD_9_CM": "292.84",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Cocaine-induced bipolar and related disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.14"
+}, {
+    "Name": "Cocaine-induced bipolar and related disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.24"
+}, {
+    "Name": "Cocaine-induced bipolar and related disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.94"
+}, {
+    "Name": "Cocaine-induced depressive disorder",
+    "ICD_9_CM": "292.84",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Cocaine-induced depressive disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.14"
+}, {
+    "Name": "Cocaine-induced depressive disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.24"
+}, {
+    "Name": "Cocaine-induced depressive disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.94"
+}, {
+    "Name": "Cocaine-induced obsessive-compulsive and related disorder",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Cocaine-induced obsessive-compulsive and related disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.188"
+}, {
+    "Name": "Cocaine-induced obsessive-compulsive and related disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.288"
+}, {
+    "Name": "Cocaine-induced obsessive-compulsive and related disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.988"
+}, {
+    "Name": "Cocaine-induced psychotic disorder",
+    "ICD_9_CM": "292.9",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Cocaine-induced psychotic disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.159"
+}, {
+    "Name": "Cocaine-induced psychotic disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.259"
+}, {
+    "Name": "Cocaine-induced psychotic disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.959"
+}, {
+    "Name": "Cocaine-induced sexual dysfunction",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Cocaine-induced sexual dysfunction, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.181"
+}, {
+    "Name": "Cocaine-induced sexual dysfunction, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.281"
+}, {
+    "Name": "Cocaine-induced sexual dysfunction, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.981"
+}, {
+    "Name": "Cocaine-induced sleep disorder",
+    "ICD_9_CM": "292.85",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Cocaine-induced sleep disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.182"
+}, {
+    "Name": "Cocaine-induced sleep disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.282"
+}, {
+    "Name": "Cocaine-induced sleep disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.982"
+}, {
+    "Name": "Comorbid sleep-related hypoventilation",
+    "ICD_9_CM": "327.26",
+    "ICD_10_CM": "G47.36"
+}, {
+    "Name": "Conduct disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Conduct disorder, Adolescent-onset type",
+    "ICD_9_CM": "312.82",
+    "ICD_10_CM": "F91.2"
+}, {
+    "Name": "Conduct disorder, Childhood-onset type",
+    "ICD_9_CM": "312.81",
+    "ICD_10_CM": "F91.1"
+}, {
+    "Name": "Conduct disorder, Unspecified onset",
+    "ICD_9_CM": "312.89",
+    "ICD_10_CM": "F91.9"
+}, {
+    "Name": "Congenital central alveolar hypoventilation",
+    "ICD_9_CM": "327.25",
+    "ICD_10_CM": "G47.35"
+}, {
+    "Name": "Conversion disorder (functional neurological symptom disorder)",
+    "ICD_9_CM": "300.11",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Conversion disorder (functional neurological symptom disorder), With abnormal movement",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F44.4"
+}, {
+    "Name": "Conversion disorder (functional neurological symptom disorder), With anesthesia or sensory loss",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F44.6"
+}, {
+    "Name": "Conversion disorder (functional neurological symptom disorder), With attacks or seizures",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F44.5"
+}, {
+    "Name": "Conversion disorder (functional neurological symptom disorder), With mixed symptoms",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F44.7"
+}, {
+    "Name": "Conversion disorder (functional neurological symptom disorder), With special sensory symptoms",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F44.6"
+}, {
+    "Name": "Conversion disorder (functional neurological symptom disorder), With speech symptoms",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F44.4"
+}, {
+    "Name": "Conversion disorder (functional neurological symptom disorder), With swallowing symptoms",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F44.4"
+}, {
+    "Name": "Conversion disorder (functional neurological symptom disorder), With weakness/paralysis",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F44.4"
+}, {
+    "Name": "Conviction in civil or criminal proceedings without imprisonment",
+    "ICD_9_CM": "V62.5",
+    "ICD_10_CM": "Z65.0"
+}, {
+    "Name": "Cyclothymic disorder",
+    "ICD_9_CM": "301.13",
+    "ICD_10_CM": "F34.0"
+}, {
+    "Name": "Delayed ejaculation",
+    "ICD_9_CM": "302.74",
+    "ICD_10_CM": "F52.32"
+}, {
+    "Name": "Delirium",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Delirium due to another medical condition",
+    "ICD_9_CM": "293",
+    "ICD_10_CM": "F05"
+}, {
+    "Name": "Delirium due to multiple etiologies",
+    "ICD_9_CM": "293",
+    "ICD_10_CM": "F05"
+}, {
+    "Name": "Delusional disorder",
+    "ICD_9_CM": "297.1",
+    "ICD_10_CM": "F22"
+}, {
+    "Name": "Dependent personality disorder",
+    "ICD_9_CM": "301.6",
+    "ICD_10_CM": "F60.7"
+}, {
+    "Name": "Depersonalization/derealization disorder",
+    "ICD_9_CM": "300.6",
+    "ICD_10_CM": "F48.1"
+}, {
+    "Name": "Depressive disorder due to another medical condition",
+    "ICD_9_CM": "293.83",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Depressive disorder due to another medical condition, With depressive features",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F06.31"
+}, {
+    "Name": "Depressive disorder due to another medical condition, With major depressive-like episode",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F06.32"
+}, {
+    "Name": "Depressive disorder due to another medical condition, With mixed features",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F06.34"
+}, {
+    "Name": "Developmental coordination disorder",
+    "ICD_9_CM": "315.4",
+    "ICD_10_CM": "F82"
+}, {
+    "Name": "Discord with neighbor, lodger, or landlord",
+    "ICD_9_CM": "V60.89",
+    "ICD_10_CM": "Z59.2"
+}, {
+    "Name": "Discord with social service provider, including probation officer, case manager, or social services worker",
+    "ICD_9_CM": "V62.89",
+    "ICD_10_CM": "Z64.4"
+}, {
+    "Name": "Disinhibited social engagement disorder",
+    "ICD_9_CM": "313.89",
+    "ICD_10_CM": "F94.2"
+}, {
+    "Name": "Disruption of family by separation or divorce",
+    "ICD_9_CM": "V61.03",
+    "ICD_10_CM": "Z63.5"
+}, {
+    "Name": "Disruptive mood dysregulation disorder",
+    "ICD_9_CM": "296.99",
+    "ICD_10_CM": "F34.8"
+}, {
+    "Name": "Dissociative amnesia",
+    "ICD_9_CM": "300.12",
+    "ICD_10_CM": "F44.0"
+}, {
+    "Name": "Dissociative amnesia, with dissociative fugue",
+    "ICD_9_CM": "300.13",
+    "ICD_10_CM": "F44.1"
+}, {
+    "Name": "Dissociative identity disorder",
+    "ICD_9_CM": "300.14",
+    "ICD_10_CM": "F44.81"
+}, {
+    "Name": "Encopresis",
+    "ICD_9_CM": "307.7",
+    "ICD_10_CM": "F98.1"
+}, {
+    "Name": "Enuresis",
+    "ICD_9_CM": "307.6",
+    "ICD_10_CM": "F98.0"
+}, {
+    "Name": "Erectile disorder",
+    "ICD_9_CM": "302.72",
+    "ICD_10_CM": "F52.21"
+}, {
+    "Name": "Excoriation (skin-picking) disorder",
+    "ICD_9_CM": "698.4",
+    "ICD_10_CM": "L98.1"
+}, {
+    "Name": "Exhibitionistic disorder",
+    "ICD_9_CM": "302.4",
+    "ICD_10_CM": "F65.2"
+}, {
+    "Name": "Exposure to disaster, war, or other hostilities",
+    "ICD_9_CM": "V62.22",
+    "ICD_10_CM": "Z65.5"
+}, {
+    "Name": "Extreme poverty",
+    "ICD_9_CM": "V60.2",
+    "ICD_10_CM": "Z59.5"
+}, {
+    "Name": "Factitious disorder",
+    "ICD_9_CM": "300.19",
+    "ICD_10_CM": "F68.10"
+}, {
+    "Name": "Female orgasmic disorder",
+    "ICD_9_CM": "302.73",
+    "ICD_10_CM": "F52.31"
+}, {
+    "Name": "Female sexual interest/arousal disorder",
+    "ICD_9_CM": "302.72",
+    "ICD_10_CM": "F52.22"
+}, {
+    "Name": "Fetishistic disorder",
+    "ICD_9_CM": "302.81",
+    "ICD_10_CM": "F65.0"
+}, {
+    "Name": "Frotteuristic disorder",
+    "ICD_9_CM": "302.89",
+    "ICD_10_CM": "F65.81"
+}, {
+    "Name": "Gambling disorder",
+    "ICD_9_CM": "312.31",
+    "ICD_10_CM": "F63.0"
+}, {
+    "Name": "Gender dysphoria in adolescents and adults",
+    "ICD_9_CM": "302.85",
+    "ICD_10_CM": "F64.1"
+}, {
+    "Name": "Gender dysphoria in children",
+    "ICD_9_CM": "302.6",
+    "ICD_10_CM": "F64.2"
+}, {
+    "Name": "Generalized anxiety disorder",
+    "ICD_9_CM": "300.02",
+    "ICD_10_CM": "F41.1"
+}, {
+    "Name": "Genito-pelvic pain/penetration disorder",
+    "ICD_9_CM": "302.76",
+    "ICD_10_CM": "F52.6"
+}, {
+    "Name": "Global developmental delay",
+    "ICD_9_CM": "315.8",
+    "ICD_10_CM": "F88"
+}, {
+    "Name": "Hallucinogen persisting perception disorder",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": "F16.983"
+}, {
+    "Name": "High expressed emotion level within family",
+    "ICD_9_CM": "V61.8",
+    "ICD_10_CM": "Z63.8"
+}, {
+    "Name": "Histrionic personality disorder",
+    "ICD_9_CM": "301.5",
+    "ICD_10_CM": "F60.4"
+}, {
+    "Name": "Hoarding disorder",
+    "ICD_9_CM": "300.3",
+    "ICD_10_CM": "F42"
+}, {
+    "Name": "Homelessness",
+    "ICD_9_CM": "V60.0",
+    "ICD_10_CM": "Z59.0"
+}, {
+    "Name": "Hypersomnolence disorder",
+    "ICD_9_CM": "780.54",
+    "ICD_10_CM": "G47.10"
+}, {
+    "Name": "Idiopathic central sleep apnea",
+    "ICD_9_CM": "327.21",
+    "ICD_10_CM": "G47.31"
+}, {
+    "Name": "Idiopathic hypoventilation",
+    "ICD_9_CM": "327.24",
+    "ICD_10_CM": "G47.34"
+}, {
+    "Name": "Illness anxiety disorder",
+    "ICD_9_CM": "300.7",
+    "ICD_10_CM": "F45.21"
+}, {
+    "Name": "Imprisonment or other incarceration",
+    "ICD_9_CM": "V62.5",
+    "ICD_10_CM": "Z65.1"
+}, {
+    "Name": "Inadequate housing",
+    "ICD_9_CM": "V60.1",
+    "ICD_10_CM": "Z59.1"
+}, {
+    "Name": "Inhalant intoxication",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Inhalant intoxication delirium",
+    "ICD_9_CM": "292.81",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Inhalant intoxication delirium, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F18.121"
+}, {
+    "Name": "Inhalant intoxication delirium, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F18.221"
+}, {
+    "Name": "Inhalant intoxication delirium, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F18.921"
+}, {
+    "Name": "Inhalant intoxication, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F18.129"
+}, {
+    "Name": "Inhalant intoxication, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F18.229"
+}, {
+    "Name": "Inhalant intoxication, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F18.929"
+}, {
+    "Name": "Inhalant use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Inhalant use disorder, Mild",
+    "ICD_9_CM": "305.9",
+    "ICD_10_CM": "F18.10"
+}, {
+    "Name": "Inhalant use disorder, Moderate",
+    "ICD_9_CM": "304.6",
+    "ICD_10_CM": "F18.20"
+}, {
+    "Name": "Inhalant use disorder, Severe",
+    "ICD_9_CM": "304.6",
+    "ICD_10_CM": "F18.20"
+}, {
+    "Name": "Inhalant-induced anxiety disorder",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Inhalant-induced anxiety disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F18.180"
+}, {
+    "Name": "Inhalant-induced anxiety disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F18.280"
+}, {
+    "Name": "Inhalant-induced anxiety disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F18.980"
+}, {
+    "Name": "Inhalant-induced depressive disorder",
+    "ICD_9_CM": "292.84",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Inhalant-induced depressive disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F18.14"
+}, {
+    "Name": "Inhalant-induced depressive disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F18.24"
+}, {
+    "Name": "Inhalant-induced depressive disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F18.94"
+}, {
+    "Name": "Inhalant-induced major neurocognitive disorder",
+    "ICD_9_CM": "292.82",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Inhalant-induced major neurocognitive disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F18.17"
+}, {
+    "Name": "Inhalant-induced major neurocognitive disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F18.27"
+}, {
+    "Name": "Inhalant-induced major neurocognitive disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F18.97"
+}, {
+    "Name": "Inhalant-induced mild neurocognitive disorder",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Inhalant-induced mild neurocognitive disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F18.188"
+}, {
+    "Name": "Inhalant-induced mild neurocognitive disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F18.288"
+}, {
+    "Name": "Inhalant-induced mild neurocognitive disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F18.988"
+}, {
+    "Name": "Inhalant-induced psychotic disorder",
+    "ICD_9_CM": "292.9",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Inhalant-induced psychotic disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F18.159"
+}, {
+    "Name": "Inhalant-induced psychotic disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F18.259"
+}, {
+    "Name": "Inhalant-induced psychotic disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F18.959"
+}, {
+    "Name": "Insomnia disorder",
+    "ICD_9_CM": "780.52",
+    "ICD_10_CM": "G47.00"
+}, {
+    "Name": "Insufficient social insurance or welfare support",
+    "ICD_9_CM": "V60.2",
+    "ICD_10_CM": "Z59.7"
+}, {
+    "Name": "Intellectual disability (intellectual developmental disorder)",
+    "ICD_9_CM": "319",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Intellectual disability (intellectual developmental disorder), Mild",
+    "ICD_9_CM": "317",
+    "ICD_10_CM": "F70"
+}, {
+    "Name": "Intellectual disability (intellectual developmental disorder), Moderate",
+    "ICD_9_CM": "318",
+    "ICD_10_CM": "F71"
+}, {
+    "Name": "Intellectual disability (intellectual developmental disorder), Profound",
+    "ICD_9_CM": "318.2",
+    "ICD_10_CM": "F73"
+}, {
+    "Name": "Intellectual disability (intellectual developmental disorder), Severe",
+    "ICD_9_CM": "318.1",
+    "ICD_10_CM": "F72"
+}, {
+    "Name": "Intermittent explosive disorder",
+    "ICD_9_CM": "312.34",
+    "ICD_10_CM": "F63.81"
+}, {
+    "Name": "Kleptomania",
+    "ICD_9_CM": "312.32",
+    "ICD_10_CM": "F63.2"
+}, {
+    "Name": "Lack of adequate food or safe drinking water",
+    "ICD_9_CM": "V60.2",
+    "ICD_10_CM": "Z59.4"
+}, {
+    "Name": "Language disorder",
+    "ICD_9_CM": "315.39",
+    "ICD_10_CM": "F80.9"
+}, {
+    "Name": "Low income",
+    "ICD_9_CM": "V60.2",
+    "ICD_10_CM": "Z59.6"
+}, {
+    "Name": "Major depressive disorder, Recurrent episode",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Major depressive disorder, Recurrent episode, In full remission",
+    "ICD_9_CM": "296.36",
+    "ICD_10_CM": "F33.42"
+}, {
+    "Name": "Major depressive disorder, Recurrent episode, In partial remission",
+    "ICD_9_CM": "296.35",
+    "ICD_10_CM": "F33.41"
+}, {
+    "Name": "Major depressive disorder, Recurrent episode, Mild",
+    "ICD_9_CM": "296.31",
+    "ICD_10_CM": "F33.0"
+}, {
+    "Name": "Major depressive disorder, Recurrent episode, Moderate",
+    "ICD_9_CM": "296.32",
+    "ICD_10_CM": "F33.1"
+}, {
+    "Name": "Major depressive disorder, Recurrent episode, Severe",
+    "ICD_9_CM": "296.33",
+    "ICD_10_CM": "F33.2"
+}, {
+    "Name": "Major depressive disorder, Recurrent episode, Unspecified",
+    "ICD_9_CM": "296.3",
+    "ICD_10_CM": "F33.9"
+}, {
+    "Name": "Major depressive disorder, Recurrent episode, With psychotic features",
+    "ICD_9_CM": "296.34",
+    "ICD_10_CM": "F33.3"
+}, {
+    "Name": "Major depressive disorder, Single episode",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Major depressive disorder, Single episode, In full remission",
+    "ICD_9_CM": "296.26",
+    "ICD_10_CM": "F32.5"
+}, {
+    "Name": "Major depressive disorder, Single episode, In partial remission",
+    "ICD_9_CM": "296.25",
+    "ICD_10_CM": "F32.4"
+}, {
+    "Name": "Major depressive disorder, Single episode, Mild",
+    "ICD_9_CM": "296.21",
+    "ICD_10_CM": "F32.0"
+}, {
+    "Name": "Major depressive disorder, Single episode, Moderate",
+    "ICD_9_CM": "296.22",
+    "ICD_10_CM": "F32.1"
+}, {
+    "Name": "Major depressive disorder, Single episode, Severe",
+    "ICD_9_CM": "296.23",
+    "ICD_10_CM": "F32.2"
+}, {
+    "Name": "Major depressive disorder, Single episode, Unspecified",
+    "ICD_9_CM": "296.2",
+    "ICD_10_CM": "F32.9"
+}, {
+    "Name": "Major depressive disorder, Single episode, With psychotic features",
+    "ICD_9_CM": "296.24",
+    "ICD_10_CM": "F32.3"
+}, {
+    "Name": "Major frontotemporal neurocognitive disorder, Possible",
+    "ICD_9_CM": "331.9",
+    "ICD_10_CM": "G31.9"
+}, {
+    "Name": "[Frontotemporal disease +] Major frontotemporal neurocognitive disorder, Probable",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "[Frontotemporal disease +] Major frontotemporal neurocognitive disorder, Probable, With behavioral disturbance",
+    "ICD_9_CM": "[331.19 +] 294.11",
+    "ICD_10_CM": "[G31.09 +] F02.81"
+}, {
+    "Name": "[Frontotemporal disease +] Major frontotemporal neurocognitive disorder, Probable, Without behavioral disturbance",
+    "ICD_9_CM": "[331.19 +] 294.10",
+    "ICD_10_CM": "[G31.09 +] F02.80"
+}, {
+    "Name": "Major neurocognitive disorder due to Alzheimer’s disease, Possible",
+    "ICD_9_CM": "[331.19 +] 331.9",
+    "ICD_10_CM": "[G31.09 +] G31.9"
+}, {
+    "Name": "[Alzheimer’s disease +] Major neurocognitive disorder due to Alzheimer’s disease, Probable",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "[Alzheimer’s disease +] Major neurocognitive disorder due to Alzheimer’s disease, Probable, With behavioral disturbance",
+    "ICD_9_CM": "[331.0 +] 294.11",
+    "ICD_10_CM": "[G30.9 +] F02.81"
+}, {
+    "Name": "[Alzheimer’s disease +] Major neurocognitive disorder due to Alzheimer’s disease, Probable, Without behavioral disturbance",
+    "ICD_9_CM": "[331.0 +] 294.10",
+    "ICD_10_CM": "[G30.9 +] F02.80"
+}, {
+    "Name": "Major neurocognitive disorder due to another medical condition",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Major neurocognitive disorder due to another medical condition, With behavioral disturbance",
+    "ICD_9_CM": "294.11",
+    "ICD_10_CM": "F02.81"
+}, {
+    "Name": "Major neurocognitive disorder due to another medical condition, Without behavioral disturbance",
+    "ICD_9_CM": "294.1",
+    "ICD_10_CM": "F02.80"
+}, {
+    "Name": "[HIV infection +] Major neurocognitive disorder due to HIV infection",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "[HIV infection +] Major neurocognitive disorder due to HIV infection, With behavioral disturbance",
+    "ICD_9_CM": "[042 +] 294.11",
+    "ICD_10_CM": "[B20 +] F02.81"
+}, {
+    "Name": "[HIV infection +] Major neurocognitive disorder due to HIV infection, Without behavioral disturbance",
+    "ICD_9_CM": "[042 +] 294.10",
+    "ICD_10_CM": "[B20 +] F02.80"
+}, {
+    "Name": "[Huntington’s disease +] Major neurocognitive disorder due to Huntington’s disease",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "[Huntington’s disease +] Major neurocognitive disorder due to Huntington’s disease, With behavioral disturbance",
+    "ICD_9_CM": "[333.4 +] 294.11",
+    "ICD_10_CM": "[G10 +] F02.81"
+}, {
+    "Name": "[Huntington’s disease +] Major neurocognitive disorder due to Huntington’s disease, Without behavioral disturbance",
+    "ICD_9_CM": "[333.4 +] 294.10",
+    "ICD_10_CM": "[G10 +] F02.80"
+}, {
+    "Name": "Major neurocognitive disorder due to multiple etiologies",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Major neurocognitive disorder due to multiple etiologies, With behavioral disturbance",
+    "ICD_9_CM": "294.11",
+    "ICD_10_CM": "F02.81"
+}, {
+    "Name": "Major neurocognitive disorder due to multiple etiologies, Without behavioral disturbance",
+    "ICD_9_CM": "294.1",
+    "ICD_10_CM": "F02.80"
+}, {
+    "Name": "Major neurocognitive disorder due to Parkinson’s disease, Possible",
+    "ICD_9_CM": "331.9",
+    "ICD_10_CM": "G31.9"
+}, {
+    "Name": "[Parkinson’s disease +] Major neurocognitive disorder due to Parkinson’s disease, Probable",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "[Parkinson’s disease +] Major neurocognitive disorder due to Parkinson’s disease, Probable, With behavioral disturbance",
+    "ICD_9_CM": "[332.0 +] 294.11",
+    "ICD_10_CM": "[G20 +] F02.81"
+}, {
+    "Name": "[Parkinson’s disease +] Major neurocognitive disorder due to Parkinson’s disease, Probable, Without behavioral disturbance",
+    "ICD_9_CM": "[332.0 +] 294.10",
+    "ICD_10_CM": "[G20 +] F02.80"
+}, {
+    "Name": "[Prion disease +] Major neurocognitive disorder due to prion disease",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "[Prion disease +] Major neurocognitive disorder due to prion disease, With behavioral disturbance",
+    "ICD_9_CM": "[046.79 +] 294.11",
+    "ICD_10_CM": "[A81.9 +] F02.81"
+}, {
+    "Name": "[Prion disease +] Major neurocognitive disorder due to prion disease, Without behavioral disturbance",
+    "ICD_9_CM": "[046.79 +] 294.10",
+    "ICD_10_CM": "[A81.9 +] F02.80"
+}, {
+    "Name": "[Late effect of intracranial injury without skull fracture (ICD-9-CM) / Diffuse traumatic brain injury with loss of consciousness of unspecified duration, sequela (ICD-10-CM) +] Major neurocognitive disorder due to traumatic brain injury",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "[Late effect of intracranial injury without skull fracture (ICD-9-CM) / Diffuse traumatic brain injury with loss of consciousness of unspecified duration, sequela (ICD-10-CM) +] Major neurocognitive disorder due to traumatic brain injury, With behav disturbance",
+    "ICD_9_CM": "[907.0 +] 294.11",
+    "ICD_10_CM": "[S06.2X9S +] F02.81"
+}, {
+    "Name": "[Late effect of intracranial injury without skull fracture (ICD-9-CM) / Diffuse traumatic brain injury with loss of consciousness of unspecified duration, sequela (ICD-10-CM) +] Major neurocognitive disorder due to traumatic brain injury, Wibehavioral disturbance",
+    "ICD_9_CM": "[907.0 +] 294.10",
+    "ICD_10_CM": "[S06.2X9S +] F02.80"
+}, {
+    "Name": "Major neurocognitive disorder with Lewy bodies, Possible",
+    "ICD_9_CM": "331.9",
+    "ICD_10_CM": "G31.9"
+}, {
+    "Name": "[Lewy body disease +] Major neurocognitive disorder with Lewy bodies, Probable",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "[Lewy body disease +] Major neurocognitive disorder with Lewy bodies, Probable, With behavioral disturbance",
+    "ICD_9_CM": "[331.82 +] 294.11",
+    "ICD_10_CM": "[G31.83 +] F02.81"
+}, {
+    "Name": "[Lewy body disease +] Major neurocognitive disorder with Lewy bodies, Probable, Without behavioral disturbance",
+    "ICD_9_CM": "[331.82 +] 294.10",
+    "ICD_10_CM": "[G31.83 +] F02.80"
+}, {
+    "Name": "Major vascular neurocognitive disorder, Possible",
+    "ICD_9_CM": "331.9",
+    "ICD_10_CM": "G31.9"
+}, {
+    "Name": "Major vascular neurocognitive disorder, Probable",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Major vascular neurocognitive disorder, Probable, With behavioral disturbance",
+    "ICD_9_CM": "290.4",
+    "ICD_10_CM": "F01.51"
+}, {
+    "Name": "Major vascular neurocognitive disorder, Probable, Without behavioral disturbance",
+    "ICD_9_CM": "290.4",
+    "ICD_10_CM": "F01.50"
+}, {
+    "Name": "Male hypoactive sexual desire disorder",
+    "ICD_9_CM": "302.71",
+    "ICD_10_CM": "F52.0"
+}, {
+    "Name": "Malingering",
+    "ICD_9_CM": "V65.2",
+    "ICD_10_CM": "Z76.5"
+}, {
+    "Name": "Medication-induced acute akathisia",
+    "ICD_9_CM": "333.99",
+    "ICD_10_CM": "G25.71"
+}, {
+    "Name": "Medication-induced acute dystonia",
+    "ICD_9_CM": "333.72",
+    "ICD_10_CM": "G24.02"
+}, {
+    "Name": "Medication-induced delirium",
+    "ICD_9_CM": "292.81",
+    "ICD_10_CM": "see specific substances"
+}, {
+    "Name": "Medication-induced delirium",
+    "ICD_9_CM": "292.81",
+    "ICD_10_CM": "see specific substances"
+}, {
+    "Name": "Medication-induced postural tremor",
+    "ICD_9_CM": "333.1",
+    "ICD_10_CM": "G25.1"
+}, {
+    "Name": "Mild frontotemporal neurocognitive disorder",
+    "ICD_9_CM": "331.83",
+    "ICD_10_CM": "G31.84"
+}, {
+    "Name": "Mild neurocognitive disorder due to Alzheimer’s disease",
+    "ICD_9_CM": "331.83",
+    "ICD_10_CM": "G31.84"
+}, {
+    "Name": "Mild neurocognitive disorder due to another medical condition",
+    "ICD_9_CM": "331.83",
+    "ICD_10_CM": "G31.84"
+}, {
+    "Name": "Mild neurocognitive disorder due to HIV infection",
+    "ICD_9_CM": "331.83",
+    "ICD_10_CM": "G31.84"
+}, {
+    "Name": "Mild neurocognitive disorder due to Huntington’s disease",
+    "ICD_9_CM": "331.83",
+    "ICD_10_CM": "G31.84"
+}, {
+    "Name": "Mild neurocognitive disorder due to multiple etiologies",
+    "ICD_9_CM": "331.83",
+    "ICD_10_CM": "G31.84"
+}, {
+    "Name": "Mild neurocognitive disorder due to Parkinson’s disease",
+    "ICD_9_CM": "331.83",
+    "ICD_10_CM": "G31.84"
+}, {
+    "Name": "Mild neurocognitive disorder due to prion disease",
+    "ICD_9_CM": "331.83",
+    "ICD_10_CM": "G31.84"
+}, {
+    "Name": "Mild neurocognitive disorder due to traumatic brain injury",
+    "ICD_9_CM": "331.83",
+    "ICD_10_CM": "G31.84"
+}, {
+    "Name": "Mild neurocognitive disorder with Lewy bodies",
+    "ICD_9_CM": "331.83",
+    "ICD_10_CM": "G31.84"
+}, {
+    "Name": "Mild vascular neurocognitive disorder",
+    "ICD_9_CM": "331.83",
+    "ICD_10_CM": "G31.84"
+}, {
+    "Name": "Narcissistic personality disorder",
+    "ICD_9_CM": "301.81",
+    "ICD_10_CM": "F60.81"
+}, {
+    "Name": "Narcolepsy",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Narcolepsy secondary to another medical condition",
+    "ICD_9_CM": "347.1",
+    "ICD_10_CM": "G47.429"
+}, {
+    "Name": "Narcolepsy with cataplexy but without hypocretin deficiency",
+    "ICD_9_CM": "347.01",
+    "ICD_10_CM": "G47.411"
+}, {
+    "Name": "Narcolepsy without cataplexy but with hypocretin deficiency",
+    "ICD_9_CM": "347",
+    "ICD_10_CM": "G47.419"
+}, {
+    "Name": "Neuroleptic malignant syndrome",
+    "ICD_9_CM": "333.92",
+    "ICD_10_CM": "G21.0"
+}, {
+    "Name": "Neuroleptic-induced parkinsonism",
+    "ICD_9_CM": "332.1",
+    "ICD_10_CM": "G21.11"
+}, {
+    "Name": "Nightmare disorder",
+    "ICD_9_CM": "307.47",
+    "ICD_10_CM": "F51.5"
+}, {
+    "Name": "No Diagnosis or Condition on Axis I / No Diagnosis on Axis II [DSM-IV]",
+    "ICD_9_CM": "V71.09",
+    "ICD_10_CM": "Z03.89"
+}, {
+    "Name": "Nonadherence to medical treatment",
+    "ICD_9_CM": "V15.81",
+    "ICD_10_CM": "Z91.19"
+}, {
+    "Name": "Non-rapid eye movement sleep arousal disorders",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Non-rapid eye movement sleep arousal disorders, Sleep terror type",
+    "ICD_9_CM": "307.46",
+    "ICD_10_CM": "F51.4"
+}, {
+    "Name": "Non-rapid eye movement sleep arousal disorders, Sleepwalking type",
+    "ICD_9_CM": "307.46",
+    "ICD_10_CM": "F51.3"
+}, {
+    "Name": "Obsessive-compulsive and related disorder due to another medical condition",
+    "ICD_9_CM": "294.8",
+    "ICD_10_CM": "F06.8"
+}, {
+    "Name": "Obsessive-compulsive disorder",
+    "ICD_9_CM": "300.3",
+    "ICD_10_CM": "F42"
+}, {
+    "Name": "Obsessive-compulsive personality disorder",
+    "ICD_9_CM": "301.4",
+    "ICD_10_CM": "F60.5"
+}, {
+    "Name": "Obstructive sleep apnea hypopnea",
+    "ICD_9_CM": "327.23",
+    "ICD_10_CM": "G47.33"
+}, {
+    "Name": "Opioid intoxication",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Opioid intoxication delirium",
+    "ICD_9_CM": "292.81",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Opioid intoxication delirium, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F11.121"
+}, {
+    "Name": "Opioid intoxication delirium, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F11.221"
+}, {
+    "Name": "Opioid intoxication delirium, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F11.921"
+}, {
+    "Name": "Opioid intoxication, With perceptual disturbances",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Opioid intoxication, With perceptual disturbances, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F11.122"
+}, {
+    "Name": "Opioid intoxication, With perceptual disturbances, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F11.222"
+}, {
+    "Name": "Opioid intoxication, With perceptual disturbances, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F11.922"
+}, {
+    "Name": "Opioid intoxication, Without perceptual disturbances",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Opioid intoxication, Without perceptual disturbances, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F11.129"
+}, {
+    "Name": "Opioid intoxication, Without perceptual disturbances, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F11.229"
+}, {
+    "Name": "Opioid intoxication, Without perceptual disturbances, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F11.929"
+}, {
+    "Name": "Opioid use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Opioid use disorder, Mild",
+    "ICD_9_CM": "305.5",
+    "ICD_10_CM": "F11.10"
+}, {
+    "Name": "Opioid use disorder, Moderate",
+    "ICD_9_CM": "304",
+    "ICD_10_CM": "F11.20"
+}, {
+    "Name": "Opioid use disorder, Severe",
+    "ICD_9_CM": "304",
+    "ICD_10_CM": "F11.20"
+}, {
+    "Name": "Opioid withdrawal",
+    "ICD_9_CM": "292",
+    "ICD_10_CM": "F11.23"
+}, {
+    "Name": "Opioid withdrawal delirium",
+    "ICD_9_CM": "292",
+    "ICD_10_CM": "F11.23"
+}, {
+    "Name": "Opioid-induced anxiety disorder",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Opioid-induced anxiety disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F11.188"
+}, {
+    "Name": "Opioid-induced anxiety disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F11.288"
+}, {
+    "Name": "Opioid-induced anxiety disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F11.988"
+}, {
+    "Name": "Opioid-induced delirium",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F11.921"
+}, {
+    "Name": "Opioid-induced depressive disorder",
+    "ICD_9_CM": "292.84",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Opioid-induced depressive disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F11.14"
+}, {
+    "Name": "Opioid-induced depressive disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F11.24"
+}, {
+    "Name": "Opioid-induced depressive disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F11.94"
+}, {
+    "Name": "Opioid-induced sexual dysfunction",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Opioid-induced sexual dysfunction, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F11.181"
+}, {
+    "Name": "Opioid-induced sexual dysfunction, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F11.281"
+}, {
+    "Name": "Opioid-induced sexual dysfunction, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F11.981"
+}, {
+    "Name": "Opioid-induced sleep disorder",
+    "ICD_9_CM": "292.85",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Opioid-induced sleep disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F11.182"
+}, {
+    "Name": "Opioid-induced sleep disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F11.282"
+}, {
+    "Name": "Opioid-induced sleep disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F11.982"
+}, {
+    "Name": "Oppositional defiant disorder",
+    "ICD_9_CM": "313.81",
+    "ICD_10_CM": "F91.3"
+}, {
+    "Name": "Other (or unknown) substance intoxication",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other (or unknown) substance intoxication delirium",
+    "ICD_9_CM": "292.81",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other (or unknown) substance intoxication delirium, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.121"
+}, {
+    "Name": "Other (or unknown) substance intoxication delirium, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.221"
+}, {
+    "Name": "Other (or unknown) substance intoxication delirium, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.921"
+}, {
+    "Name": "Other (or unknown) substance intoxication, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.129"
+}, {
+    "Name": "Other (or unknown) substance intoxication, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.229"
+}, {
+    "Name": "Other (or unknown) substance intoxication, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.929"
+}, {
+    "Name": "Other (or unknown) substance use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other (or unknown) substance use disorder, Mild",
+    "ICD_9_CM": "305.9",
+    "ICD_10_CM": "F19.10"
+}, {
+    "Name": "Other (or unknown) substance use disorder, Moderate",
+    "ICD_9_CM": "304.9",
+    "ICD_10_CM": "F19.20"
+}, {
+    "Name": "Other (or unknown) substance use disorder, Severe",
+    "ICD_9_CM": "304.9",
+    "ICD_10_CM": "F19.20"
+}, {
+    "Name": "Other (or unknown) substance withdrawal",
+    "ICD_9_CM": "292",
+    "ICD_10_CM": "F19.239"
+}, {
+    "Name": "Other (or unknown) substance withdrawal delirium",
+    "ICD_9_CM": "292",
+    "ICD_10_CM": "F19.231"
+}, {
+    "Name": "Other (or unknown) substance-induced anxiety disorder",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other (or unknown) substance-induced anxiety disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.180"
+}, {
+    "Name": "Other (or unknown) substance-induced anxiety disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.280"
+}, {
+    "Name": "Other (or unknown) substance-induced anxiety disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.980"
+}, {
+    "Name": "Other (or unknown) substance-induced bipolar and related disorder",
+    "ICD_9_CM": "292.84",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other (or unknown) substance-induced bipolar and related disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.14"
+}, {
+    "Name": "Other (or unknown) substance-induced bipolar and related disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.24"
+}, {
+    "Name": "Other (or unknown) substance-induced bipolar and related disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.94"
+}, {
+    "Name": "Other (or unknown) substance-induced delirium",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.921"
+}, {
+    "Name": "Other (or unknown) substance-induced depressive disorder",
+    "ICD_9_CM": "292.84",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other (or unknown) substance-induced depressive disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.14"
+}, {
+    "Name": "Other (or unknown) substance-induced depressive disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.24"
+}, {
+    "Name": "Other (or unknown) substance-induced depressive disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.94"
+}, {
+    "Name": "Other (or unknown) substance-induced major neurocognitive disorder",
+    "ICD_9_CM": "292.82",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other (or unknown) substance-induced major neurocognitive disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.17"
+}, {
+    "Name": "Other (or unknown) substance-induced major neurocognitive disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.27"
+}, {
+    "Name": "Other (or unknown) substance-induced major neurocognitive disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.97"
+}, {
+    "Name": "Other (or unknown) substance-induced mild neurocognitive disorder",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other (or unknown) substance-induced mild neurocognitive disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.188"
+}, {
+    "Name": "Other (or unknown) substance-induced mild neurocognitive disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.288"
+}, {
+    "Name": "Other (or unknown) substance-induced mild neurocognitive disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.988"
+}, {
+    "Name": "Other (or unknown) substance-induced obsessive-compulsive and related disorder",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other (or unknown) substance-induced obsessive-compulsive and related disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.188"
+}, {
+    "Name": "Other (or unknown) substance-induced obsessive-compulsive and related disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.288"
+}, {
+    "Name": "Other (or unknown) substance-induced obsessive-compulsive and related disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.988"
+}, {
+    "Name": "Other (or unknown) substance-induced psychotic disorder",
+    "ICD_9_CM": "292.9",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other (or unknown) substance-induced psychotic disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.159"
+}, {
+    "Name": "Other (or unknown) substance-induced psychotic disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.259"
+}, {
+    "Name": "Other (or unknown) substance-induced psychotic disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.959"
+}, {
+    "Name": "Other (or unknown) substance-induced sexual dysfunction",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other (or unknown) substance-induced sexual dysfunction, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.181"
+}, {
+    "Name": "Other (or unknown) substance-induced sexual dysfunction, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.281"
+}, {
+    "Name": "Other (or unknown) substance-induced sexual dysfunction, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.981"
+}, {
+    "Name": "Other (or unknown) substance-induced sleep disorder",
+    "ICD_9_CM": "292.85",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other (or unknown) substance-induced sleep disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.182"
+}, {
+    "Name": "Other (or unknown) substance-induced sleep disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.282"
+}, {
+    "Name": "Other (or unknown) substance-induced sleep disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F19.982"
+}, {
+    "Name": "Other adverse effect of medication",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other adverse effect of medication, Initial encounter",
+    "ICD_9_CM": "995.2",
+    "ICD_10_CM": "T50.905A"
+}, {
+    "Name": "Other adverse effect of medication, Sequelae",
+    "ICD_9_CM": "995.2",
+    "ICD_10_CM": "T50.905S"
+}, {
+    "Name": "Other adverse effect of medication, Subsequent encounter",
+    "ICD_9_CM": "995.2",
+    "ICD_10_CM": "T50.905D"
+}, {
+    "Name": "Other circumstances related to adult abuse by nonspouse or nonpartner",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other circumstances related to adult abuse by nonspouse or nonpartner, Encounter for mental health services for perpetrator of nonspousal adult abuse",
+    "ICD_9_CM": "V62.83",
+    "ICD_10_CM": "Z69.82"
+}, {
+    "Name": "Other circumstances related to adult abuse by nonspouse or nonpartner, Encounter for mental health services for victim of nonspousal adult abuse",
+    "ICD_9_CM": "V65.49",
+    "ICD_10_CM": "Z69.81"
+}, {
+    "Name": "Other circumstances related to child neglect",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other circumstances related to child neglect, Encounter for mental health services for perpetrator of nonparental child neglect",
+    "ICD_9_CM": "V62.83",
+    "ICD_10_CM": "Z69.021"
+}, {
+    "Name": "Other circumstances related to child neglect, Encounter for mental health services for perpetrator of parental child neglect",
+    "ICD_9_CM": "V61.22",
+    "ICD_10_CM": "Z69.011"
+}, {
+    "Name": "Other circumstances related to child neglect, Encounter for mental health services for victim of child neglect by parent",
+    "ICD_9_CM": "V61.21",
+    "ICD_10_CM": "Z69.010"
+}, {
+    "Name": "Other circumstances related to child neglect, Encounter for mental health services for victim of nonparental child neglect",
+    "ICD_9_CM": "V61.21",
+    "ICD_10_CM": "Z69.020"
+}, {
+    "Name": "Other circumstances related to child physical abuse",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other circumstances related to child physical abuse, Encounter for mental health services for perpetrator of nonparental child abuse",
+    "ICD_9_CM": "V62.83",
+    "ICD_10_CM": "Z69.021"
+}, {
+    "Name": "Other circumstances related to child physical abuse, Encounter for mental health services for perpetrator of parental child abuse",
+    "ICD_9_CM": "V61.22",
+    "ICD_10_CM": "Z69.011"
+}, {
+    "Name": "Other circumstances related to child physical abuse, Encounter for mental health services for victim of child abuse by parent",
+    "ICD_9_CM": "V61.21",
+    "ICD_10_CM": "Z69.010"
+}, {
+    "Name": "Other circumstances related to child physical abuse, Encounter for mental health services for victim of nonparental child abuse",
+    "ICD_9_CM": "V61.21",
+    "ICD_10_CM": "Z69.020"
+}, {
+    "Name": "Other circumstances related to child psychological abuse",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other circumstances related to child psychological abuse, Encounter for mental health services for perpetrator of nonparental child psychological abuse",
+    "ICD_9_CM": "V62.83",
+    "ICD_10_CM": "Z69.021"
+}, {
+    "Name": "Other circumstances related to child psychological abuse, Encounter for mental health services for perpetrator of parental child psychological abuse",
+    "ICD_9_CM": "V61.22",
+    "ICD_10_CM": "Z69.011"
+}, {
+    "Name": "Other circumstances related to child psychological abuse, Encounter for mental health services for victim of child psychological abuse by parent",
+    "ICD_9_CM": "V61.21",
+    "ICD_10_CM": "Z69.010"
+}, {
+    "Name": "Other circumstances related to child psychological abuse, Encounter for mental health services for victim of nonparental child psychological abuse",
+    "ICD_9_CM": "V61.21",
+    "ICD_10_CM": "Z69.020"
+}, {
+    "Name": "Other circumstances related to child sexual abuse",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other circumstances related to child sexual abuse, Encounter for mental health services for perpetrator of nonparental child sexual abuse",
+    "ICD_9_CM": "V62.83",
+    "ICD_10_CM": "Z69.021"
+}, {
+    "Name": "Other circumstances related to child sexual abuse, Encounter for mental health services for perpetrator of parental child sexual abuse",
+    "ICD_9_CM": "V61.22",
+    "ICD_10_CM": "Z69.011"
+}, {
+    "Name": "Other circumstances related to child sexual abuse, Encounter for mental health services for victim of child sexual abuse by parent",
+    "ICD_9_CM": "V61.21",
+    "ICD_10_CM": "Z69.010"
+}, {
+    "Name": "Other circumstances related to child sexual abuse, Encounter for mental health services for victim of nonparental child sexual abuse",
+    "ICD_9_CM": "V61.21",
+    "ICD_10_CM": "Z69.020"
+}, {
+    "Name": "Other circumstances related to spouse or partner abuse, Psychological",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other circumstances related to spouse or partner abuse, Psychological, Encounter for mental health services for perpetrator of spouse or partner psychological abuse",
+    "ICD_9_CM": "V61.12",
+    "ICD_10_CM": "Z69.12"
+}, {
+    "Name": "Other circumstances related to spouse or partner abuse, Psychological, Encounter for mental health services for victim of spouse or partner psychological abuse",
+    "ICD_9_CM": "V61.11",
+    "ICD_10_CM": "Z69.11"
+}, {
+    "Name": "Other circumstances related to spouse or partner neglect",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other circumstances related to spouse or partner neglect, Encounter for mental health services for perpetrator of spouse or partner neglect",
+    "ICD_9_CM": "V61.12",
+    "ICD_10_CM": "Z69.12"
+}, {
+    "Name": "Other circumstances related to spouse or partner neglect, Encounter for mental health services for victim of spouse or partner neglect",
+    "ICD_9_CM": "V61.11",
+    "ICD_10_CM": "Z69.11"
+}, {
+    "Name": "Other circumstances related to spouse or partner violence, Physical",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other circumstances related to spouse or partner violence, Physical, Encounter for mental health services for perpetrator of spouse or partner violence",
+    "ICD_9_CM": "V61.12",
+    "ICD_10_CM": "Z69.12"
+}, {
+    "Name": "Other circumstances related to spouse or partner violence, Physical, Encounter for mental health services for victim of spouse or partner violence",
+    "ICD_9_CM": "V61.11",
+    "ICD_10_CM": "Z69.11"
+}, {
+    "Name": "Other circumstances related to spouse or partner violence, Sexual",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other circumstances related to spouse or partner violence, Sexual, Encounter for mental health services for perpetrator of spouse or partner violence",
+    "ICD_9_CM": "V61.12",
+    "ICD_10_CM": "Z69.12"
+}, {
+    "Name": "Other circumstances related to spouse or partner violence, Sexual, Encounter for mental health services for victim of spouse or partner violence",
+    "ICD_9_CM": "V61.11",
+    "ICD_10_CM": "Z69.81"
+}, {
+    "Name": "Other counseling or consultation",
+    "ICD_9_CM": "V65.40",
+    "ICD_10_CM": "Z71.9"
+}, {
+    "Name": "Other hallucinogen intoxication",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other hallucinogen intoxication delirium",
+    "ICD_9_CM": "292.81",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other hallucinogen intoxication delirium, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.121"
+}, {
+    "Name": "Other hallucinogen intoxication delirium, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.221"
+}, {
+    "Name": "Other hallucinogen intoxication delirium, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.921"
+}, {
+    "Name": "Other hallucinogen intoxication, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.129"
+}, {
+    "Name": "Other hallucinogen intoxication, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.229"
+}, {
+    "Name": "Other hallucinogen intoxication, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.929"
+}, {
+    "Name": "Other hallucinogen use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other hallucinogen use disorder, Mild",
+    "ICD_9_CM": "305.3",
+    "ICD_10_CM": "F16.10"
+}, {
+    "Name": "Other hallucinogen use disorder, Moderate",
+    "ICD_9_CM": "304.5",
+    "ICD_10_CM": "F16.20"
+}, {
+    "Name": "Other hallucinogen use disorder, Severe",
+    "ICD_9_CM": "304.5",
+    "ICD_10_CM": "F16.20"
+}, {
+    "Name": "Other hallucinogen-induced anxiety disorder",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other hallucinogen-induced anxiety disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.180"
+}, {
+    "Name": "Other hallucinogen-induced anxiety disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.280"
+}, {
+    "Name": "Other hallucinogen-induced anxiety disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.980"
+}, {
+    "Name": "Other hallucinogen-induced bipolar and related disorder",
+    "ICD_9_CM": "292.84",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other hallucinogen-induced bipolar and related disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.14"
+}, {
+    "Name": "Other hallucinogen-induced bipolar and related disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.24"
+}, {
+    "Name": "Other hallucinogen-induced bipolar and related disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.94"
+}, {
+    "Name": "Other hallucinogen-induced depressive disorder",
+    "ICD_9_CM": "292.84",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other hallucinogen-induced depressive disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.14"
+}, {
+    "Name": "Other hallucinogen-induced depressive disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.24"
+}, {
+    "Name": "Other hallucinogen-induced depressive disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.94"
+}, {
+    "Name": "Other hallucinogen-induced psychotic disorder",
+    "ICD_9_CM": "292.9",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other hallucinogen-induced psychotic disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.159"
+}, {
+    "Name": "Other hallucinogen-induced psychotic disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.259"
+}, {
+    "Name": "Other hallucinogen-induced psychotic disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.959"
+}, {
+    "Name": "Other medication-induced movement disorder",
+    "ICD_9_CM": "333.99",
+    "ICD_10_CM": "G25.79"
+}, {
+    "Name": "Other medication-induced parkinsonism",
+    "ICD_9_CM": "332.1",
+    "ICD_10_CM": "G21.19"
+}, {
+    "Name": "Other or unspecified stimulant use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other or unspecified stimulant use disorder, Mild",
+    "ICD_9_CM": "305.7",
+    "ICD_10_CM": "F15.10"
+}, {
+    "Name": "Other or unspecified stimulant use disorder, Moderate",
+    "ICD_9_CM": "304.4",
+    "ICD_10_CM": "F15.20"
+}, {
+    "Name": "Other or unspecified stimulant use disorder, Severe",
+    "ICD_9_CM": "304.4",
+    "ICD_10_CM": "F15.20"
+}, {
+    "Name": "Other personal history of psychological trauma",
+    "ICD_9_CM": "V15.49",
+    "ICD_10_CM": "Z91.49"
+}, {
+    "Name": "Other personal risk factors",
+    "ICD_9_CM": "V15.89",
+    "ICD_10_CM": "Z91.89"
+}, {
+    "Name": "Other problem related to employment",
+    "ICD_9_CM": "V62.29",
+    "ICD_10_CM": "Z56.9"
+}, {
+    "Name": "Other problem related to psychosocial circumstances",
+    "ICD_9_CM": "V62.89",
+    "ICD_10_CM": "Z65.8"
+}, {
+    "Name": "Other specified anxiety disorder",
+    "ICD_9_CM": "300.09",
+    "ICD_10_CM": "F41.8"
+}, {
+    "Name": "Other specified attention-deficit/hyperactivity disorder",
+    "ICD_9_CM": "314.01",
+    "ICD_10_CM": "F90.8"
+}, {
+    "Name": "Other specified bipolar and related disorder",
+    "ICD_9_CM": "296.89",
+    "ICD_10_CM": "F31.89"
+}, {
+    "Name": "Other specified delirium",
+    "ICD_9_CM": "780.09",
+    "ICD_10_CM": "R41.0"
+}, {
+    "Name": "Other specified depressive disorder",
+    "ICD_9_CM": "311",
+    "ICD_10_CM": "F32.8"
+}, {
+    "Name": "Other specified disruptive, impulse-control, and conduct disorder",
+    "ICD_9_CM": "312.89",
+    "ICD_10_CM": "F91.8"
+}, {
+    "Name": "Other specified dissociative disorder",
+    "ICD_9_CM": "300.15",
+    "ICD_10_CM": "F44.89"
+}, {
+    "Name": "Other specified elimination disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Other specified elimination disorder, With fecal symptoms",
+    "ICD_9_CM": "787.6",
+    "ICD_10_CM": "R15.9"
+}, {
+    "Name": "Other specified elimination disorder, With urinary symptoms",
+    "ICD_9_CM": "788.39",
+    "ICD_10_CM": "N39.498"
+}, {
+    "Name": "Other specified feeding or eating disorder",
+    "ICD_9_CM": "307.59",
+    "ICD_10_CM": "F50.8"
+}, {
+    "Name": "Other specified gender dysphoria",
+    "ICD_9_CM": "302.6",
+    "ICD_10_CM": "F64.8"
+}, {
+    "Name": "Other specified hypersomnolence disorder",
+    "ICD_9_CM": "780.54",
+    "ICD_10_CM": "G47.19"
+}, {
+    "Name": "Other specified insomnia disorder",
+    "ICD_9_CM": "780.52",
+    "ICD_10_CM": "G47.09"
+}, {
+    "Name": "Other specified mental disorder",
+    "ICD_9_CM": "300.9",
+    "ICD_10_CM": "F99"
+}, {
+    "Name": "Other specified mental disorder due to another medical condition",
+    "ICD_9_CM": "294.8",
+    "ICD_10_CM": "F06.8"
+}, {
+    "Name": "Other specified neurodevelopmental disorder",
+    "ICD_9_CM": "315.8",
+    "ICD_10_CM": "F88"
+}, {
+    "Name": "Other specified obsessive-compulsive and related disorder",
+    "ICD_9_CM": "300.3",
+    "ICD_10_CM": "F42"
+}, {
+    "Name": "Other specified paraphilic disorder",
+    "ICD_9_CM": "302.89",
+    "ICD_10_CM": "F65.89"
+}, {
+    "Name": "Other specified personality disorder",
+    "ICD_9_CM": "301.89",
+    "ICD_10_CM": "F60.89"
+}, {
+    "Name": "Other specified schizophrenia spectrum and other psychotic disorder",
+    "ICD_9_CM": "298.8",
+    "ICD_10_CM": "F28"
+}, {
+    "Name": "Other specified sexual dysfunction",
+    "ICD_9_CM": "302.79",
+    "ICD_10_CM": "F52.8"
+}, {
+    "Name": "Other specified sleep-wake disorder",
+    "ICD_9_CM": "780.59",
+    "ICD_10_CM": "G47.8"
+}, {
+    "Name": "Other specified somatic symptom and related disorder",
+    "ICD_9_CM": "300.89",
+    "ICD_10_CM": "F45.8"
+}, {
+    "Name": "Other specified tic disorder",
+    "ICD_9_CM": "307.2",
+    "ICD_10_CM": "F95.8"
+}, {
+    "Name": "Other specified trauma- and stressor-related disorder",
+    "ICD_9_CM": "309.89",
+    "ICD_10_CM": "F43.8"
+}, {
+    "Name": "Overweight or obesity",
+    "ICD_9_CM": "278",
+    "ICD_10_CM": "E66.9"
+}, {
+    "Name": "Panic attack specifier",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Panic disorder",
+    "ICD_9_CM": "300.01",
+    "ICD_10_CM": "F41.0"
+}, {
+    "Name": "Paranoid personality disorder",
+    "ICD_9_CM": "301",
+    "ICD_10_CM": "F60.0"
+}, {
+    "Name": "Parent-child relational problem",
+    "ICD_9_CM": "V61.20",
+    "ICD_10_CM": "Z62.820"
+}, {
+    "Name": "Pedophilic disorder",
+    "ICD_9_CM": "302.2",
+    "ICD_10_CM": "F65.4"
+}, {
+    "Name": "Persistent (chronic) motor or vocal tic disorder",
+    "ICD_9_CM": "307.22",
+    "ICD_10_CM": "F95.1"
+}, {
+    "Name": "Persistent depressive disorder (dysthymia)",
+    "ICD_9_CM": "300.4",
+    "ICD_10_CM": "F34.1"
+}, {
+    "Name": "Personal history (past history) of neglect in childhood",
+    "ICD_9_CM": "V15.42",
+    "ICD_10_CM": "Z62.812"
+}, {
+    "Name": "Personal history (past history) of physical abuse in childhood",
+    "ICD_9_CM": "V15.41",
+    "ICD_10_CM": "Z62.810"
+}, {
+    "Name": "Personal history (past history) of psychological abuse in childhood",
+    "ICD_9_CM": "V15.42",
+    "ICD_10_CM": "Z62.811"
+}, {
+    "Name": "Personal history (past history) of sexual abuse in childhood",
+    "ICD_9_CM": "V15.41",
+    "ICD_10_CM": "Z62.810"
+}, {
+    "Name": "Personal history (past history) of spouse or partner neglect",
+    "ICD_9_CM": "V15.42",
+    "ICD_10_CM": "Z91.412"
+}, {
+    "Name": "Personal history (past history) of spouse or partner psychological abuse",
+    "ICD_9_CM": "V15.42",
+    "ICD_10_CM": "Z91.411"
+}, {
+    "Name": "Personal history (past history) of spouse or partner violence, Physical",
+    "ICD_9_CM": "V15.41",
+    "ICD_10_CM": "Z91.410"
+}, {
+    "Name": "Personal history (past history) of spouse or partner violence, Sexual",
+    "ICD_9_CM": "V15.41",
+    "ICD_10_CM": "Z91.410"
+}, {
+    "Name": "Personal history of military deployment",
+    "ICD_9_CM": "V62.22",
+    "ICD_10_CM": "Z91.82"
+}, {
+    "Name": "Personal history of self-harm",
+    "ICD_9_CM": "V15.59",
+    "ICD_10_CM": "Z91.5"
+}, {
+    "Name": "Personality change due to another medical condition",
+    "ICD_9_CM": "310.1",
+    "ICD_10_CM": "F07.0"
+}, {
+    "Name": "Phase of life problem",
+    "ICD_9_CM": "V62.89",
+    "ICD_10_CM": "Z60.0"
+}, {
+    "Name": "Phencyclidine intoxication",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Phencyclidine intoxication delirium",
+    "ICD_9_CM": "292.81",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Phencyclidine intoxication delirium, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.121"
+}, {
+    "Name": "Phencyclidine intoxication delirium, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.221"
+}, {
+    "Name": "Phencyclidine intoxication delirium, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.921"
+}, {
+    "Name": "Phencyclidine intoxication, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.129"
+}, {
+    "Name": "Phencyclidine intoxication, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.229"
+}, {
+    "Name": "Phencyclidine intoxication, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.929"
+}, {
+    "Name": "Phencyclidine use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Phencyclidine use disorder, Mild",
+    "ICD_9_CM": "305.9",
+    "ICD_10_CM": "F16.10"
+}, {
+    "Name": "Phencyclidine use disorder, Moderate",
+    "ICD_9_CM": "304.6",
+    "ICD_10_CM": "F16.20"
+}, {
+    "Name": "Phencyclidine use disorder, Severe",
+    "ICD_9_CM": "304.6",
+    "ICD_10_CM": "F16.20"
+}, {
+    "Name": "Phencyclidine-induced anxiety disorder",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Phencyclidine-induced anxiety disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.180"
+}, {
+    "Name": "Phencyclidine-induced anxiety disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.280"
+}, {
+    "Name": "Phencyclidine-induced anxiety disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.980"
+}, {
+    "Name": "Phencyclidine-induced bipolar and related disorder",
+    "ICD_9_CM": "292.84",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Phencyclidine-induced bipolar and related disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.14"
+}, {
+    "Name": "Phencyclidine-induced bipolar and related disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.24"
+}, {
+    "Name": "Phencyclidine-induced bipolar and related disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.94"
+}, {
+    "Name": "Phencyclidine-induced depressive disorder",
+    "ICD_9_CM": "292.84",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Phencyclidine-induced depressive disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.14"
+}, {
+    "Name": "Phencyclidine-induced depressive disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.24"
+}, {
+    "Name": "Phencyclidine-induced depressive disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.94"
+}, {
+    "Name": "Phencyclidine-induced psychotic disorder",
+    "ICD_9_CM": "292.9",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Phencyclidine-induced psychotic disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.159"
+}, {
+    "Name": "Phencyclidine-induced psychotic disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.259"
+}, {
+    "Name": "Phencyclidine-induced psychotic disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F16.959"
+}, {
+    "Name": "Pica",
+    "ICD_9_CM": "307.52",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Pica, In adults",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F50.8"
+}, {
+    "Name": "Pica, In children",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F98.3"
+}, {
+    "Name": "Posttraumatic stress disorder",
+    "ICD_9_CM": "309.81",
+    "ICD_10_CM": "F43.10"
+}, {
+    "Name": "Premature (early) ejaculation",
+    "ICD_9_CM": "302.75",
+    "ICD_10_CM": "F52.4"
+}, {
+    "Name": "Premenstrual dysphoric disorder",
+    "ICD_9_CM": "625.4",
+    "ICD_10_CM": "N94.3"
+}, {
+    "Name": "Problem related to current military deployment status",
+    "ICD_9_CM": "V62.21",
+    "ICD_10_CM": "Z56.82"
+}, {
+    "Name": "Problem related to lifestyle",
+    "ICD_9_CM": "V69.9",
+    "ICD_10_CM": "Z72.9"
+}, {
+    "Name": "Problem related to living alone",
+    "ICD_9_CM": "V60.3",
+    "ICD_10_CM": "Z60.2"
+}, {
+    "Name": "Problem related to living in a residential institution",
+    "ICD_9_CM": "V60.6",
+    "ICD_10_CM": "Z59.3"
+}, {
+    "Name": "Problems related to multiparity",
+    "ICD_9_CM": "V61.5",
+    "ICD_10_CM": "Z64.1"
+}, {
+    "Name": "Problems related to other legal circumstances",
+    "ICD_9_CM": "V62.5",
+    "ICD_10_CM": "Z65.3"
+}, {
+    "Name": "Problems related to release from prison",
+    "ICD_9_CM": "V62.5",
+    "ICD_10_CM": "Z65.2"
+}, {
+    "Name": "Problems related to unwanted pregnancy",
+    "ICD_9_CM": "V61.7",
+    "ICD_10_CM": "Z64.0"
+}, {
+    "Name": "Provisional tic disorder",
+    "ICD_9_CM": "307.21",
+    "ICD_10_CM": "F95.0"
+}, {
+    "Name": "Psychological factors affecting other medical conditions",
+    "ICD_9_CM": "316",
+    "ICD_10_CM": "F54"
+}, {
+    "Name": "Psychotic disorder due to another medical condition",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Psychotic disorder due to another medical condition, With delusions",
+    "ICD_9_CM": "293.81",
+    "ICD_10_CM": "F06.2"
+}, {
+    "Name": "Psychotic disorder due to another medical condition, With hallucinations",
+    "ICD_9_CM": "293.82",
+    "ICD_10_CM": "F06.0"
+}, {
+    "Name": "Pyromania",
+    "ICD_9_CM": "312.33",
+    "ICD_10_CM": "F63.1"
+}, {
+    "Name": "Rapid eye movement sleep behavior disorder",
+    "ICD_9_CM": "327.42",
+    "ICD_10_CM": "G47.52"
+}, {
+    "Name": "Reactive attachment disorder",
+    "ICD_9_CM": "313.89",
+    "ICD_10_CM": "F94.1"
+}, {
+    "Name": "Relationship distress with spouse or intimate partner",
+    "ICD_9_CM": "V61.10",
+    "ICD_10_CM": "Z63.0"
+}, {
+    "Name": "Religious or spiritual problem",
+    "ICD_9_CM": "V62.89",
+    "ICD_10_CM": "Z65.8"
+}, {
+    "Name": "Restless legs syndrome",
+    "ICD_9_CM": "333.94",
+    "ICD_10_CM": "G25.81"
+}, {
+    "Name": "Rumination disorder",
+    "ICD_9_CM": "307.53",
+    "ICD_10_CM": "F98.21"
+}, {
+    "Name": "Schizoaffective disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Schizoaffective disorder, Bipolar type",
+    "ICD_9_CM": "295.7",
+    "ICD_10_CM": "F25.0"
+}, {
+    "Name": "Schizoaffective disorder, Depressive type",
+    "ICD_9_CM": "295.7",
+    "ICD_10_CM": "F25.1"
+}, {
+    "Name": "Schizoid personality disorder",
+    "ICD_9_CM": "301.2",
+    "ICD_10_CM": "F60.1"
+}, {
+    "Name": "Schizophrenia",
+    "ICD_9_CM": "295.9",
+    "ICD_10_CM": "F20.9"
+}, {
+    "Name": "Schizophreniform disorder",
+    "ICD_9_CM": "295.4",
+    "ICD_10_CM": "F20.81"
+}, {
+    "Name": "Schizotypal personality disorder",
+    "ICD_9_CM": "301.22",
+    "ICD_10_CM": "F21"
+}, {
+    "Name": "Sedative, hypnotic, or anxiolytic intoxication",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Sedative, hypnotic, or anxiolytic intoxication delirium",
+    "ICD_9_CM": "292.81",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Sedative, hypnotic, or anxiolytic intoxication delirium, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.121"
+}, {
+    "Name": "Sedative, hypnotic, or anxiolytic intoxication delirium, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.221"
+}, {
+    "Name": "Sedative, hypnotic, or anxiolytic intoxication delirium, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.921"
+}, {
+    "Name": "Sedative, hypnotic, or anxiolytic intoxication, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.129"
+}, {
+    "Name": "Sedative, hypnotic, or anxiolytic intoxication, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.229"
+}, {
+    "Name": "Sedative, hypnotic, or anxiolytic intoxication, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.929"
+}, {
+    "Name": "Sedative, hypnotic, or anxiolytic use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Sedative, hypnotic, or anxiolytic use disorder, Mild",
+    "ICD_9_CM": "305.4",
+    "ICD_10_CM": "F13.10"
+}, {
+    "Name": "Sedative, hypnotic, or anxiolytic use disorder, Moderate",
+    "ICD_9_CM": "304.1",
+    "ICD_10_CM": "F13.20"
+}, {
+    "Name": "Sedative, hypnotic, or anxiolytic use disorder, Severe",
+    "ICD_9_CM": "304.1",
+    "ICD_10_CM": "F13.20"
+}, {
+    "Name": "Sedative, hypnotic, or anxiolytic withdrawal",
+    "ICD_9_CM": "292",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Sedative, hypnotic, or anxiolytic withdrawal delirium",
+    "ICD_9_CM": "292",
+    "ICD_10_CM": "F13.231"
+}, {
+    "Name": "Sedative, hypnotic, or anxiolytic withdrawal, With perceptual disturbances",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.232"
+}, {
+    "Name": "Sedative, hypnotic, or anxiolytic withdrawal, Without perceptual disturbances",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.239"
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced anxiety disorder",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced anxiety disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.180"
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced anxiety disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.280"
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced anxiety disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.980"
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced bipolar and related disorder",
+    "ICD_9_CM": "292.84",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced bipolar and related disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.14"
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced bipolar and related disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.24"
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced bipolar and related disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.94"
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced delirium",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.921"
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced depressive disorder",
+    "ICD_9_CM": "292.84",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced depressive disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.14"
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced depressive disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.24"
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced depressive disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.94"
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced major neurocognitive disorder",
+    "ICD_9_CM": "292.82",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced major neurocognitive disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.27"
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced major neurocognitive disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.97"
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced mild neurocognitive disorder",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced mild neurocognitive disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.288"
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced mild neurocognitive disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.988"
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced psychotic disorder",
+    "ICD_9_CM": "292.9",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced psychotic disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.159"
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced psychotic disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.259"
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced psychotic disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.959"
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced sexual dysfunction",
+    "ICD_9_CM": "292.89",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced sexual dysfunction, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.181"
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced sexual dysfunction, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.281"
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced sexual dysfunction, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.981"
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced sleep disorder",
+    "ICD_9_CM": "292.85",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced sleep disorder, With mild use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.182"
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced sleep disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.282"
+}, {
+    "Name": "Sedative-, hypnotic-, or anxiolytic-induced sleep disorder, Without use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F13.982"
+}, {
+    "Name": "Selective mutism",
+    "ICD_9_CM": "313.23",
+    "ICD_10_CM": "F94.0"
+}, {
+    "Name": "Separation anxiety disorder",
+    "ICD_9_CM": "309.21",
+    "ICD_10_CM": "F93.0"
+}, {
+    "Name": "Sex counseling",
+    "ICD_9_CM": "V65.49",
+    "ICD_10_CM": "Z70.9"
+}, {
+    "Name": "Sexual masochism disorder",
+    "ICD_9_CM": "302.83",
+    "ICD_10_CM": "F65.51"
+}, {
+    "Name": "Sexual sadism disorder",
+    "ICD_9_CM": "302.84",
+    "ICD_10_CM": "F65.52"
+}, {
+    "Name": "Sibling relational problem",
+    "ICD_9_CM": "V61.8",
+    "ICD_10_CM": "Z62.891"
+}, {
+    "Name": "Sleep-related hypoventilation",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Social (pragmatic) communication disorder",
+    "ICD_9_CM": "315.39",
+    "ICD_10_CM": "F80.89"
+}, {
+    "Name": "Social anxiety disorder (social phobia)",
+    "ICD_9_CM": "300.23",
+    "ICD_10_CM": "F40.10"
+}, {
+    "Name": "Social exclusion or rejection",
+    "ICD_9_CM": "V62.4",
+    "ICD_10_CM": "Z60.4"
+}, {
+    "Name": "Somatic symptom disorder",
+    "ICD_9_CM": "300.82",
+    "ICD_10_CM": "F45.1"
+}, {
+    "Name": "Specific learning disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Specific learning disorder, With impairment in mathematics",
+    "ICD_9_CM": "315.1",
+    "ICD_10_CM": "F81.2"
+}, {
+    "Name": "Specific learning disorder, With impairment in reading",
+    "ICD_9_CM": "315",
+    "ICD_10_CM": "F81.0"
+}, {
+    "Name": "Specific learning disorder, With impairment in written expression",
+    "ICD_9_CM": "315.2",
+    "ICD_10_CM": "F81.81"
+}, {
+    "Name": "Specific phobia",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Specific phobia, Animal",
+    "ICD_9_CM": "300.29",
+    "ICD_10_CM": "F40.218"
+}, {
+    "Name": "Specific phobia, Blood-injection-injury",
+    "ICD_9_CM": "300.29",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Specific phobia, Fear of blood",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F40.230"
+}, {
+    "Name": "Specific phobia, Fear of injections and transfusions",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F40.231"
+}, {
+    "Name": "Specific phobia, Fear of injury",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F40.233"
+}, {
+    "Name": "Specific phobia, Fear of other medical care",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F40.232"
+}, {
+    "Name": "Specific phobia, Natural environment",
+    "ICD_9_CM": "300.29",
+    "ICD_10_CM": "F40.228"
+}, {
+    "Name": "Specific phobia, Other",
+    "ICD_9_CM": "300.29",
+    "ICD_10_CM": "F40.298"
+}, {
+    "Name": "Specific phobia, Situational",
+    "ICD_9_CM": "300.29",
+    "ICD_10_CM": "F40.248"
+}, {
+    "Name": "Speech sound disorder",
+    "ICD_9_CM": "315.39",
+    "ICD_10_CM": "F80.0"
+}, {
+    "Name": "Spouse or partner abuse, Psychological, Confirmed",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Spouse or partner abuse, Psychological, Confirmed, Initial encounter",
+    "ICD_9_CM": "995.82",
+    "ICD_10_CM": "T74.31XA"
+}, {
+    "Name": "Spouse or partner abuse, Psychological, Confirmed, Subsequent encounter",
+    "ICD_9_CM": "995.82",
+    "ICD_10_CM": "T74.31XD"
+}, {
+    "Name": "Spouse or partner abuse, Psychological, Suspected",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Spouse or partner abuse, Psychological, Suspected, Initial encounter",
+    "ICD_9_CM": "995.82",
+    "ICD_10_CM": "T76.31XA"
+}, {
+    "Name": "Spouse or partner abuse, Psychological, Suspected, Subsequent encounter",
+    "ICD_9_CM": "995.82",
+    "ICD_10_CM": "T76.31XD"
+}, {
+    "Name": "Spouse or partner neglect, Confirmed",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Spouse or partner neglect, Confirmed, Initial encounter",
+    "ICD_9_CM": "995.85",
+    "ICD_10_CM": "T74.01XA"
+}, {
+    "Name": "Spouse or partner neglect, Confirmed, Subsequent encounter",
+    "ICD_9_CM": "995.85",
+    "ICD_10_CM": "T74.01XD"
+}, {
+    "Name": "Spouse or partner neglect, Suspected",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Spouse or partner neglect, Suspected, Initial encounter",
+    "ICD_9_CM": "995.85",
+    "ICD_10_CM": "T76.01XA"
+}, {
+    "Name": "Spouse or partner neglect, Suspected, Subsequent encounter",
+    "ICD_9_CM": "995.85",
+    "ICD_10_CM": "T76.01XD"
+}, {
+    "Name": "Spouse or partner violence, Physical, Confirmed",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Spouse or partner violence, Physical, Confirmed, Initial encounter",
+    "ICD_9_CM": "995.81",
+    "ICD_10_CM": "T74.11XA"
+}, {
+    "Name": "Spouse or partner violence, Physical, Confirmed, Subsequent encounter",
+    "ICD_9_CM": "995.81",
+    "ICD_10_CM": "T74.11XD"
+}, {
+    "Name": "Spouse or partner Violence, Physical, Suspected",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Spouse or partner Violence, Physical, Suspected, Initial encounter",
+    "ICD_9_CM": "995.81",
+    "ICD_10_CM": "T76.11XA"
+}, {
+    "Name": "Spouse or partner Violence, Physical, Suspected, Subsequent encounter",
+    "ICD_9_CM": "995.81",
+    "ICD_10_CM": "T76.11XD"
+}, {
+    "Name": "Spouse or partner Violence, Sexual, Confirmed",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Spouse or partner Violence, Sexual, Confirmed, Initial encounter",
+    "ICD_9_CM": "995.83",
+    "ICD_10_CM": "T74.21XA"
+}, {
+    "Name": "Spouse or partner Violence, Sexual, Confirmed, Subsequent encounter",
+    "ICD_9_CM": "995.83",
+    "ICD_10_CM": "T74.21XD"
+}, {
+    "Name": "Spouse or partner Violence, Sexual, Suspected",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Spouse or partner Violence, Sexual, Suspected, Initial encounter",
+    "ICD_9_CM": "995.83",
+    "ICD_10_CM": "T76.21XA"
+}, {
+    "Name": "Spouse or partner Violence, Sexual, Suspected, Subsequent encounter",
+    "ICD_9_CM": "995.83",
+    "ICD_10_CM": "T76.21XD"
+}, {
+    "Name": "Stereotypic movement disorder",
+    "ICD_9_CM": "307.3",
+    "ICD_10_CM": "F98.4"
+}, {
+    "Name": "Stimulant intoxication",
+    "ICD_9_CM": "see specific substances",
+    "ICD_10_CM": "see specific substances"
+}, {
+    "Name": "Stimulant use disorder",
+    "ICD_9_CM": "see specific substances",
+    "ICD_10_CM": "see specific substances"
+}, {
+    "Name": "Stimulant withdrawal",
+    "ICD_9_CM": "see specific substances",
+    "ICD_10_CM": "see specific substances"
+}, {
+    "Name": "Substance intoxication delirium",
+    "ICD_9_CM": "see specific substances",
+    "ICD_10_CM": "see specific substances"
+}, {
+    "Name": "Substance intoxication delirium",
+    "ICD_9_CM": "see specific substances",
+    "ICD_10_CM": "see specific substances"
+}, {
+    "Name": "Substance withdrawal delirium",
+    "ICD_9_CM": "see specific substances",
+    "ICD_10_CM": "see specific substances"
+}, {
+    "Name": "Substance withdrawal delirium",
+    "ICD_9_CM": "see specific substances",
+    "ICD_10_CM": "see specific substances"
+}, {
+    "Name": "Substance/medication-induced anxiety disorder",
+    "ICD_9_CM": "see specific substances",
+    "ICD_10_CM": "see specific substances"
+}, {
+    "Name": "Substance/medication-induced bipolar and related disorder",
+    "ICD_9_CM": "see specific substances",
+    "ICD_10_CM": "see specific substances"
+}, {
+    "Name": "Substance/medication-induced depressive disorder",
+    "ICD_9_CM": "see specific substances",
+    "ICD_10_CM": "see specific substances"
+}, {
+    "Name": "Substance/medication-induced major or mild neurocognitive disorder",
+    "ICD_9_CM": "see specific substances",
+    "ICD_10_CM": "see specific substances"
+}, {
+    "Name": "Substance/medication-induced obsessive-compulsive and related disorder",
+    "ICD_9_CM": "see specific substances",
+    "ICD_10_CM": "see specific substances"
+}, {
+    "Name": "Substance/medication-induced psychotic disorder",
+    "ICD_9_CM": "see specific substances",
+    "ICD_10_CM": "see specific substances"
+}, {
+    "Name": "Substance/medication-induced sexual dysfunction",
+    "ICD_9_CM": "see specific substances",
+    "ICD_10_CM": "see specific substances"
+}, {
+    "Name": "Substance/medication-induced sleep disorder",
+    "ICD_9_CM": "see specific substances",
+    "ICD_10_CM": "see specific substances"
+}, {
+    "Name": "Tardive akathisia",
+    "ICD_9_CM": "333.99",
+    "ICD_10_CM": "G25.71"
+}, {
+    "Name": "Tardive dyskinesia",
+    "ICD_9_CM": "333.85",
+    "ICD_10_CM": "G24.01"
+}, {
+    "Name": "Tardive dystonia",
+    "ICD_9_CM": "333.72",
+    "ICD_10_CM": "G24.09"
+}, {
+    "Name": "Target of (perceived) adverse discrimination or persecution",
+    "ICD_9_CM": "V62.4",
+    "ICD_10_CM": "Z60.5"
+}, {
+    "Name": "Tobacco use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Tobacco use disorder, Mild",
+    "ICD_9_CM": "305.1",
+    "ICD_10_CM": "Z72.0"
+}, {
+    "Name": "Tobacco use disorder, Moderate",
+    "ICD_9_CM": "305.1",
+    "ICD_10_CM": "F17.200"
+}, {
+    "Name": "Tobacco use disorder, Severe",
+    "ICD_9_CM": "305.1",
+    "ICD_10_CM": "F17.200"
+}, {
+    "Name": "Tobacco withdrawal",
+    "ICD_9_CM": "292",
+    "ICD_10_CM": "F17.203"
+}, {
+    "Name": "Tobacco-induced sleep disorder",
+    "ICD_9_CM": "292.85",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Tobacco-induced sleep disorder, With moderate or severe use disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F17.208"
+}, {
+    "Name": "Tourette’s disorder",
+    "ICD_9_CM": "307.23",
+    "ICD_10_CM": "F95.2"
+}, {
+    "Name": "Transvestic disorder",
+    "ICD_9_CM": "302.3",
+    "ICD_10_CM": "F65.1"
+}, {
+    "Name": "Trichotillomania (hair-pulling disorder)",
+    "ICD_9_CM": "312.39",
+    "ICD_10_CM": "F63.3"
+}, {
+    "Name": "Unavailability or inaccessibility of health care facilities",
+    "ICD_9_CM": "V63.9",
+    "ICD_10_CM": "Z75.3"
+}, {
+    "Name": "Unavailability or inaccessibility of other helping agencies",
+    "ICD_9_CM": "V63.8",
+    "ICD_10_CM": "Z75.4"
+}, {
+    "Name": "Uncomplicated bereavement",
+    "ICD_9_CM": "V62.82",
+    "ICD_10_CM": "Z63.4"
+}, {
+    "Name": "Unspecified alcohol-related disorder",
+    "ICD_9_CM": "291.9",
+    "ICD_10_CM": "F10.99"
+}, {
+    "Name": "Unspecified amphetamine or other stimulant-related disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F15.99"
+}, {
+    "Name": "Unspecified anxiety disorder",
+    "ICD_9_CM": "300",
+    "ICD_10_CM": "F41.9"
+}, {
+    "Name": "Unspecified attention-deficit/hyperactivity disorder",
+    "ICD_9_CM": "314.01",
+    "ICD_10_CM": "F90.9"
+}, {
+    "Name": "Unspecified bipolar and related disorder",
+    "ICD_9_CM": "296.8",
+    "ICD_10_CM": "F31.9"
+}, {
+    "Name": "Unspecified caffeine-related disorder",
+    "ICD_9_CM": "292.9",
+    "ICD_10_CM": "F15.99"
+}, {
+    "Name": "Unspecified cannabis-related disorder",
+    "ICD_9_CM": "292.9",
+    "ICD_10_CM": "F12.99"
+}, {
+    "Name": "[Other symptoms involving nervous and musculoskeletal systems +] Unspecified catatonia",
+    "ICD_9_CM": "[781.99 +] 293.89",
+    "ICD_10_CM": "[R29.818 +] F06.1"
+}, {
+    "Name": "Unspecified cocaine-related disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": "F14.99"
+}, {
+    "Name": "Unspecified communication disorder",
+    "ICD_9_CM": "307.9",
+    "ICD_10_CM": "F80.9"
+}, {
+    "Name": "Unspecified delirium",
+    "ICD_9_CM": "780.09",
+    "ICD_10_CM": "R41.0"
+}, {
+    "Name": "Unspecified depressive disorder",
+    "ICD_9_CM": "311",
+    "ICD_10_CM": "F32.9"
+}, {
+    "Name": "Unspecified disruptive, impulse-control, and conduct disorder",
+    "ICD_9_CM": "312.9",
+    "ICD_10_CM": "F91.9"
+}, {
+    "Name": "Unspecified dissociative disorder",
+    "ICD_9_CM": "300.15",
+    "ICD_10_CM": "F44.9"
+}, {
+    "Name": "Unspecified elimination disorder",
+    "ICD_9_CM": "",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Unspecified elimination disorder, With fecal symptoms",
+    "ICD_9_CM": "787.6",
+    "ICD_10_CM": "R15.9"
+}, {
+    "Name": "Unspecified elimination disorder, With urinary symptoms",
+    "ICD_9_CM": "788.3",
+    "ICD_10_CM": "R32"
+}, {
+    "Name": "Unspecified feeding or eating disorder",
+    "ICD_9_CM": "307.5",
+    "ICD_10_CM": "F50.9"
+}, {
+    "Name": "Unspecified gender dysphoria",
+    "ICD_9_CM": "302.6",
+    "ICD_10_CM": "F64.9"
+}, {
+    "Name": "Unspecified hallucinogen-related disorder",
+    "ICD_9_CM": "292.9",
+    "ICD_10_CM": "F16.99"
+}, {
+    "Name": "Unspecified housing or economic problem",
+    "ICD_9_CM": "V60.9",
+    "ICD_10_CM": "Z59.9"
+}, {
+    "Name": "Unspecified hypersomnolence disorder",
+    "ICD_9_CM": "780.54",
+    "ICD_10_CM": "G47.10"
+}, {
+    "Name": "Unspecified inhalant-related disorder",
+    "ICD_9_CM": "292.9",
+    "ICD_10_CM": "F18.99"
+}, {
+    "Name": "Unspecified insomnia disorder",
+    "ICD_9_CM": "780.52",
+    "ICD_10_CM": "G47.00"
+}, {
+    "Name": "Unspecified intellectual disability (intellectual developmental disorder)",
+    "ICD_9_CM": "319",
+    "ICD_10_CM": "F79"
+}, {
+    "Name": "Unspecified mental disorder",
+    "ICD_9_CM": "300.9",
+    "ICD_10_CM": "F99"
+}, {
+    "Name": "Unspecified mental disorder due to another medical condition",
+    "ICD_9_CM": "294.9",
+    "ICD_10_CM": "F09"
+}, {
+    "Name": "Unspecified neurocognitive disorder",
+    "ICD_9_CM": "799.59",
+    "ICD_10_CM": "R41.9"
+}, {
+    "Name": "Unspecified neurodevelopmental disorder",
+    "ICD_9_CM": "315.9",
+    "ICD_10_CM": "F89"
+}, {
+    "Name": "Unspecified obsessive-compulsive and related disorder",
+    "ICD_9_CM": "300.3",
+    "ICD_10_CM": "F42"
+}, {
+    "Name": "Unspecified opioid-related disorder",
+    "ICD_9_CM": "292.9",
+    "ICD_10_CM": "F11.99"
+}, {
+    "Name": "Unspecified other (or unknown) substance-related disorder",
+    "ICD_9_CM": "292.9",
+    "ICD_10_CM": "F19.99"
+}, {
+    "Name": "Unspecified paraphilic disorder",
+    "ICD_9_CM": "302.9",
+    "ICD_10_CM": "F65.9"
+}, {
+    "Name": "Unspecified personality disorder",
+    "ICD_9_CM": "301.9",
+    "ICD_10_CM": "F60.9"
+}, {
+    "Name": "Unspecified phencyclidine-related disorder",
+    "ICD_9_CM": "292.9",
+    "ICD_10_CM": "F16.99"
+}, {
+    "Name": "Unspecified problem related to social environment",
+    "ICD_9_CM": "V62.9",
+    "ICD_10_CM": "Z60.9"
+}, {
+    "Name": "Unspecified problem related to unspecified psychosocial circumstances",
+    "ICD_9_CM": "V62.9",
+    "ICD_10_CM": "Z65.9"
+}, {
+    "Name": "Unspecified schizophrenia spectrum and other psychotic disorder",
+    "ICD_9_CM": "298.9",
+    "ICD_10_CM": "F29"
+}, {
+    "Name": "Unspecified sedative-, hypnotic-, or anxiolytic-related disorder",
+    "ICD_9_CM": "292.9",
+    "ICD_10_CM": "F13.99"
+}, {
+    "Name": "Unspecified sexual dysfunction",
+    "ICD_9_CM": "302.7",
+    "ICD_10_CM": "F52.9"
+}, {
+    "Name": "Unspecified sleep-wake disorder",
+    "ICD_9_CM": "780.59",
+    "ICD_10_CM": "G47.9"
+}, {
+    "Name": "Unspecified somatic symptom and related disorder",
+    "ICD_9_CM": "300.82",
+    "ICD_10_CM": "F45.9"
+}, {
+    "Name": "Unspecified stimulant-related disorder",
+    "ICD_9_CM": "292.9",
+    "ICD_10_CM": ""
+}, {
+    "Name": "Unspecified tic disorder",
+    "ICD_9_CM": "307.2",
+    "ICD_10_CM": "F95.9"
+}, {
+    "Name": "Unspecified tobacco-related disorder",
+    "ICD_9_CM": "292.9",
+    "ICD_10_CM": "F17.209"
+}, {
+    "Name": "Unspecified trauma- and stressor-related disorder",
+    "ICD_9_CM": "309.9",
+    "ICD_10_CM": "F43.9"
+}, {
+    "Name": "Upbringing away from parents",
+    "ICD_9_CM": "V61.8",
+    "ICD_10_CM": "Z62.29"
+}, {
+    "Name": "Victim of crime",
+    "ICD_9_CM": "V62.89",
+    "ICD_10_CM": "Z65.4"
+}, {
+    "Name": "Victim of terrorism or torture",
+    "ICD_9_CM": "V62.89",
+    "ICD_10_CM": "Z65.4"
+}, {
+    "Name": "Voyeuristic disorder",
+    "ICD_9_CM": "302.82",
+    "ICD_10_CM": "F65.3"
+}, {
+    "Name": "Wandering associated with a mental disorder",
+    "ICD_9_CM": "V40.31",
+    "ICD_10_CM": "Z91.83"
+}]

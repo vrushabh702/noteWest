@@ -1,0 +1,2750 @@
+[
+    {
+        "name": "Presenting Issue",
+        "key": "presentingIssue",
+        "child": [
+            {
+                "name": "Emotional",
+                "key": "emotional",
+                "type": "checkbox",
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "detachment",
+                            "key": "detachment",
+                            "type": "checkbox",
+                            "for": "normal",
+                            "child": [
+                                [
+                                    {
+                                        "name": "self reports",
+                                        "key": "selfReports",
+                                        "type": "checkbox",
+                                        "for": "normal"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "checkbox",
+                                        "for": "addnew"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "anxious symptoms",
+                            "key": "anxiousSymptoms",
+                            "type": "checkbox",
+                            "for": "normal",
+                            "child": [
+                                [
+                                    {
+                                        "name": "nervousness",
+                                        "key": "nervousness",
+                                        "type": "checkbox",
+                                        "for": "normal"
+                                    },
+                                    {
+                                        "name": "worrying",
+                                        "key": "worrying",
+                                        "type": "checkbox",
+                                        "for": "normal"
+                                    },
+                                    {
+                                        "name": "panic attacks",
+                                        "key": "panicAttacks",
+                                        "type": "checkbox",
+                                        "for": "normal"
+                                    },
+                                    {
+                                        "name": "difficulty sleeping",
+                                        "key": "difficultySleeping",
+                                        "type": "checkbox",
+                                        "for": "normal"
+                                    },
+                                    {
+                                        "name": "changes in eating",
+                                        "key": "changesInEating",
+                                        "type": "checkbox",
+                                        "for": "normal"
+                                    },
+                                    {
+                                        "name": "somatic symptoms",
+                                        "key": "somaticSymptoms",
+                                        "type": "checkbox",
+                                        "for": "normal"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "checkbox",
+                                        "for": "addnew"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "depressive symptoms",
+                            "key": "depressiveSymptoms",
+                            "type": "checkbox",
+                            "for": "normal",
+                            "child": [
+                                [
+                                    {
+                                        "name": "sadness",
+                                        "key": "sadness",
+                                        "type": "checkbox",
+                                        "for": "normal"
+                                    },
+                                    {
+                                        "name": "crying spells",
+                                        "key": "cryingSpells",
+                                        "type": "checkbox",
+                                        "for": "normal"
+                                    },
+                                    {
+                                        "name": "loss of enjoyment",
+                                        "key": "lossOfEnjoyment",
+                                        "type": "checkbox",
+                                        "for": "normal"
+                                    },
+                                    {
+                                        "name": "changes in weight/eating",
+                                        "key": "changesInWeightEating",
+                                        "type": "checkbox",
+                                        "for": "normal"
+                                    },
+                                    {
+                                        "name": "lethargy",
+                                        "key": "lethargy",
+                                        "type": "checkbox",
+                                        "for": "normal"
+                                    },
+                                    {
+                                        "name": "suicidal ideations",
+                                        "key": "suicidalIdeations",
+                                        "type": "checkbox",
+                                        "for": "normal"
+                                    },
+                                    {
+                                        "name": "disinterest",
+                                        "key": "disinterest",
+                                        "type": "checkbox",
+                                        "for": "normal"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "checkbox",
+                                        "for": "addnew"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "anger issues",
+                            "key": "angerIssues",
+                            "type": "checkbox",
+                            "for": "normal",
+                            "child": [
+                                [
+                                    {
+                                        "name": "anger outbursts",
+                                        "key": "angerOutbursts",
+                                        "type": "checkbox",
+                                        "for": "normal"
+                                    },
+                                    {
+                                        "name": "violence",
+                                        "key": "violence",
+                                        "type": "checkbox",
+                                        "for": "normal"
+                                    },
+                                    {
+                                        "name": "yelling",
+                                        "key": "yelling",
+                                        "type": "checkbox",
+                                        "for": "normal"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "checkbox",
+                                        "for": "addnew"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ]
+                ],
+                "notes": "",
+                "notesText": [
+                    {
+                        "text": "times",
+                        "show_text": false
+                    }
+                ],
+                "show_notes": true
+            },
+            {
+                "name": "Behavioral",
+                "key": "behavioral",
+                "type": "checkbox",
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "defiance",
+                            "key": "defiance",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "oppositional behaviors",
+                            "key": "oppositionalBehaviors",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "lying",
+                            "key": "lying",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "stealing",
+                            "key": "stealing",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "legal issues",
+                            "key": "legalIssues",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ]
+                ],
+                "notes": "",
+                "notesText": [
+                    {
+                        "text": "times",
+                        "show_text": false
+                    }
+                ],
+                "show_notes": true
+            },
+            {
+                "name": "Social",
+                "key": "social",
+                "type": "checkbox",
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "isolation",
+                            "key": "isolation",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "difficulty maintaining relationships",
+                            "key": "difficultyMaintainingRelationships",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "anxiety within relationships",
+                            "key": "anxietyWithinRelationships",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ]
+                ],
+                "notesText": [
+                    {
+                        "text": "times",
+                        "show_text": false
+                    }
+                ],
+                "notes": ""
+            },
+            {
+                "name": "Identity",
+                "key": "identity",
+                "type": "checkbox",
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "body dysphoria",
+                            "key": "bodyDysphoria",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "gender dysphoria",
+                            "key": "genderDysphoria",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "issues with sexuality",
+                            "key": "issuesWithSexuality",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "issues with self-esteem",
+                            "key": "issuesWithSelfEsteem",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ]
+                ],
+                "notesText": [
+                    {
+                        "text": "times",
+                        "show_text": false
+                    }
+                ],
+                "notes": ""
+            },
+            {
+                "name": "Adjustment",
+                "key": "adjustment",
+                "type": "checkbox",
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "changes in living situation",
+                            "key": "changesInLivingSituation",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "changes in family life",
+                            "key": "changesInFamilyLife",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "phase of life issues",
+                            "key": "phaseOfLifeIssues",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ]
+                ],
+                "notesText": [
+                    {
+                        "text": "times",
+                        "show_text": false
+                    }
+                ],
+                "notes": ""
+            },
+            {
+                "name": "Stressors",
+                "key": "stressors",
+                "type": "checkbox",
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "work",
+                            "key": "work",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "school",
+                            "key": "school",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "family",
+                            "key": "family",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "spouse",
+                            "key": "spouse",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "significant other",
+                            "key": "significantOther",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "relationships",
+                            "key": "relationships",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ]
+                ],
+                "notesText": [
+                    {
+                        "text": "times",
+                        "show_text": false
+                    }
+                ],
+                "notes": ""
+            },
+            {
+                "name": "Supports",
+                "key": "Supports",
+                "reported_by_assessment": true,
+                "type": "checkbox",
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "none",
+                            "key": "none",
+                            "for": "normal",
+                            "same_name": "noneLimitedSignificant",
+                            "type": "checkbox",
+                            "child": [
+                                [
+                                    {
+                                        "name": "family",
+                                        "key": "family",
+                                        "for": "normal",
+                                        "type": "checkbox"
+                                    },
+                                    {
+                                        "name": "friends",
+                                        "key": "friends",
+                                        "for": "normal",
+                                        "type": "checkbox"
+                                    },
+                                    {
+                                        "name": "spouse",
+                                        "key": "spouse",
+                                        "for": "normal",
+                                        "type": "checkbox"
+                                    },
+                                    {
+                                        "name": "significant other",
+                                        "key": "significantOther",
+                                        "for": "normal",
+                                        "type": "checkbox"
+                                    },
+                                    {
+                                        "name": "community",
+                                        "key": "community",
+                                        "for": "normal",
+                                        "type": "checkbox"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "checkbox",
+                                        "for": "addnew"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "limited",
+                            "key": "limited",
+                            "for": "normal",
+                            "same_name": "noneLimitedSignificant",
+                            "type": "checkbox",
+                            "child": [
+                                [
+                                    {
+                                        "name": "family",
+                                        "key": "family",
+                                        "for": "normal",
+                                        "type": "checkbox"
+                                    },
+                                    {
+                                        "name": "friends",
+                                        "key": "friends",
+                                        "for": "normal",
+                                        "type": "checkbox"
+                                    },
+                                    {
+                                        "name": "spouse",
+                                        "key": "spouse",
+                                        "for": "normal",
+                                        "type": "checkbox"
+                                    },
+                                    {
+                                        "name": "significant other",
+                                        "key": "significantOther",
+                                        "for": "normal",
+                                        "type": "checkbox"
+                                    },
+                                    {
+                                        "name": "community",
+                                        "key": "community",
+                                        "for": "normal",
+                                        "type": "checkbox"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "checkbox",
+                                        "for": "addnew"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "significant",
+                            "key": "significant",
+                            "for": "normal",
+                            "same_name": "noneLimitedSignificant",
+                            "type": "checkbox",
+                            "child": [
+                                [
+                                    {
+                                        "name": "family",
+                                        "key": "family",
+                                        "for": "normal",
+                                        "type": "checkbox"
+                                    },
+                                    {
+                                        "name": "friends",
+                                        "key": "friends",
+                                        "for": "normal",
+                                        "type": "checkbox"
+                                    },
+                                    {
+                                        "name": "spouse",
+                                        "key": "spouse",
+                                        "for": "normal",
+                                        "type": "checkbox"
+                                    },
+                                    {
+                                        "name": "significant other",
+                                        "key": "significantOther",
+                                        "for": "normal",
+                                        "type": "checkbox"
+                                    },
+                                    {
+                                        "name": "community",
+                                        "key": "community",
+                                        "for": "normal",
+                                        "type": "checkbox"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "checkbox",
+                                        "for": "addnew"
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                ],
+                "notesText": [
+                    {
+                        "text": "times",
+                        "show_text": false
+                    }
+                ],
+                "notes": ""
+            },
+            {
+                "name": "Hallucinations",
+                "key": "hallucinations",
+                "reported_by_assessment": true,
+                "type": "checkbox",
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "visual",
+                            "key": "visual",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "auditory",
+                            "key": "auditory",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "olfactory",
+                            "key": "olfactory",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "gustatory",
+                            "key": "gustatory",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "tactile",
+                            "key": "tactile",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ],
+                    [
+                        {
+                            "name": "frequencyTime",
+                            "key": "frequencyTime",
+                            "for": "inline-notes",
+                            "type": "checkbox",
+                            "start_text": "Frequency",
+                            "end_text": "Time per",
+                            "child": [
+                                [
+                                    {
+                                        "name": "day",
+                                        "key": "day",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "week",
+                                        "key": "week",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "month",
+                                        "key": "month",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "year",
+                                        "key": "year",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "radio",
+                                        "for": "addnew"
+                                    }
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "name": "from",
+                            "key": "from",
+                            "for": "inline-notes",
+                            "type": "radio",
+                            "same_name": "fromTo",
+                            "with_checkbox": true,
+                            "start_text": "from"
+                        },
+                        {
+                            "name": "to",
+                            "key": "to",
+                            "for": "inline-notes",
+                            "type": "text",
+                            "start_text": "to"
+                        },
+                        {
+                            "name": "beginning",
+                            "key": "beginning",
+                            "for": "inline-notes",
+                            "same_name": "fromTo",
+                            "with_checkbox": true,
+                            "type": "radio",
+                            "start_text": "beginning"
+                        }
+                    ]
+                ],
+                "notesText": [
+                    {
+                        "text": "times",
+                        "show_text": false
+                    }
+                ],
+                "notes": ""
+            },
+            {
+                "name": "Self-harm",
+                "key": "selfHarm",
+                "reported_by_assessment": true,
+                "type": "checkbox",
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "cutting",
+                            "key": "cutting",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "burning",
+                            "key": "burning",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "head-banding",
+                            "key": "head-banding",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ],
+                    [
+                        {
+                            "name": "frequencyTime",
+                            "key": "frequencyTime",
+                            "for": "inline-notes",
+                            "type": "text",
+                            "start_text": "Frequency",
+                            "end_text": "Time per",
+                            "child": [
+                                [
+                                    {
+                                        "name": "day",
+                                        "key": "day",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "week",
+                                        "key": "week",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "month",
+                                        "key": "month",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "year",
+                                        "key": "year",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "radio",
+                                        "for": "addnew"
+                                    }
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "name": "from",
+                            "key": "from",
+                            "for": "inline-notes",
+                            "type": "radio",
+                            "same_name": "fromTo",
+                            "with_checkbox": true,
+                            "start_text": "from"
+                        },
+                        {
+                            "name": "to",
+                            "key": "to",
+                            "for": "inline-notes",
+                            "type": "text",
+                            "start_text": "to"
+                        },
+                        {
+                            "name": "beginning",
+                            "key": "beginning",
+                            "for": "inline-notes",
+                            "type": "radio",
+                            "same_name": "fromTo",
+                            "with_checkbox": true,
+                            "start_text": "beginning"
+                        }
+                    ]
+                ],
+                "notesText": [
+                    {
+                        "text": "times",
+                        "show_text": false
+                    }
+                ],
+                "notes": ""
+            },
+            {
+                "name": "Substance use/abuse",
+                "key": "substanceUseAbuse",
+                "reported_by_assessment": true,
+                "type": "checkbox",
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "none reported",
+                            "key": "noneReported",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Alcohol",
+                            "key": "Alcohol",
+                            "for": "normal",
+                            "type": "checkbox",
+                            "child": [
+                                [
+                                    {
+                                        "name": "occasional",
+                                        "key": "occasional",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "frequent",
+                                        "key": "frequent",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "regular",
+                                        "key": "regular",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "former",
+                                        "key": "former",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "radio",
+                                        "for": "addnew"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "name": "Used From",
+                                        "key": "usedFrom",
+                                        "for": "inline-notes",
+                                        "same_name": "fromTo",
+                                        "with_checkbox": true,
+                                        "type": "radio",
+                                        "start_text": "Used From"
+                                    },
+                                    {
+                                        "name": "to",
+                                        "key": "to",
+                                        "for": "inline-notes",
+                                        "type": "text",
+                                        "start_text": "to"
+                                    },
+                                    {
+                                        "name": "beginning",
+                                        "key": "beginning",
+                                        "for": "inline-notes",
+                                        "same_name": "fromTo",
+                                        "with_checkbox": true,
+                                        "type": "radio",
+                                        "start_text": "beginning"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "Marijuana",
+                            "key": "Marijuana",
+                            "for": "normal",
+                            "type": "checkbox",
+                            "child": [
+                                [
+                                    {
+                                        "name": "occasional",
+                                        "key": "occasional",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "frequent",
+                                        "key": "frequent",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "regular",
+                                        "key": "regular",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "former",
+                                        "key": "former",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "radio",
+                                        "for": "addnew"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "name": "Used from",
+                                        "key": "usedFrom",
+                                        "for": "inline-notes",
+                                        "same_name": "fromTo",
+                                        "with_checkbox": true,
+                                        "type": "radio",
+                                        "start_text": "Used from"
+                                    },
+                                    {
+                                        "name": "to",
+                                        "key": "to",
+                                        "for": "inline-notes",
+                                        "type": "text",
+                                        "start_text": "to"
+                                    },
+                                    {
+                                        "name": "beginning",
+                                        "key": "beginning",
+                                        "for": "inline-notes",
+                                        "same_name": "fromTo",
+                                        "with_checkbox": true,
+                                        "type": "radio",
+                                        "start_text": "beginning"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "Opioids",
+                            "key": "Opioids",
+                            "for": "normal",
+                            "type": "checkbox",
+                            "child": [
+                                [
+                                    {
+                                        "name": "occasional",
+                                        "key": "occasional",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "frequent",
+                                        "key": "frequent",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "regular",
+                                        "key": "regular",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "former",
+                                        "key": "former",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "radio",
+                                        "for": "addnew"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "name": "Used from",
+                                        "key": "UsedFrom",
+                                        "for": "inline-notes",
+                                        "type": "radio",
+                                        "same_name": "fromTo",
+                                        "with_checkbox": true,
+                                        "start_text": "Used from"
+                                    },
+                                    {
+                                        "name": "to",
+                                        "key": "to",
+                                        "for": "inline-notes",
+                                        "type": "text",
+                                        "start_text": "to"
+                                    },
+                                    {
+                                        "name": "beginning",
+                                        "key": "beginning",
+                                        "same_name": "fromTo",
+                                        "with_checkbox": true,
+                                        "for": "inline-notes",
+                                        "type": "radio",
+                                        "start_text": "beginning"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "stimulants",
+                            "key": "stimulants",
+                            "for": "normal",
+                            "type": "checkbox",
+                            "child": [
+                                [
+                                    {
+                                        "name": "occasional",
+                                        "key": "occasional",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "frequent",
+                                        "key": "frequent",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "regular",
+                                        "key": "regular",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "former",
+                                        "key": "former",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "radio",
+                                        "for": "addnew"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "name": "Used from",
+                                        "key": "UsedFrom",
+                                        "for": "inline-notes",
+                                        "same_name": "UsedFrom",
+                                        "with_checkbox": true,
+                                        "type": "radio",
+                                        "start_text": "Used from"
+                                    },
+                                    {
+                                        "name": "to",
+                                        "key": "to",
+                                        "for": "inline-notes",
+                                        "type": "text",
+                                        "start_text": "to"
+                                    },
+                                    {
+                                        "name": "beginning",
+                                        "key": "beginning",
+                                        "for": "inline-notes",
+                                        "same_name": "UsedFrom",
+                                        "with_checkbox": true,
+                                        "type": "radio",
+                                        "start_text": "beginning"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "substanceUseAbuse_with_addnew": true,
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ]
+                ],
+                "notesText": [
+                    {
+                        "text": "times",
+                        "show_text": false
+                    }
+                ],
+                "notes": ""
+            },
+            {
+                "name": "ADLs",
+                "key": "adls",
+                "reported_by_assessment": true,
+                "type": "checkbox",
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "Eating",
+                            "key": "eating",
+                            "for": "normal",
+                            "type": "checkbox",
+                            "child": [
+                                [
+                                    {
+                                        "name": "appropriate",
+                                        "key": "appropriate",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "some impairment",
+                                        "key": "someImpairment",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "severe impairment",
+                                        "key": "severeImpairment",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "radio",
+                                        "for": "addnew"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "Bathing",
+                            "key": "bathing",
+                            "for": "normal",
+                            "type": "checkbox",
+                            "child": [
+                                [
+                                    {
+                                        "name": "appropriate",
+                                        "key": "appropriate",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "some impairment",
+                                        "key": "someImpairment",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "severe impairment",
+                                        "key": "severeImpairment",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "radio",
+                                        "for": "addnew"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "Dressing",
+                            "key": "dressing",
+                            "for": "normal",
+                            "type": "checkbox",
+                            "child": [
+                                [
+                                    {
+                                        "name": "appropriate",
+                                        "key": "appropriate",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "some impairment",
+                                        "key": "someImpairment",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "severe impairment",
+                                        "key": "severeImpairment",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "radio",
+                                        "for": "addnew"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "Toileting",
+                            "key": "toileting",
+                            "for": "normal",
+                            "type": "checkbox",
+                            "child": [
+                                [
+                                    {
+                                        "name": "appropriate",
+                                        "key": "appropriate",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "some impairment",
+                                        "key": "someImpairment",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "severe impairment",
+                                        "key": "severeImpairment",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "radio",
+                                        "for": "addnew"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "Transferring",
+                            "key": "transferring",
+                            "for": "normal",
+                            "type": "checkbox",
+                            "child": [
+                                [
+                                    {
+                                        "name": "appropriate",
+                                        "key": "appropriate",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "some impairment",
+                                        "key": "someImpairment",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "severe impairment",
+                                        "key": "severeImpairment",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "radio",
+                                        "for": "addnew"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "continence",
+                            "key": "continence",
+                            "for": "normal",
+                            "type": "checkbox",
+                            "child": [
+                                [
+                                    {
+                                        "name": "appropriate",
+                                        "key": "appropriate",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "some impairment",
+                                        "key": "someImpairment",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "severe impairment",
+                                        "key": "severeImpairment",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "radio",
+                                        "for": "addnew"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ]
+                ],
+                "notesText": [
+                    {
+                        "text": "times",
+                        "show_text": false
+                    }
+                ],
+                "notes": ""
+            },
+            {
+                "name": "Other",
+                "key": "other",
+                "type": "checkbox",
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "dissociations",
+                            "key": "dissociations",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "paranoia",
+                            "key": "paranoia",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "grief and loss",
+                            "key": "griefAndLoss",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ]
+                ],
+                "notesText": [
+                    {
+                        "text": "times",
+                        "show_text": false
+                    }
+                ],
+                "notes": ""
+            },
+            {
+                "name": "Symptoms are causing significant distress",
+                "key": "symptomsAreCausingSignificantDistress",
+                "reported_by_assessment": true,
+                "type": "checkbox",
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "occupational life",
+                            "key": "occupationalLife",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "personal life",
+                            "key": "personalLife",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "social life",
+                            "key": "socialLife",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ]
+                ],
+                "notesText": [
+                    {
+                        "text": "times",
+                        "show_text": false
+                    }
+                ],
+                "notes": ""
+            }
+        ]
+    },
+    {
+        "name": "Hxymptoms/Concerns",
+        "key": "historyOfSymptomsConcerns",
+        "child": [
+            {
+                "name": "Symptoms have been present",
+                "key": "symptomsHaveBeenPresent",
+                "type": "checkbox",
+                "reported_by_assessment": true,
+                "reported_by_position": 1,
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "around",
+                            "key": "around",
+                            "for": "inline-notes",
+                            "type": "text",
+                            "start_text": "around",
+                            "child": [
+                                [
+                                    {
+                                        "name": "day",
+                                        "key": "day",
+                                        "type": "radio",
+                                        "for": "normal"
+                                    },
+                                    {
+                                        "name": "week",
+                                        "key": "week",
+                                        "type": "radio",
+                                        "for": "normal"
+                                    },
+                                    {
+                                        "name": "month",
+                                        "key": "month",
+                                        "type": "radio",
+                                        "for": "normal"
+                                    },
+                                    {
+                                        "name": "year",
+                                        "key": "year",
+                                        "type": "radio",
+                                        "for": "normal"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "radio",
+                                        "for": "addnew"
+                                    }
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "name": "triggered by",
+                            "key": "triggeredBy",
+                            "for": "inline-notes",
+                            "type": "checkbox",
+                            "with_checkbox": true,
+                            "start_text": "triggred by"
+                        }
+                    ],
+                    [
+                        {
+                            "name": "seemingly untriggered",
+                            "key": "seeminglyUntriggered",
+                            "type": "checkbox",
+                            "for": "normal"
+                        }
+                    ],
+                    [
+                        {
+                            "name": "progressively worsened over time",
+                            "key": "progressivelyWorsenedOverTime",
+                            "type": "checkbox",
+                            "for": "normal"
+                        }
+                    ],
+                    [
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ]
+                ],
+                "notesText": [
+                    {
+                        "text": "",
+                        "show_text": false
+                    }
+                ],
+                "notes": ""
+            },
+            {
+                "name": "History of trauma",
+                "key": "historyOfTrauma",
+                "type": "checkbox",
+                "additional": true,
+                "additional_id": 2,
+                "reported_by_assessment": true,
+                "additional_with_reportedBy": true,
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "sexual",
+                            "key": "sexual",
+                            "type": "checkbox",
+                            "for": "normal"
+                        },
+                        {
+                            "name": "physical",
+                            "key": "physical",
+                            "type": "checkbox",
+                            "for": "normal"
+                        },
+                        {
+                            "name": "emotional",
+                            "key": "emotional",
+                            "type": "checkbox",
+                            "for": "normal"
+                        },
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ],
+                    [
+                        {
+                            "name": "from",
+                            "key": "from",
+                            "for": "inline-notes",
+                            "same_name": "fromOnAround",
+                            "with_checkbox": true,
+                            "type": "radio",
+                            "start_text": "from"
+                        },
+                        {
+                            "name": "toOr",
+                            "key": "toOr",
+                            "for": "inline-notes",
+                            "type": "text",
+                            "start_text": "to",
+                            "end_text": "or"
+                        },
+                        {
+                            "name": "on",
+                            "key": "on",
+                            "for": "inline-notes",
+                            "same_name": "fromOnAround",
+                            "with_checkbox": true,
+                            "type": "radio",
+                            "start_text": "on"
+                        }
+                    ],
+                    [
+                        {
+                            "name": "around",
+                            "key": "around",
+                            "for": "inline-notes",
+                            "same_name": "fromOnAround",
+                            "with_checkbox": true,
+                            "type": "radio",
+                            "start_text": "around"
+                        }
+                    ]
+                ],
+                "notesText": [
+                    {
+                        "text": "",
+                        "show_text": false
+                    }
+                ],
+                "notes": ""
+            },
+            {
+                "name": "Suicidal attempt",
+                "key": "SuicidalAttempt",
+                "type": "checkbox",
+                "reported_by_assessment": true,
+                "additional": true,
+                "additional_id": 1,
+                "additional_with_reportedBy": true,
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "on",
+                            "key": "on",
+                            "for": "inline-notes",
+                            "same_name": "onAroundByResultingIn",
+                            "with_checkbox": true,
+                            "type": "radio",
+                            "start_text": "on"
+                        },
+                        {
+                            "name": "around",
+                            "key": "around",
+                            "for": "inline-notes",
+                            "same_name": "onAroundByResultingIn",
+                            "with_checkbox": true,
+                            "type": "radio",
+                            "start_text": "around"
+                        }
+                    ],
+                    [
+                        {
+                            "name": "by",
+                            "key": "by",
+                            "for": "inline-notes",
+                            "same_name": "onAroundByResultingIn",
+                            "with_checkbox": true,
+                            "type": "checkbox",
+                            "start_text": "by"
+                        },
+                        {
+                            "name": "resultingIn",
+                            "key": "resultingIn",
+                            "for": "inline-notes",
+                            "same_name": "onAroundByResultingIn",
+                            "with_checkbox": true,
+                            "type": "checkbox",
+                            "start_text": "resulting in"
+                        }
+                    ]
+                ],
+                "notesText": [
+                    {
+                        "text": "",
+                        "show_text": false
+                    }
+                ],
+                "notes": ""
+            },
+            {
+                "name": "Treatment History",
+                "key": "treatmentHistory",
+                "type": "checkbox",
+                "reported_by_assessment": true,
+                "for": "normal",
+                "child": [
+                    [
+                        {
+                            "name": "counseling",
+                            "key": "counseling",
+                            "for": "normal",
+                            "type": "checkbox",
+                            "additional": true,
+                            "additional_id": 3,
+                            "child": [
+                                [
+                                    {
+                                        "name": "from",
+                                        "key": "from",
+                                        "for": "inline-notes",
+                                        "type": "text",
+                                        "start_text": "from",
+                                        "end_text":"(i.e. age 5 or 2014)"
+                                    },
+                                    {
+                                        "name": "to",
+                                        "key": "to",
+                                        "for": "inline-notes",
+                                        "type": "text",
+                                        "start_text": "to",
+                                        "end_text":"(i.e. age 10 or 2020)"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "name": "consistently",
+                                        "key": "consistently",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "inconsistently",
+                                        "key": "inconsistently",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "name": "progress",
+                                        "key": "progress",
+                                        "same_name": "progressMaintained",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "maintained symptoms",
+                                        "key": "maintainedSymptoms",
+                                        "for": "normal",
+                                        "same_name": "progressMaintained",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "a regression",
+                                        "key": "aRegression",
+                                        "for": "normal",
+                                        "same_name": "progressMaintained",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "varied results",
+                                        "key": "variedResults",
+                                        "for": "normal",
+                                        "same_name": "progressMaintained",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "radio",
+                                        "same_name": "progressMaintained",
+                                        "for": "addnew"
+                                    }
+                                ]
+                            ],
+                            "notesText": [
+                                {
+                                    "text": "",
+                                    "show_text": false
+                                }
+                            ],
+                            "notes": ""
+                        },
+                        {
+                            "name": "psychiatric/medication management",
+                            "key": "psychiatricMedicationManagement",
+                            "for": "normal",
+                            "type": "checkbox",
+                            "additional": true,
+                            "additional_id": 4,
+                            "child": [
+                                [
+                                    {
+                                        "name": "from",
+                                        "key": "from",
+                                        "for": "inline-notes",
+                                        "type": "text",
+                                        "start_text": "from",
+                                        "end_text":"(i.e. age 5 or 2014)"
+                                    },
+                                    {
+                                        "name": "to",
+                                        "key": "to",
+                                        "for": "inline-notes",
+                                        "type": "text",
+                                        "start_text": "to",
+                                        "end_text":"(i.e. age 10 or 2020)"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "name": "consistently",
+                                        "key": "consistently",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "inconsistently",
+                                        "key": "inconsistently",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "name": "progress",
+                                        "key": "progress",
+                                        "same_name": "progressMaintained",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "maintained symptoms",
+                                        "key": "maintainedSymptoms",
+                                        "for": "normal",
+                                        "same_name": "progressMaintained",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "a regression",
+                                        "key": "aRegression",
+                                        "for": "normal",
+                                        "same_name": "progressMaintained",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "varied results",
+                                        "key": "variedResults",
+                                        "for": "normal",
+                                        "same_name": "progressMaintained",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "radio",
+                                        "same_name": "progressMaintained",
+                                        "for": "addnew"
+                                    }
+                                ]
+                            ],
+                            "notesText": [
+                                {
+                                    "text": "",
+                                    "show_text": false
+                                }
+                            ],
+                            "notes": ""
+                        },
+                        {
+                            "name": "hospitalization",
+                            "key": "hospitalization",
+                            "for": "normal",
+                            "type": "checkbox",
+                            "additional": true,
+                            "additional_id": 5,
+                            "child": [
+                                [
+                                    {
+                                        "name": "from",
+                                        "key": "from",
+                                        "for": "inline-notes",
+                                        "type": "text",
+                                        "start_text": "from",
+                                        "end_text":"(i.e. age 5 or 2014)"
+                                    },
+                                    {
+                                        "name": "to",
+                                        "key": "to",
+                                        "for": "inline-notes",
+                                        "type": "text",
+                                        "start_text": "to",
+                                        "end_text":"(i.e. age 10 or 2020)"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "name": "consistently",
+                                        "key": "consistently",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "inconsistently",
+                                        "key": "inconsistently",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "name": "progress",
+                                        "key": "progress",
+                                        "same_name": "progressMaintained",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "maintained symptoms",
+                                        "key": "maintainedSymptoms",
+                                        "for": "normal",
+                                        "same_name": "progressMaintained",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "a regression",
+                                        "key": "aRegression",
+                                        "for": "normal",
+                                        "same_name": "progressMaintained",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "varied results",
+                                        "key": "variedResults",
+                                        "for": "normal",
+                                        "same_name": "progressMaintained",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "radio",
+                                        "same_name": "progressMaintained",
+                                        "for": "addnew"
+                                    }
+                                ]
+                            ],
+                            "notesText": [
+                                {
+                                    "text": "",
+                                    "show_text": false
+                                }
+                            ],
+                            "notes": ""
+                        },
+                        {
+                            "name": "Other",
+                            "key": "other",                            
+                            "for": "inline-notes",
+                            "type": "checkbox",                            
+                            "with_checkbox": true,                            
+                            "additional": true,
+                            "additional_id": 6,
+                            "child": [
+                                [
+                                    {
+                                        "name": "from",
+                                        "key": "from",
+                                        "for": "inline-notes",
+                                        "type": "text",
+                                        "start_text": "from"
+                                    },
+                                    {
+                                        "name": "to",
+                                        "key": "to",
+                                        "for": "inline-notes",
+                                        "type": "text",
+                                        "start_text": "to"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "name": "consistently",
+                                        "key": "consistently",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "inconsistently",
+                                        "key": "inconsistently",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "name": "progress",
+                                        "key": "progress",
+                                        "same_name": "progressMaintained",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "maintained symptoms",
+                                        "key": "maintainedSymptoms",
+                                        "for": "normal",
+                                        "same_name": "progressMaintained",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "a regression",
+                                        "key": "aRegression",
+                                        "for": "normal",
+                                        "same_name": "progressMaintained",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "varied results",
+                                        "key": "variedResults",
+                                        "for": "normal",
+                                        "same_name": "progressMaintained",
+                                        "type": "radio"
+                                    }                                    
+                                ]
+                            ],
+                            "notesText": [
+                                {
+                                    "text": "",
+                                    "show_text": false,
+                                    "prefix_name": "s"
+                                }
+                            ],
+                            "notes": ""
+                        },
+                        {
+                            "name": "no history of treatment",
+                            "key": "noHistoryOfTreatment",
+                            "for": "normal",
+                            "type": "checkbox"
+                        }
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Medical Issues/Somatic Complaints",
+        "key": "medicalIssuesSomaticComplaints",
+        "child": [
+            {
+                "name": "Medical Issues",
+                "key": "medicalIssues",
+                "for": "normal",
+                "reported_by_assessment": true,
+                "type": "checkbox",
+                "child": [
+                    [
+                        {
+                            "name": "Diabetes",
+                            "key": "diabetes",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "Asthma",
+                            "key": "asthma",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "Fibromyalgia",
+                            "key": "fibromyalgia",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "no medical issues",
+                            "key": "noMedicalIssues",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ]
+                ],
+                "notesText": [
+                    {
+                        "text": "",
+                        "show_text": false
+                    }
+                ],
+                "notes": ""
+            },
+            {
+                "name": "Somatic complaints",
+                "key": "SomaticComplaints",
+                "for": "normal",
+                "reported_by_assessment": true,
+                "type": "checkbox",
+                "child": [
+                    [
+                        {
+                            "name": "no somatic complaints",
+                            "key": "noSomaticComplaints",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "headaches",
+                            "key": "headaches",
+                            "for": "normal",
+                            "type": "checkbox",
+                            "child": [
+                                [
+                                    {
+                                        "name": "constant",
+                                        "key": "constant",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "frequent",
+                                        "key": "frequent",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "occasional",
+                                        "key": "occasional",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "rare",
+                                        "key": "rare",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "radio",
+                                        "for": "addnew"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "stomach aches",
+                            "key": "stomachAches",
+                            "for": "normal",
+                            "type": "checkbox",
+                            "child": [
+                                [
+                                    {
+                                        "name": "constant",
+                                        "key": "constant",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "frequent",
+                                        "key": "frequent",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "occasional",
+                                        "key": "occasional",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "rare",
+                                        "key": "rare",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "radio",
+                                        "for": "addnew"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "body aches",
+                            "key": "bodyAches",
+                            "for": "normal",
+                            "type": "checkbox",
+                            "child": [
+                                [
+                                    {
+                                        "name": "constant",
+                                        "key": "constant",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "frequent",
+                                        "key": "frequent",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "occasional",
+                                        "key": "occasional",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "rare",
+                                        "key": "rare",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "radio",
+                                        "for": "addnew"
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "for": "addnew",
+                            "addnew_child": [[
+                                {
+                                    "name": "constant",
+                                    "key": "constant",
+                                    "for": "normal",
+                                    "type": "radio"
+                                },
+                                {
+                                    "name": "frequent",
+                                    "key": "frequent",
+                                    "for": "normal",
+                                    "type": "radio"
+                                },
+                                {
+                                    "name": "occasional",
+                                    "key": "occasional",
+                                    "for": "normal",
+                                    "type": "radio"
+                                },
+                                {
+                                    "name": "rare",
+                                    "key": "rare",
+                                    "for": "normal",
+                                    "type": "radio"
+                                },
+                                {
+                                    "name": "add new",
+                                    "key": "add-new",
+                                    "type": "radio",
+                                    "for": "addnew"
+                                }
+                            ]]
+                        }
+                    ]
+                ],
+                "notesText": [
+                    {
+                        "text": "",
+                        "show_text": false
+                    }
+                ],
+                "notes": ""
+            }
+        ]
+    },
+    {
+        "name": "Medication",
+        "key": "medication",
+        "child": [
+            {
+                "name": "Current",
+                "key": "current",
+                "for": "normal",
+                "reported_by_assessment": true,
+                "type": "radio",
+                "child": [
+                    [
+                        {
+                            "name": "Prozac",
+                            "key": "prozac",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "Lexapro",
+                            "key": "lexapro",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "Zoloft",
+                            "key": "zoloft",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "no current medication",
+                            "key": "noCurrentMedication",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ]
+                ],
+                "notesText": [
+                    {
+                        "text": "",
+                        "show_text": false
+                    }
+                ],
+                "notes": ""
+            },
+            {
+                "name": "History",
+                "key": "history",
+                "for": "normal",
+                "reported_by_assessment": true,
+                "type": "radio",
+                "child": [
+                    [
+                        {
+                            "name": "Prozac",
+                            "key": "prozac",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "Lexapro",
+                            "key": "lexapro",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "Zoloft",
+                            "key": "zoloft",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "no history of medication",
+                            "key": "noHistoryOfMedication",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ]
+                ],
+                "notesText": [
+                    {
+                        "text": "",
+                        "show_text": false
+                    }
+                ],
+                "notes": ""
+            }
+        ]
+    },
+    {
+        "name": "Family History of Mental Illness or Substance Abuse",
+        "key": "familyHistoryOfMentalIllnessOrSubstanceAbuse",
+        "child": [
+            {
+                "name": "Substance Abuse",
+                "key": "substanceAbuse",
+                "for": "normal",
+                "reported_by_assessment": true,
+                "type": "checkbox",
+                "child": [
+                    [
+                        {
+                            "name": "Anxiety",
+                            "key": "anxiety",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "Depression",
+                            "key": "depression",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "ADHD",
+                            "key": "adhd",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "Substance abuse",
+                            "key": "substanceAbuse",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "for": "addnew",
+                            "same_name": "first"
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Mother",
+                            "key": "mother",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "father",
+                            "key": "father",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "sibling",
+                            "key": "sibling",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "grandparent",
+                            "key": "grandparent",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "child",
+                            "key": "child",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "for": "addnew",
+                            "same_name": ""
+                        }
+                    ]
+                ],
+                "notesText": [
+                    {
+                        "text": "",
+                        "show_text": false
+                    }
+                ],
+                "notes": ""
+            }
+        ]
+    },
+    {
+        "name": "Recommendations",
+        "key": "recommendations",
+        "child": [
+            {
+                "name": "Benefit from",
+                "key": "benefitFrom",
+                "for": "normal",
+                "type": "checkbox",
+                "child": [
+                    [
+                        {
+                            "name": "regular",
+                            "key": "regular",
+                            "for": "normal",
+                            "type": "radio"
+                        },
+                        {
+                            "name": "weekly",
+                            "key": "weekly",
+                            "for": "normal",
+                            "type": "radio"
+                        },
+                        {
+                            "name": "bi-weekly",
+                            "key": "biWeekly",
+                            "for": "normal",
+                            "type": "radio"
+                        },
+                        {
+                            "name": "monthly",
+                            "key": "monthly",
+                            "for": "normal",
+                            "type": "radio"
+                        },
+                        {
+                            "name": "occasional",
+                            "key": "occasional",
+                            "for": "normal",
+                            "type": "radio"
+                        },
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "radio",
+                            "for": "addnew"
+                        },
+                        {
+                            "name": "sessions with therapist",
+                            "key": "sessionsWithTherapist",
+                            "type": "text",
+                            "for": "inline-text"
+                        }
+                    ],
+                    [
+                        {
+                            "name": "to work on",
+                            "key": "toWorkOn",
+                            "for": "radio-group",
+                            "type": "text",
+                            "child": [
+                                [
+                                    {
+                                        "name": "current issues",
+                                        "key": "currentIssues",
+                                        "for": "normal",
+                                        "type": "checkbox"
+                                    },
+                                    {
+                                        "name": "processing issues from past",
+                                        "key": "processingIssuesFromPast",
+                                        "for": "normal",
+                                        "type": "checkbox"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "checkbox",
+                                        "for": "addnew"
+                                    }
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Ongoing",
+                            "key": "ongoing",
+                            "for": "normal",
+                            "type": "checkbox",
+                            "child": [
+                                [
+                                    {
+                                        "name": "meetings",
+                                        "key": "meetings",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "sessions",
+                                        "key": "sessions",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "appointments",
+                                        "key": "appointments",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "radio",
+                                        "for": "addnew"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "name": "with",
+                                        "key": "with",
+                                        "for": "inline-notes",
+                                        "type": "checkbox",
+                                        "same_name": "with",
+                                        "with_checkbox": true,
+                                        "start_text": "with"
+                                    },
+                                    {
+                                        "name": "for",
+                                        "key": "for",
+                                        "for": "inline-notes",
+                                        "type": "checkbox",
+                                        "same_name": "for",
+                                        "with_checkbox": true,
+                                        "start_text": "for"
+                                    }
+                                ]
+                            ]
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Scheduling",
+                            "key": "scheduling",
+                            "for": "normal",
+                            "type": "checkbox",
+                            "child": [
+                                [
+                                    {
+                                        "name": "meeting",
+                                        "key": "meeting",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "sessions",
+                                        "key": "sessions",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "appointment",
+                                        "key": "appointment",
+                                        "for": "normal",
+                                        "type": "radio"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "radio",
+                                        "for": "addnew"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "name": "with",
+                                        "key": "with",
+                                        "for": "inline-notes",
+                                        "type": "checkbox",
+                                        "same_name": "with",
+                                        "with_checkbox": true,
+                                        "start_text": "with"
+                                    },
+                                    {
+                                        "name": "for",
+                                        "key": "for",
+                                        "for": "inline-notes",
+                                        "type": "checkbox",
+                                        "same_name": "for",
+                                        "with_checkbox": true,
+                                        "start_text": "for"
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                ],
+                "notesText": [
+                    {
+                        "text": "times",
+                        "show_text": false
+                    }
+                ],
+                "notes": ""
+            },
+            {
+                "name": "Safety Plan",
+                "key": "safetyPlan",
+                "for": "normal",
+                "type": "checkbox",
+                "child": [
+                    [
+                        {
+                            "name": "put in place",
+                            "key": "putInPlace",
+                            "for": "normal",
+                            "type": "checkbox"
+                        },
+                        {
+                            "name": "add new",
+                            "key": "add-new",
+                            "type": "checkbox",
+                            "for": "addnew"
+                        }
+                    ],
+                    [
+                        {
+                            "name": "reviewed with",
+                            "key": "reviewedWith",
+                            "for": "normal",
+                            "type": "checkbox",
+                            "child": [
+                                [
+                                    {
+                                        "name": "client",
+                                        "key": "client",
+                                        "for": "normal",
+                                        "type": "checkbox"
+                                    },
+                                    {
+                                        "name": "family",
+                                        "key": "family",
+                                        "for": "normal",
+                                        "type": "checkbox"
+                                    },
+                                    {
+                                        "name": "add new",
+                                        "key": "add-new",
+                                        "type": "checkbox",
+                                        "for": "addnew"
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                ],
+                "notesText": [
+                    {
+                        "text": "times",
+                        "show_text": false
+                    }
+                ],
+                "notes": ""
+            }
+        ]
+    }
+]

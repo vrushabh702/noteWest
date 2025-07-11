@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Reported By",
+        "key": "reportedBy",
+        "for": "radio-group",
+        "type": "text",
+        "child": [
+            [
+                {
+                    "name": "client",
+                    "key": "client",
+                    "for": "normal",
+                    "type": "radio"
+                },
+                {
+                    "name": "client’s guardian",
+                    "key": "clientsGuardian",
+                    "for": "normal",
+                    "type": "radio"
+                },
+                {
+                    "name": "client’s parent",
+                    "key": "clientsParent",
+                    "for": "normal",
+                    "type": "radio"
+                },
+                {
+                    "name": "client and client’s parent",
+                    "key": "clientAndClientsParent",
+                    "for": "normal",
+                    "type": "radio"
+                },
+                {
+                    "name": "add new",
+                    "key": "add-new",
+                    "type": "radio",  
+                    "for": "addnew"
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+em.error {
+    color: red !important;
+    font-style: normal;
+    font-weight: 600;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.profile-text {
+    width: 150px;
+    height: 150px;
+    background: #eceaea;
+    border-radius: 10px;
+}
+
+.profile-text p {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 150px;
+    color: #017EAD !important;
+    font-size: 55px;
+    font-weight: bolder !important;
+}
+
+.header-profile-img {
+    width: 70px;
+    height: 40px;
+    background: #000000;
+    border-radius: 10px;
+}
+
+
+.header-profile-img p {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 40px;
+    color: white !important;
+    font-weight: bolder !important;
+}
+
+.login_loader {
+    width: 28%;
+    position: absolute;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.statementComponent__div::-webkit-scrollbar-thumb,
+#registerForm .tandc::-webkit-scrollbar-thumb {
+    background-color:  #017EAD !important;
+    border-radius: 6px;
+}
+.end_text{
+    font-style: italic;
+    color: gray;
+    padding-left: 1rem;
+}
